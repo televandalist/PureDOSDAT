@@ -1,0 +1,54 @@
+name: Build open-PR DAT preview
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: puredos-pr-preview
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out fork workflow branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Save merge script outside working tree
+        run: cp scripts/merge_prs.py "$RUNNER_TEMP/merge_prs.py"
+      - name: Fetch upstream main
+        run: |
+          git remote add upstream https://github.com/PureDOS/DAT.git
+          git fetch --no-tags upstream main
+      - name: Start clean preview from upstream
+        run: |
+          git checkout -B pr-preview upstream/main
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Apply PR XML entries
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python "$RUNNER_TEMP/merge_prs.py"
+      - name: Write job summary
+        if: always()
+        run: |
+          if [ -f pr-preview-summary.md ]; then cat pr-preview-summary.md >> "$GITHUB_STEP_SUMMARY"; fi
+      - name: Upload conflict reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-preview-report
+          path: |
+            pr-preview-report.json
+            pr-preview-summary.md
+          if-no-files-found: ignore
+      - name: Publish preview branch
+        run: |
+          git add -A -- '*.xml' 'unverified/*.xml' 'pr-preview-report.json' 'pr-preview-summary.md'
+          if ! git diff --cached --quiet; then
+            git commit -m 'Build DAT preview from upstream open PRs'
+          fi
+          git push origin HEAD:refs/heads/pr-preview --force
