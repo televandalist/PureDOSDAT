@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Conservative three-way, game-entry-aware preview merge for PureDOS DATs."""
+"""Chronological three-way, game-entry-aware preview merge for PureDOS DATs."""
 import argparse
 import copy
 import json
@@ -117,7 +117,7 @@ def write(path, data):
         p.write_bytes(data)
 
 
-def process(base, head, path, report):
+def process(base, head, path, report, owners, pr_number):
     old, incoming = blob(base, path), blob(head, path)
     current = Path(path).read_bytes() if Path(path).exists() else None
     if old == incoming:
@@ -152,15 +152,20 @@ def process(base, head, path, report):
         present = canonical(c[1].get(key)) if c else None
         if present == after:
             continue
-        if present != before:
-            report['conflicts'].append({'file': path, 'entry': key[1], 'reason': 'same entry changed differently or name collision'})
+        owner_key = (path, key)
+        if present != before and owner_key not in owners:
+            report['conflicts'].append({'file': path, 'entry': key[1], 'reason': 'differs from PR base and was not changed by an earlier processed PR; skipped to protect upstream'})
             continue
+        if present != before and owner_key in owners:
+            report['overrides'].append({'file': path, 'entry': key[1], 'previous_pr': owners[owner_key], 'winning_pr': pr_number})
         changes[key] = b[1].get(key)
     if changes:
         try:
             result = replace_entries(current, changes)
             write(path, result)
             report['applied'] += len(changes)
+            for key in changes:
+                owners[(path, key)] = pr_number
         except (ValueError, ET.ParseError, UnicodeError) as exc:
             report['conflicts'].append({'file': path, 'entry': '(file)', 'reason': f'could not safely rewrite XML: {exc}'})
 
@@ -181,29 +186,35 @@ def main():
             prs.extend(json.load(resp))
             link = resp.headers.get('Link', '')
             url = next((x.split(';')[0].strip(' <>') for x in link.split(',') if 'rel="next"' in x), None)
-    report = {'upstream': UPSTREAM, 'prs': [], 'conflicts': [], 'applied': 0}
+    report = {'upstream': UPSTREAM, 'ordering': 'PR head commit timestamp (oldest first), then PR number', 'prs': [], 'conflicts': [], 'overrides': [], 'applied': 0}
+    owners = {}
+    queued = []
     for pr in prs:
         n = pr['number']
-        entry = {'number': n, 'title': pr['title'], 'url': pr['html_url'], 'applied_entries': 0, 'conflicts': 0}
-        before_applied, before_conflicts = report['applied'], len(report['conflicts'])
         fetch = git('fetch', '--no-tags', 'upstream', f'refs/pull/{n}/head:refs/remotes/upstream/pr-{n}', check=False)
         if fetch.returncode:
             report['conflicts'].append({'file': '(PR)', 'entry': str(n), 'reason': f'fetch failed: {fetch.stderr.strip()[:300]}'})
+            continue
+        head = f'refs/remotes/upstream/pr-{n}'
+        timestamp = git('show', '-s', '--format=%cI', head).stdout.strip()
+        queued.append((timestamp, n, pr, head))
+    for timestamp, n, pr, head in sorted(queued, key=lambda x: (x[0], x[1])):
+        entry = {'number': n, 'title': pr['title'], 'url': pr['html_url'], 'head_commit_date': timestamp, 'applied_entries': 0, 'conflicts': 0, 'overrides': 0}
+        before_applied, before_conflicts, before_overrides = report['applied'], len(report['conflicts']), len(report['overrides'])
+        base_result = git('merge-base', 'upstream/main', head, check=False)
+        if base_result.returncode:
+            report['conflicts'].append({'file': '(PR)', 'entry': str(n), 'reason': 'cannot find merge base'})
         else:
-            head = f'refs/remotes/upstream/pr-{n}'
-            base_result = git('merge-base', 'upstream/main', head, check=False)
-            if base_result.returncode:
-                report['conflicts'].append({'file': '(PR)', 'entry': str(n), 'reason': 'cannot find merge base'})
-            else:
-                base = base_result.stdout.strip()
-                paths = git('diff', '--name-only', '--diff-filter=ACDMRT', base, head).stdout.splitlines()
-                for path in paths:
-                    if relevant(path):
-                        process(base, head, path, report)
+            base = base_result.stdout.strip()
+            paths = git('diff', '--name-only', '--diff-filter=ACDMRT', base, head).stdout.splitlines()
+            for path in paths:
+                if relevant(path):
+                    process(base, head, path, report, owners, n)
         entry['applied_entries'] = report['applied'] - before_applied
         entry['conflicts'] = len(report['conflicts']) - before_conflicts
+        entry['overrides'] = len(report['overrides']) - before_overrides
         report['prs'].append(entry)
-        print(f"PR #{n}: {entry['applied_entries']} applied, {entry['conflicts']} conflicts", flush=True)
+        print(f"PR #{n} ({timestamp}): {entry['applied_entries']} applied, {entry['overrides']} overrides, {entry['conflicts']} conflicts", flush=True)
     # Final validation of every relevant XML, including files not changed by PRs.
     report['invalid_files'] = []
     for path in Path('.').glob('*.xml'):
@@ -216,9 +227,12 @@ def main():
     Path(args.report).write_text(json.dumps(report, indent=2) + '\n')
     with open('pr-preview-summary.md', 'w') as f:
         f.write(f"# PureDOS PR preview\n\nOpen PRs examined: {len(prs)}  \nEntries/files applied: {report['applied']}  \nConflicts: {len(report['conflicts'])}  \nInvalid XML files: {len(report['invalid_files'])}\n\n")
-        f.write('| PR | Applied | Conflicts |\n|---|---:|---:|\n')
+        f.write('| PR | Head commit date | Applied | Overrides | Conflicts |\n|---|---|---:|---:|---:|\n')
         for item in report['prs']:
-            f.write(f"| [#{item['number']}]({item['url']}) | {item['applied_entries']} | {item['conflicts']} |\n")
+            f.write(f"| [#{item['number']}]({item['url']}) | {item['head_commit_date']} | {item['applied_entries']} | {item['overrides']} | {item['conflicts']} |\n")
+        f.write('\n## Chronological overrides\n\n')
+        for x in report['overrides']:
+            f.write(f"- `{x['file']}` / `{x['entry']}`: PR #{x['winning_pr']} superseded PR #{x['previous_pr']}\n")
         f.write('\n## Conflicts\n\n')
         for x in report['conflicts']:
             f.write(f"- `{x['file']}` / `{x['entry']}`: {x['reason']}\n")
