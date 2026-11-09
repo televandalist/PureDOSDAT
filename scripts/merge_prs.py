@@ -8,7 +8,7 @@ from pathlib import Path
 import re
 import subprocess
 import sys
-import xml.etree.ElementTree as ET
+from lxml import etree as ET
 
 UPSTREAM = 'PureDOS/DAT'
 ENTRY_TAGS = {'game', 'machine'}
@@ -31,13 +31,22 @@ def relevant(path):
     return p.suffix.lower() == '.xml' and (len(p.parts) == 1 or (len(p.parts) == 2 and p.parts[0].lower() == 'unverified'))
 
 
+class NoExternalEntities(ET.Resolver):
+    def resolve(self, url, public_id, context):
+        raise ValueError(f'external XML entity is not allowed: {url}')
+
+
+def xml_parser():
+    parser = ET.XMLParser(resolve_entities=True, load_dtd=False, no_network=True,
+                          huge_tree=True, remove_blank_text=False)
+    parser.resolvers.add(NoExternalEntities())
+    return parser
+
+
 def parse(data):
     if data is None:
         return None
-    # Reject DTD/entity declarations; these are unnecessary for DAT entries.
-    if re.search(rb'<!\s*(DOCTYPE|ENTITY)\b', data, re.I):
-        raise ValueError('DTD/entity declaration is unsupported')
-    root = ET.fromstring(data)
+    root = ET.fromstring(data, parser=xml_parser())
     if root.tag != 'datafile':
         raise ValueError(f'expected <datafile>, got <{root.tag}>')
     entries = {}
@@ -49,6 +58,14 @@ def parse(data):
             raise ValueError(f'missing or duplicate game/machine name: {key}')
         entries[key] = child
     return root, entries
+
+
+def doctype_for_entries(data):
+    # Capture an internal DTD subset, including its entity declarations.
+    # Do not import an external SYSTEM/PUBLIC identifier.
+    text = data.decode('utf-8-sig')
+    match = re.search(r'<!DOCTYPE\s+datafile\s*\[([\s\S]*?)\]\s*>', text, re.I)
+    return '<!DOCTYPE datafile [' + match.group(1) + ']>' if match else ''
 
 
 def canonical(node):
@@ -68,10 +85,11 @@ def replace_entries(original, changes):
     rx = re.compile(r'(?P<indent>^[ \t]*)<(?P<tag>game|machine)\b[^>]*>.*?^[ \t]*</(?P=tag)>[ \t]*(?:\r?\n|$)', re.M | re.S)
     spans = []
     found = set()
+    doctype = doctype_for_entries(original)
     for m in rx.finditer(text):
         try:
-            node = ET.fromstring(m.group(0).strip())
-        except ET.ParseError as exc:
+            node = ET.fromstring((doctype + "\n" + m.group(0).strip()).encode("utf-8"), parser=xml_parser())
+        except (ET.XMLSyntaxError, ValueError) as exc:
             raise ValueError(f'cannot isolate entry block: {exc}') from exc
         key = (node.tag, node.get('name'))
         if key in found:
@@ -104,7 +122,7 @@ def replace_entries(original, changes):
 def serialize_entry(node, indent, newline):
     el = copy.deepcopy(node)
     ET.indent(el, space='  ')
-    s = ET.tostring(el, encoding='unicode', short_empty_elements=True)
+    s = ET.tostring(el, encoding='unicode')
     return ''.join(indent + line + newline for line in s.splitlines())
 
 
@@ -126,7 +144,7 @@ def process(base, head, path, report, owners, pr_number):
         a = parse(old)
         b = parse(incoming)
         c = parse(current)
-    except (ValueError, ET.ParseError) as exc:
+    except (ValueError, ET.XMLSyntaxError) as exc:
         report['conflicts'].append({'file': path, 'entry': '(file)', 'reason': f'XML validation: {exc}'})
         return
     if incoming is None or old is None:
@@ -166,7 +184,7 @@ def process(base, head, path, report, owners, pr_number):
             report['applied'] += len(changes)
             for key in changes:
                 owners[(path, key)] = pr_number
-        except (ValueError, ET.ParseError, UnicodeError) as exc:
+        except (ValueError, ET.XMLSyntaxError, UnicodeError) as exc:
             report['conflicts'].append({'file': path, 'entry': '(file)', 'reason': f'could not safely rewrite XML: {exc}'})
 
 
@@ -219,11 +237,11 @@ def main():
     report['invalid_files'] = []
     for path in Path('.').glob('*.xml'):
         try: parse(path.read_bytes())
-        except (ValueError, ET.ParseError) as exc: report['invalid_files'].append({'file': str(path), 'error': str(exc)})
+        except (ValueError, ET.XMLSyntaxError) as exc: report['invalid_files'].append({'file': str(path), 'error': str(exc)})
     if Path('unverified').exists():
         for path in Path('unverified').glob('*.xml'):
             try: parse(path.read_bytes())
-            except (ValueError, ET.ParseError) as exc: report['invalid_files'].append({'file': str(path), 'error': str(exc)})
+            except (ValueError, ET.XMLSyntaxError) as exc: report['invalid_files'].append({'file': str(path), 'error': str(exc)})
     Path(args.report).write_text(json.dumps(report, indent=2) + '\n')
     with open('pr-preview-summary.md', 'w') as f:
         f.write(f"# PureDOS PR preview\n\nOpen PRs examined: {len(prs)}  \nEntries/files applied: {report['applied']}  \nConflicts: {len(report['conflicts'])}  \nInvalid XML files: {len(report['invalid_files'])}\n\n")
