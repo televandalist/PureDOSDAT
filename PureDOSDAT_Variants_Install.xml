@@ -1053,24 +1053,16 @@
 		</rom>
 	</game>
 	<game name="Sid Meier's Civilization (1991) (MPS Labs) (Installation).dosz">
-		<description>Sid Meier's Civilization</description>
-		<comment>v474.04 3.5" floppy release</comment>
-		<year>1991</year>
-		<developer>MPS Labs</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.img" size="1474560" crc="1bb37ea8" md5="c3b2b01d5b35e1bb42b9006abc28389d" sha1="5e52568cafa2038d241cc728f9b07e9b97d30c14"/>
-		<rom name="disk2.img" size="1474560" crc="1e1cbaf8" md5="a888d1f6983f13e99948db19146762aa" sha1="ea0e8799b8678b5f8c0ae3ccf853827f9e1f921b"/>
+	  <description>Sid Meier's Civilization</description>
+	  <year>1991</year>
+	  <developer>MPS Labs</developer>
+	  <variant>Installation</variant>
+	  <comment>v474.04 3.5" floppy release</comment>
+	  <link type="media">https://www.goodolddays.net/en/diskimages/?id=1439</link>
+	  <rom name="disk1.img" size="1474560" crc="1bb37ea8" md5="c3b2b01d5b35e1bb42b9006abc28389d" sha1="5e52568cafa2038d241cc728f9b07e9b97d30c14"/>
+	  <rom name="disk2.img" size="1474560" crc="1e1cbaf8" md5="a888d1f6983f13e99948db19146762aa" sha1="ea0e8799b8678b5f8c0ae3ccf853827f9e1f921b"/>
 	</game>
-	<game name="Sid Meier's Colonization (1994) (MPS Labs) (Installation, v2.25).dosz">
-		<description>Sid Meier's Colonization</description>
-		<comment>European CD-ROM re-release</comment>
-		<year>1994</year>
-		<developer>MPS Labs</developer>
-		<variant>Installation, v2.25</variant>
-		<rom name="Sid Meier's Colonization (Europe) (En,Fr,De) (Rerelease).chd" size="59104512" crc="6ff5acac" md5="ed43df0b966de8944799722dca0d1268" sha1="4e02ed0af815d380da331624c542d3d57dc25d26">
-			<track number="1" type="MODE1_RAW" frames="24132" pregap="0" duration="05:21:57" size="56758464" crc="854b6737" md5="1dd27943431d88d96d0df47baaf6d9a0" sha1="3e020778aa2e6bd89f6a3186e3be73a963ab619b" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
+		
 	<game name="Sid Meier's Covert Action (1990) (MPS Labs) (Installation).dosz">
 		<description>Sid Meier's Covert Action</description>
 		<year>1990</year>
@@ -1081,120 +1073,109 @@
 		<rom name="disk2.img" size="737280" crc="539b8b32" md5="1b7a2cc7231d0772b6f1d7a48b9b4006" sha1="f320cb73477418deafe4eeba887985ea96de485e"/>
 	</game>
 	<game name="Sid Meier's Railroad Tycoon (1990) (MPS Labs) (Installation).dosz">
-		<description>Sid Meier's Railroad Tycoon</description>
-		<comment>v455.03 1995 re-release CD</comment>
-		<year>1990</year>
-		<developer>MPS Labs</developer>
-		<variant>Installation</variant>
-		<rom name="Sid Meier's Railroad Tycoon (USA) (Rerelease).chd" size="112666752" crc="e5160b67" md5="66ef6b6837d23cb29605760786ec5f37" sha1="2618fe210659460a54dcdc0aa1a725360e932fe0">
-			<track number="1" type="MODE1_RAW" frames="46008" pregap="0" duration="10:13:33" size="108210816" crc="256548cb" md5="1cda6c4279533aa29514af69580987e1" sha1="7a6ba155ae31fe39e2396ab67e5798108b7f8a8d" in_zeros="1" out_zeros="0"/>
-		</rom>
+	  <description>Sid Meier's Railroad Tycoon</description>
+	  <year>1990</year>
+	  <developer>MPS Labs</developer>
+	  <variant>Installation</variant>
+	  <comment>v455.03 1995 re-release CD</comment>
+	  <link type="media">https://redump.info/disc/86388</link>
+	  <rom name="Sid Meier's Railroad Tycoon (USA) (Rerelease).chd" size="112666752" crc="e5160b67" md5="66ef6b6837d23cb29605760786ec5f37" sha1="2618fe210659460a54dcdc0aa1a725360e932fe0">
+	    <track number="1" type="MODE1_RAW" frames="46008" pregap="0" duration="10:13:33" size="108210816" crc="256548cb" md5="1cda6c4279533aa29514af69580987e1" sha1="7a6ba155ae31fe39e2396ab67e5798108b7f8a8d" in_zeros="1" out_zeros="0"/>
+	  </rom>
 	</game>
+		
 	<game name="SimAnt (1991) (Maxis) (Installation).dosz">
-		<description>SimAnt</description>
-		<comment>Two v1.08 3.5" floppy disks</comment>
-		<year>1991</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="data.img" size="737280" crc="8bb95ed3" md5="b06610fd24172756a2cff7fb2b97e60f" sha1="645a03ee24ff564ab027620f00a0ab37a00fb41f"/>
-		<rom name="install.img" size="737280" crc="a70ec01f" md5="9c2cd15b85cb056f2148fb0d34249b88" sha1="0f4f26dbd9303cbff96c9f21b6c1bec8866acd1f"/>
+	  <description>SimAnt</description>
+	  <year>1991</year>
+	  <developer>Maxis</developer>
+	  <variant>Installation</variant>
+	  <comment>Two v1.08 3.5" floppy disks</comment>
+	  <link type="media">https://www.goodolddays.net/en/diskimages/?id=535</link>
+	  <rom name="data.img" size="737280" crc="8bb95ed3" md5="b06610fd24172756a2cff7fb2b97e60f" sha1="645a03ee24ff564ab027620f00a0ab37a00fb41f"/>
+	  <rom name="install.img" size="737280" crc="a70ec01f" md5="9c2cd15b85cb056f2148fb0d34249b88" sha1="0f4f26dbd9303cbff96c9f21b6c1bec8866acd1f"/>
 	</game>
+		
 	<game name="SimAnt (1991) (Maxis) (Installation, 5.25 Inch).dosz">
-		<description>SimAnt</description>
-		<comment>Four v1.08 5.25" floppy disks</comment>
-		<year>1991</year>
-		<developer>Maxis</developer>
-		<variant>Installation, 5.25 Inch</variant>
-		<rom name="data.img" size="368640" crc="e4f60677" md5="17d0e06bcd077fb5ab036e9cf121877a" sha1="59319ce8ad2a8ac3b4ee374a5d8255f28347d9a6"/>
-		<rom name="install.img" size="368640" crc="5e92d840" md5="5e0fc7e6f2490bb35357894e6c4ec03b" sha1="6f6c0b277f863629c8939384815c6a4de450c6f6"/>
-		<rom name="prgdata.img" size="368640" crc="b759b84b" md5="c66ae30df5bee80ab4ef1fde05162370" sha1="9da114568b5de7080086fa0fa419995b8ae931a1"/>
-		<rom name="program.img" size="368640" crc="0d34f94d" md5="7c1f7983989b98f7522d8730df21a0bc" sha1="18b5912774a28dfd64793468f174b2c020d58f6b"/>
+	  <description>SimAnt</description>
+	  <year>1991</year>
+	  <developer>Maxis</developer>
+	  <variant>Installation, 5.25 Inch</variant>
+	  <comment>Four v1.08 5.25" floppy disks</comment>
+	  <link type="media">https://www.goodolddays.net/en/diskimages/?id=536</link>
+	  <rom name="data.img" size="368640" crc="e4f60677" md5="17d0e06bcd077fb5ab036e9cf121877a" sha1="59319ce8ad2a8ac3b4ee374a5d8255f28347d9a6"/>
+	  <rom name="install.img" size="368640" crc="5e92d840" md5="5e0fc7e6f2490bb35357894e6c4ec03b" sha1="6f6c0b277f863629c8939384815c6a4de450c6f6"/>
+	  <rom name="prgdata.img" size="368640" crc="b759b84b" md5="c66ae30df5bee80ab4ef1fde05162370" sha1="9da114568b5de7080086fa0fa419995b8ae931a1"/>
+	  <rom name="program.img" size="368640" crc="0d34f94d" md5="7c1f7983989b98f7522d8730df21a0bc" sha1="18b5912774a28dfd64793468f174b2c020d58f6b"/>
 	</game>
+		
 	<game name="SimCity (1989) (Maxis) (Installation).dosz">
-		<description>SimCity</description>
-		<comment>v1.07 3.5" floppy disk</comment>
-		<year>1989</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.img" size="737280" crc="3c572a40" md5="59679b378c22dc1502fe4a0eaf343364" sha1="d2b26ed8f7456930d8a05ed4354b3746f9a68215"/>
+	  <description>SimCity</description>
+	  <year>1989</year>
+	  <developer>Maxis</developer>
+	  <variant>Installation</variant>
+	  <comment>v1.07 3.5" floppy disk</comment>
+	  <link type="media">https://www.goodolddays.net/en/diskimages/?id=36</link>
+	  <rom name="disk1.img" size="737280" crc="3c572a40" md5="59679b378c22dc1502fe4a0eaf343364" sha1="d2b26ed8f7456930d8a05ed4354b3746f9a68215"/>
 	</game>
-	<game name="SimCity 2000 Special Edition (1994) (Maxis) (Installation).dosz">
-		<description>SimCity 2000 Special Edition</description>
-		<comment>USA v1.1 CD-ROM</comment>
-		<year>1994</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="SimCity 2000 Special Edition (USA) (Rerelease) (1998-04-14).chd" size="233695872" crc="4694fb10" md5="03f849bb69b650a833ee26cc6b0b8f73" sha1="f717280ecadc80bf2cf2dbecd50b99483174a24c">
-			<track number="1" type="MODE1_RAW" frames="95433" pregap="0" duration="21:12:33" size="224458416" crc="b30cca9d" md5="51680bae5680f7de339a9645a5b01ff4" sha1="272e44bfbe15ab5f00bc3d9ee2671cbf8f55e487" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
-	<game name="SimCity Classic (1992) (Maxis) (Installation).dosz">
-		<description>SimCity Classic</description>
-		<comment>Two 3.5" v2.0 floppy disks</comment>
-		<year>1992</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.img" size="737280" crc="40e80233" md5="db2b5cd7be99c3b4b46ec25247b95f07" sha1="6fc894f9e8abb25e1429d6df9aea93abfdc3c670" date="2009-10-14 00:15:24"/>
-		<rom name="disk2.img" size="737280" crc="83292905" md5="810d1ecb875aecbe69e8aef67c3c707a" sha1="6512895b53e3132195b8e7b0d18391188d08ee13" date="2009-10-14 00:16:02"/>
-	</game>
-	<game name="SimCity Enhanced CD-ROM (1993) (Maxis) (Installation).dosz">
-		<description>SimCity Enhanced CD-ROM</description>
-		<comment>Europe White Label CD-ROM</comment>
-		<year>1993</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="SimCity Enhanced CD-ROM (Europe) (Rev 1).chd" size="505286784" crc="07df0e33" md5="5f6e216293898ba485572f0a7b106e29" sha1="137fa1aa71d85164ee5655e0593366a2a58672cc">
-			<track number="1" type="MODE1_RAW" frames="206360" pregap="0" duration="45:51:35" size="485358720" crc="5da0acf6" md5="14833d5ea16c5ff53fea7b84797c16b0" sha1="ee00caa3c2cbdea6a01d57a1b2eabe17c454083c" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
+		
 	<game name="SimEarth - The Living Planet (1990) (Maxis) (Installation).dosz">
-		<description>SimEarth: The Living Planet</description>
-		<comment>Two v1.05 3.5" floppy disks</comment>
-		<year>1990</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.img" size="737280" crc="c7d6d1eb" md5="580c7f6bd63fcb9ed104f7aad632b194" sha1="54735ac00a1dc45347d6988e6da6c06cd4f0d2af"/>
-		<rom name="disk2.img" size="737280" crc="41a57486" md5="f7454636d1cbee4b38fbca981b4e0f4e" sha1="b8041bfdd085aeee7a7917c33545bdf92a920d41"/>
+	  <description>SimEarth: The Living Planet</description>
+	  <year>1990</year>
+	  <developer>Maxis</developer>
+	  <variant>Installation</variant>
+	  <comment>Two v1.05 3.5" floppy disks</comment>
+	  <link type="media">https://puredos.github.io/dat-browser/?/SimEarth-+The+Living+Planet+v1.5+(1993)(Maxis+Software+Inc.)+%5BIMA%5D%5B720k%5D</link>
+	  <rom name="disk1.img" size="737280" crc="c7d6d1eb" md5="580c7f6bd63fcb9ed104f7aad632b194" sha1="54735ac00a1dc45347d6988e6da6c06cd4f0d2af"/>
+	  <rom name="disk2.img" size="737280" crc="41a57486" md5="f7454636d1cbee4b38fbca981b4e0f4e" sha1="b8041bfdd085aeee7a7917c33545bdf92a920d41"/>
 	</game>
+		
 	<game name="SimEarth - The Living Planet (1990) (Maxis) (Installation, 5.25 Inch).dosz">
-		<description>SimEarth: The Living Planet</description>
-		<comment>Four v1.05 5.25" floppy disks</comment>
-		<year>1990</year>
-		<developer>Maxis</developer>
-		<variant>Installation, 5.25 Inch</variant>
-		<rom name="disk1.img" size="368640" crc="2c85da86" md5="3b6d9e37755b7cf3dd9b459cf7f15464" sha1="41b0aca1f8a60d644fc0a92d7f56c0d2701241d9"/>
-		<rom name="disk2.img" size="368640" crc="79f6ecd1" md5="f23bb08a6cb5af91fb553c83f8200a2a" sha1="8c9c407e618af3eb829fd4186c08899e16f754fd"/>
-		<rom name="disk3.img" size="368640" crc="9f3a566e" md5="e5f3a89727f502498604bcceffcb388e" sha1="4ea63651b989abc8acd532d55634c8d1bbabeed4"/>
-		<rom name="disk4.img" size="368640" crc="f841aec6" md5="b46a6c3a336a6279e52de68bad090c46" sha1="0f79efa3ea5f8f1ffff4379217a4dbb9d343b368"/>
+	  <description>SimEarth: The Living Planet</description>
+	  <year>1990</year>
+	  <developer>Maxis</developer>
+	  <variant>Installation, 5.25 Inch</variant>
+	  <comment>Four v1.05 5.25" floppy disks</comment>
+	  <link type="media">https://puredos.github.io/dat-browser/?/SimEarth-+The+Living+Planet+v1.5+(1993)(Maxis+Software+Inc.)+%5BIMA%5D%5B360k%5D</link>
+	  <rom name="disk1.img" size="368640" crc="2c85da86" md5="3b6d9e37755b7cf3dd9b459cf7f15464" sha1="41b0aca1f8a60d644fc0a92d7f56c0d2701241d9"/>
+	  <rom name="disk2.img" size="368640" crc="79f6ecd1" md5="f23bb08a6cb5af91fb553c83f8200a2a" sha1="8c9c407e618af3eb829fd4186c08899e16f754fd"/>
+	  <rom name="disk3.img" size="368640" crc="9f3a566e" md5="e5f3a89727f502498604bcceffcb388e" sha1="4ea63651b989abc8acd532d55634c8d1bbabeed4"/>
+	  <rom name="disk4.img" size="368640" crc="f841aec6" md5="b46a6c3a336a6279e52de68bad090c46" sha1="0f79efa3ea5f8f1ffff4379217a4dbb9d343b368"/>
 	</game>
+		
 	<game name="SimFarm (1993) (Maxis) (Installation).dosz">
-		<description>SimFarm</description>
-		<comment>Two v1.01 3.5" floppy disks</comment>
-		<year>1993</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.img" size="737280" crc="8470750c" md5="7dabfbc4434a81553320855a1b2757a0" sha1="e094f36fb88a6d2ff5a756bb28aebc0fffae58b5"/>
-		<rom name="disk2.img" size="737280" crc="d4027037" md5="01341a08a792079d33a64b2655a98de9" sha1="3f3df9edac83f14b785a2884803f5932b966924b"/>
+	  <description>SimFarm</description>
+	  <year>1993</year>
+	  <developer>Maxis</developer>
+	  <variant>Installation</variant>
+	  <comment>Two v1.01 3.5" floppy disks</comment>
+	  <link type="media">https://www.goodolddays.net/en/diskimages/?id=543</link>
+	  <rom name="disk1.img" size="737280" crc="8470750c" md5="7dabfbc4434a81553320855a1b2757a0" sha1="e094f36fb88a6d2ff5a756bb28aebc0fffae58b5"/>
+	  <rom name="disk2.img" size="737280" crc="d4027037" md5="01341a08a792079d33a64b2655a98de9" sha1="3f3df9edac83f14b785a2884803f5932b966924b"/>
 	</game>
+		
 	<game name="SimIsle - Missions in the Rainforest (1995) (Intelligent Games) (Installation).dosz">
-		<description>SimIsle: Missions in the Rainforest</description>
-		<comment>2001 Europe re-release CD-ROM</comment>
-		<year>1995</year>
-		<developer>Intelligent Games</developer>
-		<variant>Installation</variant>
-		<rom name="SimIsle - Missions in the Rainforest (Europe) (Rerelease) (2001-08-03).chd" size="430299648" crc="470f48a6" md5="61aa3c58d6d46383b04fb6fd57f54972" sha1="5e92a1529e063bb3842b85e9a8f6f3506ea6aeab">
-			<track number="1" type="MODE1_RAW" frames="175731" pregap="0" duration="39:03:06" size="413319312" crc="b4231eff" md5="0adc2193c86fb47fdae05f6836bcbc94" sha1="2c1fec502304661ae7d077eb15455b5b57f21a8e" in_zeros="1" out_zeros="0"/>
-		</rom>
+	  <description>SimIsle: Missions in the Rainforest</description>
+	  <year>1995</year>
+	  <developer>Intelligent Games</developer>
+	  <variant>Installation</variant>
+	  <comment>2001 Europe re-release CD-ROM</comment>
+	  <link type="media">https://redump.info/disc/28408</link>
+	  <rom name="SimIsle - Missions in the Rainforest (Europe) (Rerelease) (2001-08-03).chd" size="430299648" crc="470f48a6" md5="61aa3c58d6d46383b04fb6fd57f54972" sha1="5e92a1529e063bb3842b85e9a8f6f3506ea6aeab">
+	    <track number="1" type="MODE1_RAW" frames="175731" pregap="0" duration="39:03:06" size="413319312" crc="b4231eff" md5="0adc2193c86fb47fdae05f6836bcbc94" sha1="2c1fec502304661ae7d077eb15455b5b57f21a8e" in_zeros="1" out_zeros="0"/>
+	  </rom>
 	</game>
+		
 	<game name="SimLife (1992) (Maxis) (Installation).dosz">
-		<description>SimLife</description>
-		<comment>Two v1.04d 3.5" floppy disks</comment>
-		<year>1992</year>
-		<developer>Maxis</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.img" size="737280" crc="556b2f2a" md5="6b75ff1fee923f110c6ca9e03d23b47a" sha1="1cf04bf2331d61609f6098f1f6a221ebfc7db9a6"/>
-		<rom name="disk2.img" size="737280" crc="563567c3" md5="447da2d4face4d929a97ed20e60051ef" sha1="52136319b14c6e232de6402cb002127244ccce37"/>
+	  <description>SimLife</description>
+	  <year>1992</year>
+	  <developer>Maxis</developer>
+	  <variant>Installation</variant>
+	  <comment>Two v1.04d 3.5" floppy disks</comment>
+	  <link type="media">https://www.goodolddays.net/en/diskimages/?id=3034</link>
+	  <rom name="disk1.img" size="737280" crc="556b2f2a" md5="6b75ff1fee923f110c6ca9e03d23b47a" sha1="1cf04bf2331d61609f6098f1f6a221ebfc7db9a6"/>
+	  <rom name="disk2.img" size="737280" crc="563567c3" md5="447da2d4face4d929a97ed20e60051ef" sha1="52136319b14c6e232de6402cb002127244ccce37"/>
 	</game>
+		
 	<game name="SimRefinery (1992) (Maxis) (Installation).dosz">
 		<description>SimRefinery</description>
 		<year>1992</year>
@@ -1397,23 +1378,24 @@
 		</rom>
 	</game>
 	<game name="Warcraft - Orcs &amp; Humans (1994) (Blizzard Entertainment) (Installation).dosz">
-		<description>Warcraft: Orcs &amp; Humans</description>
-		<year>1994</year>
-		<developer>Blizzard Entertainment</developer>
-		<variant>Installation</variant>
-		<comment>v1.22h</comment>
-		<link type="media">http://redump.org/disc/35137/</link>
-		<rom name="Warcraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13).chd" size="582173568" crc="b8b3c879" md5="c26ff4b7eea501508043b9b5d731f4e9" sha1="4dc9030e0546bb73ac1617c307a4aa61f7e45805">
-			<track number="1" type="MODE1_RAW" frames="133450" pregap="0" duration="29:39:25" size="313874400" crc="aaad48f1" md5="6dc5d021bf0271517184ced84863355b" sha1="12821639d94417a48f39ab2a9b8486368a19c6bc" in_zeros="1" out_zeros="0"/>
-			<track number="2" type="AUDIO" frames="3719" pregap="150" duration="00:49:44" size="8747088" crc="b5bac361" md5="89a5ce631415f746af14d45f87e6f1b8" sha1="65478801fcd0f568279573a2f4537f4d6c65ffb3" in_zeros="371986" out_zeros="1057211"/>
-			<track number="3" type="AUDIO" frames="18885" pregap="0" duration="04:11:60" size="44417520" crc="2dae0380" md5="1193e467a96b63c7209189e6c2fca676" sha1="fec7d31b5e51e0bb64c3555e3cd1c7712b6c1e1f" in_zeros="20358" out_zeros="1055138"/>
-			<track number="4" type="AUDIO" frames="17017" pregap="0" duration="03:46:67" size="40023984" crc="a882a224" md5="c7f2b90d76dd00b11c5c54e85b153b1e" sha1="23ca65b79223af51fa817da66d8997678a63c903" in_zeros="20194" out_zeros="1059727"/>
-			<track number="5" type="AUDIO" frames="16663" pregap="0" duration="03:42:13" size="39191376" crc="9d96c69e" md5="809d34a4bb4ec11d9cb7d2612c33f523" sha1="8399957949918994b00cc55492ac5e9802700781" in_zeros="21250" out_zeros="1058329"/>
-			<track number="6" type="AUDIO" frames="17201" pregap="0" duration="03:49:26" size="40456752" crc="6df9cb0b" md5="f6fdecb195495f4361e4fd10cb1ec814" sha1="d1e61e0b770de2ab523c66b7f9b2c83c194ce34e" in_zeros="19714" out_zeros="1060757"/>
-			<track number="7" type="AUDIO" frames="16352" pregap="0" duration="03:38:02" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a" in_zeros="21266" out_zeros="1073089"/>
-			<track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
-		</rom>
+	  <description>Warcraft: Orcs &amp; Humans</description>
+	  <year>1994</year>
+	  <developer>Blizzard Entertainment</developer>
+	  <variant>Installation</variant>
+	  <comment>v1.22h</comment>
+	  <link type="media">http://redump.info/disc/35137/</link>
+	  <rom name="Warcraft - Orcs &amp; Humans (USA) (Rerelease) (1996-10-13).chd" size="582173568" crc="b8b3c879" md5="c26ff4b7eea501508043b9b5d731f4e9" sha1="4dc9030e0546bb73ac1617c307a4aa61f7e45805">
+	    <track number="1" type="MODE1_RAW" frames="133450" pregap="0" duration="29:39:25" size="313874400" crc="aaad48f1" md5="6dc5d021bf0271517184ced84863355b" sha1="12821639d94417a48f39ab2a9b8486368a19c6bc" in_zeros="1" out_zeros="0"/>
+	    <track number="2" type="AUDIO" frames="3719" pregap="150" duration="00:49:44" size="8747088" crc="b5bac361" md5="89a5ce631415f746af14d45f87e6f1b8" sha1="65478801fcd0f568279573a2f4537f4d6c65ffb3" in_zeros="371986" out_zeros="1057211"/>
+	    <track number="3" type="AUDIO" frames="18885" pregap="0" duration="04:11:60" size="44417520" crc="2dae0380" md5="1193e467a96b63c7209189e6c2fca676" sha1="fec7d31b5e51e0bb64c3555e3cd1c7712b6c1e1f" in_zeros="20358" out_zeros="1055138"/>
+	    <track number="4" type="AUDIO" frames="17017" pregap="0" duration="03:46:67" size="40023984" crc="a882a224" md5="c7f2b90d76dd00b11c5c54e85b153b1e" sha1="23ca65b79223af51fa817da66d8997678a63c903" in_zeros="20194" out_zeros="1059727"/>
+	    <track number="5" type="AUDIO" frames="16663" pregap="0" duration="03:42:13" size="39191376" crc="9d96c69e" md5="809d34a4bb4ec11d9cb7d2612c33f523" sha1="8399957949918994b00cc55492ac5e9802700781" in_zeros="21250" out_zeros="1058329"/>
+	    <track number="6" type="AUDIO" frames="17201" pregap="0" duration="03:49:26" size="40456752" crc="6df9cb0b" md5="f6fdecb195495f4361e4fd10cb1ec814" sha1="d1e61e0b770de2ab523c66b7f9b2c83c194ce34e" in_zeros="19714" out_zeros="1060757"/>
+	    <track number="7" type="AUDIO" frames="16352" pregap="0" duration="03:38:02" size="38459904" crc="03a04050" md5="91572bec099bf08e29a254d96be6f2c3" sha1="ab1ca0881d21f24cfb1eea8302cacc72cc5dce4a" in_zeros="21266" out_zeros="1073089"/>
+	    <track number="8" type="AUDIO" frames="17779" pregap="0" duration="03:57:04" size="41816208" crc="53e0141c" md5="5d7ca6b788c30b78c7ae456d391c6d3e" sha1="07d2a9d51fa6742ff6430d5057e81650e80d94be" in_zeros="18942" out_zeros="1055089"/>
+	  </rom>
 	</game>
+		
 	<game name="Waxworks (1992) (Accolade) (Installation).dosz">
 		<description>Waxworks</description>
 		<year>1992</year>
@@ -1500,4 +1482,491 @@
 		<rom name="disk2.img" size="368640" crc="9cfc119b" md5="c8f55d51b0f5962d486c1668b44a14b8" sha1="05e4c43ea0177727ae1d66316657eda3da80bdcb"/>
 		<rom name="disk3.img" size="368640" crc="d86be876" md5="b91d1a599b9a23535561e9647795c99b" sha1="f5df4705338fcbd2a61fe947a81473cccc90ea79"/>
 	</game>
+  <game name="Codename - ICEMAN (1989) (Sierra On-Line) (Installation).dosz">
+    <description>Codename - ICEMAN</description>
+    <year>1989</year>
+    <developer>Sierra On-Line</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=1132</link>
+    <rom name="disk1.img" size="737280" crc="3a3b0f72" md5="19c72826e68b99ba1ddfbf06f476fb5a" sha1="abe1f917865f7db52adfc4e8a50e3890afdb5e80"/>
+    <rom name="disk2.img" size="737280" crc="729eb9df" md5="83ed518f3ba32ab6704ce623f3886115" sha1="45140b1c1e95bfdd8e001464afc4c101d075488b"/>
+    <rom name="disk3.img" size="737280" crc="5eb58439" md5="87d46d6d33f7a766949b3551656fb360" sha1="d2be29f30e6ba061b1345fd8def5559bb27386e4"/>
+    <rom name="disk4.img" size="737280" crc="daa8e34b" md5="b9483134424c132fd6fd92840d1e50d9" sha1="0f66d8114b269369c322b847efd62216c07e5125"/>
+  </game>
+  	
+  <game name="Torin's Passage (1995) (Sierra On-Line) (Installation).dosz">
+    <description>Torin's Passage</description>
+    <year>1995</year>
+    <developer>Sierra On-Line</developer>
+    <variant>Installation</variant>
+    <link type="media">https://redump.info/disc/10234</link>
+    <rom name="Torin's Passage (USA).chd" size="513394560" crc="4ed73016" md5="3f23525ff00a2cfc0452c1b53e20e5c6" sha1="93548814f082393ce5bb53038051a5f5527b4a65">
+      <track number="1" type="MODE1_RAW" frames="209671" pregap="0" duration="46:35:46" size="493146192" crc="890a28f9" md5="d1586c01aadd19d688def2dbb82701a7" sha1="f275e7bf6f2a412f80868014bd2560da69411a40"/>
+    </rom>
+  </game>
+  	
+  <game name="EcoQuest - The Search for Cetus (1991) (Sierra On-Line) (Installation).dosz">
+    <description>EcoQuest - The Search for Cetus</description>
+    <year>1991</year>
+    <developer>Sierra On-Line</developer>
+    <variant>Installation</variant>
+    <link type="media">https://redump.info/disc/83469</link>
+    <rom name="EcoQuest - The Search for Cetus (USA) (Rerelease).chd" size="377442432" crc="397f13e6" md5="694686a846012ee3c9903bf41b6cb3be" sha1="e9d0a8c9646f826955fa9ade05be8f9bd869daef">
+      <track number="1" type="MODE1_RAW" frames="154146" pregap="0" duration="34:15:21" size="362551392" crc="cc13ca46" md5="4297becfe9f345a2ce1a08b1ea8bb276" sha1="fbb4a823576eaa902e0869f404d5350717819085"/>
+    </rom>
+  </game>
+  	
+  <game name="Lost Secret of the Rainforest (1993) (Sierra On-Line) (Installation).dosz">
+    <description>Lost Secret of the Rainforest</description>
+    <year>1993</year>
+    <developer>Sierra On-Line</developer>
+    <variant>Installation</variant>
+    <comment>4 3.5" floppy disks matching with Digitoxin: Lost Secret of the Rainforest (1993) (v1.0, Int. 2.5.93) (Sierra On-Line, Inc.) (1.44M)</comment>
+    <link type="media">https://puredos.github.io/dat-browser/?/Lost+Secret+of+the+Rainforest+(1993)+(v1.0,+Int.+2.5.93)+(Sierra+On-Line,+Inc.)+(1.44M)</link>
+    <rom name="disk1.img" size="1474560" crc="928b6938" md5="a139e3b8bdd32b5c96c740027d119c5d" sha1="dfdb8016199449f31e35263abc4633817903879c"/>
+    <rom name="disk2.img" size="1474560" crc="4df71266" md5="148d526c33a538613258bf4e4f58e14f" sha1="bc7f921613d1532527a47745216e06f14978fece"/>
+    <rom name="disk3.img" size="1474560" crc="f136adec" md5="f94faa1267c8ca1768b1fe3e09a57e87" sha1="ae38783bbae77f52c9cee212e08b4ecfb09b8389"/>
+    <rom name="disk4.img" size="1474560" crc="cb40e901" md5="a3a58f3c74cafb0ca1556ef5fc33c820" sha1="a53abd71c3e2de1b40ce42f8475cf3aabec2408c"/>
+  </game>
+  	
+  <game name="Pepper's Adventures in Time (1993) (Sierra On-Line) (Installation).dosz">
+    <description>Pepper's Adventures in Time</description>
+    <year>1993</year>
+    <developer>Sierra On-Line</developer>
+    <variant>Installation</variant>
+    <comment>
+  			5 3.5" floppy disks matching The Good Old Days ID: 1790
+  			Disks also match TDC#23 entry: Pepper's Adventures in Time (1993)(Sierra On-Line, Inc.) [IMA][1440k][!]
+  		</comment>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=1790</link>
+    <link type="media">https://puredos.github.io/dat-browser/?/Pepper%27s+Adventures+in+Time+(1993)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B1440k%5D%5B!%5D</link>
+    <rom name="disk01.img" size="1474560" crc="55313469" md5="d1e31de3c34edae26f8217ee72a7897d" sha1="9102b4bf009b4f1a3c5cb6d577a53862dd17597d"/>
+    <rom name="disk02.img" size="1474560" crc="f4c99b51" md5="8be69914cbaa550f71dd0c4a537744d2" sha1="ee9d80820ec8f447c8178d28fded262cc9de72f3"/>
+    <rom name="disk03.img" size="1474560" crc="7663871b" md5="0780505048a072219ace5c7b86ec09e9" sha1="6b795f4069b13f602b1d194cdacda00a3ef07db4"/>
+    <rom name="disk04.img" size="1474560" crc="a9178653" md5="a28f69f719fd121bb2011071a0f59b69" sha1="1a817144356513c70157e8b319900a80c4c51bf8"/>
+    <rom name="disk05.img" size="1474560" crc="e73aa031" md5="a46946b910f074517da390971596b61d" sha1="9c04c957120cff1787864615b085414f4d495228"/>
+  </game>
+  	
+  <game name="Manhunter - New York (1988) (Sierra On-Line) (Installation).dosz">
+    <description>Manhunter - New York</description>
+    <year>1988</year>
+    <developer>Sierra On-Line</developer>
+    <variant>Installation</variant>
+    <comment>
+  			2 3.5" floppy disks matching The Good Old Days ID: 2781
+  			Disks also match TDC#23 entry: Manhunter- New York v1.22 (1988)(Sierra On-Line, Inc.) [IMA][720k][!]
+  		</comment>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=2781</link>
+    <link type="media">https://puredos.github.io/dat-browser/?/Manhunter-+New+York+v1.22+(1988)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+    <rom name="disk1.img" size="737280" crc="de3d278a" md5="092620ef85157a8b6b9508487e9c8bc3" sha1="823c9ffb6d5dc57c5268d692fddc887a492e311c"/>
+    <rom name="disk2.img" size="737280" crc="acba341e" md5="962eabeca11b54f0a17a738d0fe56dc7" sha1="459b157eab066ed55dfb9cf877c44c3bac915084"/>
+  </game>
+  	
+  <game name="Manhunter 2 - San Francisco (1989) (Sierra On-Line) (Installation).dosz">
+    <description>Manhunter 2 - San Francisco</description>
+    <year>1989</year>
+    <developer>Sierra On-Line</developer>
+    <variant>Installation</variant>
+    <comment>
+  			3 3.5" floppy disks matching The Good Old Days ID: 2444
+  			Disks also match TDC#23 entry: Manhunter 2- San Francisco v3.02 (1989)(Sierra On-Line, Inc.) [IMA][720k][!]
+  		</comment>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=2444</link>
+    <link type="media">https://puredos.github.io/dat-browser/?/Manhunter+2-+San+Francisco+v3.02+(1989)(Sierra+On-Line,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+    <rom name="disk1.img" size="737280" crc="2ae52621" md5="0ca79e1d51d935c9517ed2ab258d8d1e" sha1="bfedcf1ca6403ff30168e62a6bb9550c6c4c247d"/>
+    <rom name="disk2.img" size="737280" crc="12c19303" md5="8b56792cd0998dc68dc26b967c0407d2" sha1="bef90bd21c6816e67bbc02c404d6815ed4098fd0"/>
+    <rom name="disk3.img" size="737280" crc="37ff2d02" md5="7995189bbe2ea4684fb9541a7963cdb2" sha1="10bba12e2a353787b2f4468d2197786afe8e9f7c"/>
+  </game>
+  	
+  <game name="Adventures of Willy Beamish, The (1991) (Dynamix) (Installation).dosz">
+    <description>Adventures of Willy Beamish, The</description>
+    <year>1991</year>
+    <developer>Dynamix</developer>
+    <variant>Installation</variant>
+    <comment>
+  			Redump-verified CD-ROM: Adventures of Willy Beamish, The (USA)
+  			Also matches with TDC#23 entry: Adventures of Willy Beamish, The v1.000 (1992)(Sierra On-Line, Inc.) [bin-cue]
+  		</comment>
+    <link type="media">https://redump.info/disc/14772</link>
+    <link type="media">https://puredos.github.io/dat-browser/?/Adventures+of+Willy+Beamish,+The+v1.000+(1992)(Sierra+On-Line,+Inc.)+%5Bbin-cue%5D</link>
+    <rom name="Adventures of Willy Beamish, The (USA).chd" size="434001024" crc="2a69568d" md5="01f09a3c1aa766d016baac3c1de412c4" sha1="63f7e95f9bd9237742481d9fe2ed586b821d8ecb">
+      <track number="1" type="MODE1_RAW" frames="177244" duration="39:23:19" size="416877888" crc="ad28138b" md5="58d6f39d8968593ee9838b5a099d32f0" sha1="383e84686022a8bac4dab38c0495d4d6b1972cf5"/>
+    </rom>
+  </game>
+  	
+  <game name="Dragons of Flame (1989) (U.S. Gold) (Installation).dosz">
+    <description>Dragons of Flame</description>
+    <year>1989</year>
+    <developer>U.S. Gold</developer>
+    <variant>Installation</variant>
+    <link type="media">https://puredos.github.io/dat-browser/?/Dragons+of+Flame+v1.1+(1989)(Strategic+Simulations,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+    <rom name="Disk1.ima" size="737280" crc="eb66e302" md5="f9c7474b34ce97ac38b63498fb057f30" sha1="9acd728dc4f30c94a2f6a8c2b7108bfad86eb0c7"/>
+  </game>
+  	
+  <game name="Shadow Sorcerer (1991) (U.S. Gold) (Installation).dosz">
+    <description>Shadow Sorcerer</description>
+    <year>1991</year>
+    <developer>U.S. Gold</developer>
+    <variant>Installation</variant>
+    <comment>The Good Old Days ID Number 3259</comment>
+    <link type="media">https://www.goodolddays.net/diskimages/id%2C3259/</link>
+    <rom name="disk1.img" size="737280" crc="f3ad360f" md5="9b3eb816741a5c9366c0dee5c2c4c606" sha1="b96544288c8276147876a4e6ccaf7c4e1960ce51"/>
+    <rom name="disk2.img" size="737280" crc="6994df6d" md5="254a1df238eb63cc62474e666add0a14" sha1="3e7bbd6d59b9647c85977d53a6a6231bee88622e"/>
+  </game>
+  	
+  <game name="War of the Lance (1990) (SSI) (Installation).dosz">
+    <description>War of the Lance</description>
+    <year>1990</year>
+    <developer>SSI</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=129</link>
+    <rom name="disk1.img" size="368640" crc="afec175a" md5="5fdece60e1642b6a6ee79eae04821591" sha1="0f9b04ef50127328c053d0cacb53625b3cb22db0"/>
+    <rom name="disk2.img" size="368640" crc="53c950fa" md5="469b5d4747cec8bf7db437d74686f316" sha1="e25796b64dc77bb4af361292fd05573d3f57db3f"/>
+  </game>
+  	
+  <game name="DragonStrike (1990) (Westwood) (Installation).dosz">
+    <description>DragonStrike</description>
+    <year>1990</year>
+    <developer>Westwood</developer>
+    <variant>Installation</variant>
+    <comment>Matches TDC#23 entry: DragonStrike v1.2 (1990)(Strategic Simulations, Inc.) [IMA][720k][!]</comment>
+    <link type="media">https://puredos.github.io/dat-browser/?/DragonStrike+v1.2+(1990)(Strategic+Simulations,+Inc.)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
+    <rom name="Disk1-2.ima" size="737280" crc="aff96022" md5="26f76169d679224e20fbb50cf9eae825" sha1="a4eca7aedf5a48db64cc568f3eedb2e13d3bfdf9"/>
+    <rom name="Disk3-4.ima" size="737280" crc="e1f650a6" md5="08af35d1e9b881d7820075ed1749f328" sha1="d6f96eec75d833abdbe59eb48f4cdfecfbd5606a"/>
+  </game>
+  	
+  <game name="Dark Sun - Shattered Lands (1993) (SSI) (Installation).dosz">
+    <description>Dark Sun - Shattered Lands</description>
+    <year>1993</year>
+    <developer>SSI</developer>
+    <variant>Installation</variant>
+    <comment>v1.1</comment>
+    <link type="media">https://redump.info/disc/110714</link>
+    <rom name="Dark Sun - Shattered Lands (USA).chd" size="17057664" crc="0d917b34" md5="407790f69973de5fcd4cbd6b883f1f3c" sha1="db1286f07581bc1915fe64f8697f3a47989d4b7d">
+      <track number="1" type="MODE1_RAW" frames="6958" duration="01:32:58" size="16365216" crc="51c73ba7" md5="7d7facb05b07348be101ad5588b1283f" sha1="43c10547200c1d01144058e0035b5fa4baea694a"/>
+    </rom>
+  </game>
+  	
+  <game name="Blood &amp; Magic (1996) (Tachyon Studios) (Installation).dosz">
+    <description>Blood &amp; Magic</description>
+    <year>1996</year>
+    <developer>Tachyon Studios</developer>
+    <variant>Installation</variant>
+    <link type="media">https://redump.info/disc/46019</link>
+    <rom name="Blood &amp; Magic (USA).chd" size="270063360" crc="ba25d07e" md5="c28b24358f01b43ff8a0de5bd47ab596" sha1="1a502747cba8abc31d138517f0ca38a124905996">
+      <track number="1" type="MODE1_RAW" frames="110291" duration="24:30:41" size="259404432" crc="b7da59ad" md5="db68f9b5db050a7f694512f98156df6f" sha1="1ab84700ed4b5f4b14a3f06b0043325df9bec522"/>
+    </rom>
+  </game>
+  	
+  <game name="Unlimited Adventures (1993) (MicroMagic) (Installation).dosz">
+    <description>Unlimited Adventures</description>
+    <year>1993</year>
+    <developer>MicroMagic</developer>
+    <variant>Installation</variant>
+    <comment>Redump-verified CD-ROM: Unlimited Adventures (USA) (Rerelease)</comment>
+    <link type="media">https://redump.info/disc/82748</link>
+    <rom name="Unlimited Adventures (USA) (Rerelease).chd" size="8303616" crc="239881a8" md5="280db16e127efea35b95cbb34ed9b960" sha1="f6780dccd4e03f81849a5cc0630079811f4cebb2">
+      <track number="1" type="MODE1_RAW" frames="3382" pregap="0" duration="00:45:07" size="7954464" crc="dc866d4e" md5="e4bb30ab8b3ccadbab9117db3e62d884" sha1="20018ebdcf6d7338ad0c824521b8aa1827eb62e9"/>
+    </rom>
+  </game>
+  	
+  <game name="Heroes of the Lance (1988) (SSI) (Installation).dosz">
+    <description>Heroes of the Lance</description>
+    <year>1988</year>
+    <developer>SSI</developer>
+    <variant>Installation</variant>
+    <comment>
+  			The Good Old Days ID number 2501
+  			Also matches TDC#23 entry: Heroes of the Lance v1.0 (1988)(Strategic Simulations, Inc.) [IMA][360k][!]
+  		</comment>
+    <link type="media">https://www.goodolddays.net/diskimages/id%2C2501/</link>
+    <link type="media">https://puredos.github.io/dat-browser/?/Heroes+of+the+Lance+v1.0+(1988)(Strategic+Simulations,+Inc.)+%5BIMA%5D%5B360k%5D%5B!%5D</link>
+    <rom name="disk1.img" size="368640" crc="61d3a9a2" md5="e705b6a8f341c2adcb31376f96e5e107" sha1="c45d7cbbe6f2f8b588252d5de00ed1e1cb6d602d"/>
+    <rom name="disk2.img" size="368640" crc="105d17a6" md5="e20f9bfe934c25caad2243fa0f4d58f3" sha1="7cf0a3586dc9096da21cad6024287a8a70927a95"/>
+    <rom name="disk3.img" size="368640" crc="be1f5f42" md5="a3ce7a167050247943e843525792607d" sha1="898bedbccb9a8393e32209ee9d227e705656893d"/>
+  </game>
+  	
+  <game name="Spelljammer - Pirates of Realmspace (1992) (Cybertech) (Installation).dosz">
+    <description>Spelljammer - Pirates of Realmspace</description>
+    <year>1992</year>
+    <developer>Cybertech</developer>
+    <variant>Installation</variant>
+    <comment>The Good Old Days ID Number 1826</comment>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=1826</link>
+    <rom name="disk01.img" size="1474560" crc="af50a071" md5="fb44f9d1b2fe577b87d0ce29f9c4b2be" sha1="88013b3be0148614842f9d5fa59f5199875f3462"/>
+    <rom name="disk02.img" size="1474560" crc="33232cc0" md5="9753db623407d5ce6bfc07ad404c6818" sha1="c57a61a4653d413a57e07d0151cf413df798f99f"/>
+  </game>
+  	
+  <game name="Al-Qadim - The Genie's Curse (1994) (Cyberlore Studios) (Installation).dosz">
+    <description>Al-Qadim - The Genie's Curse</description>
+    <year>1994</year>
+    <developer>Cyberlore Studios</developer>
+    <variant>Installation</variant>
+    <comment>
+  			v1.1. Redump-verified CD-ROM: Al-Qadim - The Genie's Curse (USA)
+  			Also matches TDC#23 entry: Al-Qadim- The Genie's Curse v1.1 (1995)(Strategic Simulations, Inc.) [bin-cue]
+  		</comment>
+    <link type="media">https://redump.info/disc/2887</link>
+    <link type="media">https://puredos.github.io/dat-browser/?/Al-Qadim-+The+Genie%27s+Curse+v1.1+(1995)(Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+    <rom name="Al-Qadim - The Genie's Curse (USA).chd" size="25087104" crc="cfee2d29" md5="984e5215c5e7b716db3a75f6495403ef" sha1="e6ecb0a80a2cac54c4423cdefc4f4ca598d3466f">
+      <track number="1" type="MODE1_RAW" frames="10237" pregap="0" duration="02:16:37" size="24077424" crc="6ca978aa" md5="ed9f3ca0920c49d41f74d966f0cab2dd" sha1="5f4e8e471b4b1d18a632e32b92f092b272e546ce"/>
+    </rom>
+  </game>
+  	
+  <game name="Fantasy Empires (1993) (Silicon Knights) (Installation).dosz">
+    <description>Fantasy Empires</description>
+    <year>1993</year>
+    <developer>Silicon Knights</developer>
+    <variant>Installation</variant>
+    <comment>Redump-verified CD-ROM: Fantasy Empires (USA) (Rerelease)</comment>
+    <link type="media">https://redump.info/disc/82737</link>
+    <rom name="Fantasy Empires (USA) (Rerelease).chd" size="19975680" crc="457b1af8" md5="cd18daa0c055f51ffe359c8d77c47069" sha1="a6d0ad46f0e26b8d9199b7b91da2411cc8f534d8">
+      <track number="1" type="MODE1_RAW" frames="8145" pregap="0" duration="01:48:45" size="19157040" crc="520fe830" md5="37fd3c6c562b92718077cefcfa051d28" sha1="b0dde787f424ba740431ddec3292d720afbf1723"/>
+    </rom>
+  </game>
+  	
+  <game name="Fantasy Fest! (1994) (SSI) (Installation).dosz">
+    <description>Fantasy Fest!</description>
+    <year>1994</year>
+    <developer>SSI</developer>
+    <variant>Installation</variant>
+    <comment>Matches with TDC#23 entry: Fantasy Fest! (1994)(Strategic Simulations, Inc.) [ISO] - Used to install Stronghold</comment>
+    <link type="media">https://puredos.github.io/dat-browser/?/Fantasy+Fest!+(1994)(Strategic+Simulations,+Inc.)+%5BISO%5D</link>
+    <rom name="Fantasy Fest! (1994)(Strategic Simulations, Inc.) [ISO].chd" size="58184064" crc="2fcbd9ca" md5="330079b1f79ba74be09de8b626813efa" sha1="3458675c43af5febd32dccc7886381baa5e43f03">
+      <track number="1" type="MODE1" frames="23786" pregap="0" duration="05:17:11" size="48713728" crc="c4488445" md5="864c6acd62d536c127fdec3e8745eb70" sha1="3f3d3c1e2d98d819a6f1dbc8132509608b66dabf"/>
+    </rom>
+  </game>
+  	
+  <game name="Ultima Worlds of Adventure 2 - Martian Dreams (1991) (Origin Systems) (Installation).dosz">
+    <description>Ultima Worlds of Adventure 2 - Martian Dreams</description>
+    <year>1991</year>
+    <developer>Origin Systems</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=71</link>
+    <rom name="disk1.img" size="1228800" crc="d34df8c0" md5="4e066c122baa8e22dfbd6666e32d0339" sha1="315e78f66441a2bb48a2ab2e36e67006e049117d"/>
+    <rom name="disk2.img" size="1228800" crc="ba60452b" md5="68c93eb635c95ae93fd54597be727d61" sha1="c0cb3cfecc1b948f3339b10690b6307dffd87a50"/>
+    <rom name="disk3.img" size="1228800" crc="41093d4d" md5="e95d6bfb519763c2e6f5e179aad3fe6c" sha1="b2d92a5bdd118c2b5ca50e5e74e6d8a78c6fd884"/>
+  </game>
+  	
+  <game name="Worlds of Ultima - The Savage Empire (1990) (Origin Systems) (Installation).dosz">
+    <description>Worlds of Ultima - The Savage Empire</description>
+    <year>1990</year>
+    <developer>Origin Systems</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=102</link>
+    <rom name="disk1.img" size="737280" crc="39797cdc" md5="7582671a5e22d23877c24b170f543815" sha1="d51704fe22d8d37ff4c5582907fc57bf16e77760"/>
+    <rom name="disk2.img" size="737280" crc="9e977933" md5="b69f41c228db77eb3ecc893cdf01e4d5" sha1="e46e3f8853aa33bd95ce6088eb5fcee81288d84f"/>
+    <rom name="disk3.img" size="737280" crc="cf9cc578" md5="60b0b2c8a14bc35ad1a15261d7d1cc10" sha1="82eda121ae135dcfddea02fe2ffdde93aa4c43c4"/>
+    <rom name="disk4.img" size="737280" crc="b6adefa7" md5="ef544dfd163ee0a7cc06f79ad95f3942" sha1="b8c4af4e8f90f12b9170ad26c401c7a54abe6faf"/>
+  </game>
+  	
+  <game name="Dark Sun - Wake of the Ravager (1994) (SSI) (Installation, Floppy Version).dosz">
+    <description>Dark Sun - Wake of the Ravager</description>
+    <year>1994</year>
+    <developer>SSI</developer>
+    <variant>Installation, Floppy Version</variant>
+    <comment>Floppies match TDC#23: Dark Sun- Wake of the Ravager v1.1 (1995)(Mindscape, Inc., Strategic Simulations, Inc.) [IMA][1440k]</comment>
+    <link type="media">https://puredos.github.io/dat-browser/?/Dark+Sun-+Wake+of+the+Ravager+v1.1+(1995)(Mindscape,+Inc.,+Strategic+Simulations,+Inc.)+%5BIMA%5D%5B1440k%5D</link>
+    <rom name="disk1.ima" size="1474560" crc="cc02d100" md5="8d9fc74fc6305820043231992b9121e3" sha1="68abaf59bbad98c3640aaedafc6d3a2bcecc45a2"/>
+    <rom name="disk2.ima" size="1474560" crc="e624c6a9" md5="824dbd473e33e01c0295de4c88b720b9" sha1="16322ba731d374b406556c1b9b596e6bb0165252"/>
+    <rom name="disk3.ima" size="1474560" crc="2cf1cf99" md5="9a124a90386339a87f04620561bdd3b8" sha1="9b3227636516203f2c7b5442508008a95f328d3b"/>
+    <rom name="disk4.ima" size="1474560" crc="29021002" md5="c9d6671ca8ad4247be208256c767bfef" sha1="083557782c3cdc3dcbb5b7b933ce4f4d9adc2ea1"/>
+    <rom name="disk5.ima" size="1474560" crc="40efba26" md5="da0d7e52cbeaaacaf83bacd3a9629d40" sha1="067c56bd84b2e101ab75abb6d5eae9d287f8f61e"/>
+    <rom name="disk6.ima" size="1474560" crc="c2d86138" md5="51dc8d1f176e56975973adb40bb9be86" sha1="50a8bbf81706d3d5fd844e5f05f8931d1be1d581"/>
+    <rom name="disk7.ima" size="1474560" crc="a1c8debe" md5="5795818aac3a9859ca8733e95191fdc7" sha1="621ce8a53d3e2aae986b068853a0f8b606c64926"/>
+  </game>
+  	
+  <game name="Terminator, The (1991) (Bethesda Softworks) (Installation).dosz">
+    <description>Terminator, The</description>
+    <year>1991</year>
+    <developer>Bethesda Softworks</developer>
+    <variant>Installation</variant>
+    <comment>4 x 3.5" floppies matching The Good Old Days ID: 1669</comment>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=1669</link>
+    <rom name="disk1.img" size="737280" crc="07f90aa2" md5="db68ac2ec264eff55e7282b303ad3e63" sha1="bd7fb90cfa4082d3d7b88d6e754a5ca75bf4f2ad"/>
+    <rom name="disk2.img" size="737280" crc="f275a44e" md5="d9e05cbf6269bb612cdba08d70e1abce" sha1="d374a5254bb786bd858b3a12ff02b9e93cf1815c"/>
+    <rom name="disk3.img" size="737280" crc="bcac03db" md5="77d50cc10db4d3963dbe858df5bc251c" sha1="54131658ecd11c5bf221ba5ed21a17c074048343"/>
+    <rom name="disk4.img" size="737280" crc="443a6d32" md5="e68ac98747a73bb8401f91234caeb2c1" sha1="d919d996345803fef30445e34eae79ebc74712b7"/>
+  </game>
+  	
+  <game name="Ultimate Might and Magic Archives, The (1998) (New World Computing) (Installation).dosz">
+    <description>Ultimate Might and Magic Archives, The</description>
+    <year>1998</year>
+    <developer>New World Computing</developer>
+    <variant>Installation</variant>
+    <comment>Includes Might and Magic I-V and Swords of Xeen, but not standalone Clouds of Xeen</comment>
+    <link type="media">http://redump.org/disc/78286/</link>
+    <rom name="Ultimate Might and Magic Archives, The (USA).chd" size="647662464" crc="502dccdd" md5="fe78b154ecd335664cbfaa835bc9d9cd" sha1="3d993e96fbbbc362ef68324a9e0988a45fae9421">
+      <track number="1" type="MODE1_RAW" frames="264510" pregap="0" duration="58:46:60" size="622127520" crc="960af0cd" md5="f4b399eb72fecf2d77b2a37d650e3900" sha1="ece918b18a5cb0d3b3a5c2586d697d9bc7da86ab" in_zeros="1" out_zeros="0"/>
+    </rom>
+  </game>
+  	
+  <game name="SimCity - Graphics Set 1 - Ancient Cities (1990) (Maxis) (Installation).dosz">
+    <description>SimCity: Graphics Set 1 - Ancient Cities</description>
+    <year>1990</year>
+    <developer>Maxis</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=537</link>
+    <rom name="disk1.img" size="368640" crc="9ff8ee9c" md5="f0cbe652266345928b40d452a2046474" sha1="e822efefb9e1bb77d820dbbdbbf3dbda97fe0bae"/>
+    <rom name="disk2.img" size="368640" crc="9f9bb432" md5="a0e2e01dc99c743bf2f5fa88a35e4415" sha1="6880ced9d6629598c43d0360413216132b2b9db1"/>
+    <rom name="disk3.img" size="368640" crc="0a215a29" md5="408e968b7d1e2e396607739d6b844f77" sha1="75811c27e9a58c39985546972a51856eaf433cba"/>
+    <rom name="disk4.img" size="368640" crc="c716513c" md5="f11a9786f0960db2bfe9d773350ca94b" sha1="53f8a16096470c23ce2a2a86b280a8ad2e01fcf1"/>
+  </game>
+  	
+  <game name="SimCity - Graphics Set 2 - Future Cities (1991) (Maxis) (Installation).dosz">
+    <description>SimCity: Graphics Set 2 - Future Cities</description>
+    <year>1991</year>
+    <developer>Maxis</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=538</link>
+    <rom name="disk1.img" size="368640" crc="82cc531c" md5="8d742b4461ee37cb791a85772b6b0218" sha1="3e933697d734cebe02a605da4b20167415d0914e"/>
+    <rom name="disk2.img" size="368640" crc="1395bc1c" md5="cd51749f9ab2d8f48dece7ff5bae7ae3" sha1="e54963949457642f002c76f77cdfb7ba357625ab"/>
+    <rom name="disk3.img" size="368640" crc="fde0bd2e" md5="08949b923162875db7538a60ea52cb4d" sha1="b15630e372ab1543bd3eb05888cd2d85e1024dcf"/>
+    <rom name="disk4.img" size="368640" crc="7934fedc" md5="8d518752cafce08fea16bacbbe748ea3" sha1="5fad7f8158fe0892ba41c0b75f7c5f45a11c7385"/>
+  </game>
+  	
+  <game name="SimCity - Terrain Editor (1989) (Maxis) (Installation).dosz">
+    <description>SimCity: Terrain Editor</description>
+    <year>1989</year>
+    <developer>Maxis</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=620</link>
+    <rom name="disk1.img" size="737280" crc="0a49cf81" md5="d65160d371566b9e9e6d8d6340223b75" sha1="ae67a03d5df1a641aa5cc409e6ac7c1db5268fa0"/>
+  </game>
+  	
+  <game name="SimCity Enhanced CD-ROM (1994) (Maxis) (Installation).dosz">
+    <description>SimCity Enhanced CD-ROM</description>
+    <year>1994</year>
+    <developer>Maxis</developer>
+    <variant>Installation</variant>
+    <comment>Europe White Label CD-ROM</comment>
+    <link type="media">https://redump.info/disc/52354</link>
+    <rom name="SimCity Enhanced CD-ROM (Europe) (Rev 1).chd" size="505286784" crc="07df0e33" md5="5f6e216293898ba485572f0a7b106e29" sha1="137fa1aa71d85164ee5655e0593366a2a58672cc">
+      <track number="1" type="MODE1_RAW" frames="206360" pregap="0" duration="45:51:35" size="485358720" crc="5da0acf6" md5="14833d5ea16c5ff53fea7b84797c16b0" sha1="ee00caa3c2cbdea6a01d57a1b2eabe17c454083c" in_zeros="1" out_zeros="0"/>
+    </rom>
+  </game>
+  	
+  <game name="SimCity 2000 (1993) (Maxis) (Installation).dosz">
+    <description>SimCity 2000</description>
+    <year>1993</year>
+    <developer>Maxis</developer>
+    <variant>Installation</variant>
+    <comment>USA Special Edition v1.1 CD-ROM</comment>
+    <link type="media">https://redump.info/disc/8274</link>
+    <rom name="SimCity 2000 Special Edition (USA, Korea) (Rerelease).chd" size="233695872" crc="4694fb10" md5="03f849bb69b650a833ee26cc6b0b8f73" sha1="f717280ecadc80bf2cf2dbecd50b99483174a24c">
+      <track number="1" type="MODE1_RAW" frames="95433" pregap="0" duration="21:12:33" size="224458416" crc="b30cca9d" md5="51680bae5680f7de339a9645a5b01ff4" sha1="272e44bfbe15ab5f00bc3d9ee2671cbf8f55e487" in_zeros="1" out_zeros="0"/>
+    </rom>
+  </game>
+  	
+  <game name="SimCity Classic (1993) (Maxis) (Installation).dosz">
+    <description>SimCity Classic</description>
+    <year>1993</year>
+    <developer>Maxis</developer>
+    <variant>Installation</variant>
+    <comment>Two 3.5" v2.0 floppy disks</comment>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=623</link>
+    <rom name="disk1.img" size="737280" crc="40e80233" md5="db2b5cd7be99c3b4b46ec25247b95f07" sha1="6fc894f9e8abb25e1429d6df9aea93abfdc3c670"/>
+    <rom name="disk2.img" size="737280" crc="83292905" md5="810d1ecb875aecbe69e8aef67c3c707a" sha1="6512895b53e3132195b8e7b0d18391188d08ee13"/>
+  </game>
+  	
+  <game name="SimCity Classic - Graphics (1994) (Maxis) (Installation).dosz">
+    <description>SimCity Classic: Graphics</description>
+    <year>1994</year>
+    <developer>Maxis</developer>
+    <variant>Installation</variant>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=624</link>
+    <rom name="disk1.img" size="737280" crc="3f50caad" md5="45849056050d2f1f4fa4562fe766c862" sha1="2719e16277cec240876649246c5a79bde77c67b4"/>
+    <rom name="disk2.img" size="737280" crc="e4047260" md5="df13477011ddab7096fa885aa12d4e7a" sha1="785316e028a64a31d57e352cb87a234a7ddcf742"/>
+  </game>
+  	
+  <game name="Sid Meier's Colonization (1994) (MPS Labs) (Installation).dosz">
+    <description>Sid Meier's Colonization</description>
+    <year>1994</year>
+    <developer>MPS Labs</developer>
+    <variant>Installation</variant>
+    <comment>European CD-ROM re-release</comment>
+    <link type="media">https://redump.info/disc/49894</link>
+    <rom name="Sid Meier's Colonization (Europe) (En,Fr,De) (Rerelease).chd" size="59104512" crc="6ff5acac" md5="ed43df0b966de8944799722dca0d1268" sha1="4e02ed0af815d380da331624c542d3d57dc25d26">
+      <track number="1" type="MODE1_RAW" frames="24132" pregap="0" duration="05:21:57" size="56758464" crc="854b6737" md5="1dd27943431d88d96d0df47baaf6d9a0" sha1="3e020778aa2e6bd89f6a3186e3be73a963ab619b" in_zeros="1" out_zeros="0"/>
+    </rom>
+  </game>
+  	
+  <game name="AD&amp;D - Collector's Edition (1995) (WizardWorks Group) (Installation).dosz">
+    <description>AD&amp;D - Collector's Edition</description>
+    <year>1995</year>
+    <developer>WizardWorks Group</developer>
+    <variant>Installation</variant>
+    <comment>
+  			Redump verified CD-ROM: Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA)
+  			Also matches with TDC#23 entry: Advanced Dungeons &amp; Dragons- Collector's Edition r1 (1994)(WizardWorks Group, Inc., Strategic Simulations, Inc.) [bin-cue]
+  			Used to install Champions of Krynn, Dark Queen of Krynn, and Death Knights of Krynn
+  		</comment>
+    <link type="media">https://redump.info/disc/88105</link>
+    <link type="media">https://puredos.github.io/dat-browser/?/Advanced+Dungeons+&amp;+Dragons-+Collector%27s+Edition+r1+(1994)(WizardWorks+Group,+Inc.,+Strategic+Simulations,+Inc.)+%5Bbin-cue%5D</link>
+    <rom name="Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA).chd" size="88891776" crc="bc98d192" md5="6d52062ada9a0e151c2602fb70e3639d" sha1="e10d15b5c889b690428aa457a1f7a197150fe226">
+      <track number="1" type="MODE1_RAW" frames="36300" pregap="0" duration="08:04:00" size="85377600" crc="0032c46f" md5="57902f6fb20e661f6e59d070c6de38f3" sha1="1df1aa991230f92d86cc3de84350d84b214c6b6a"/>
+    </rom>
+  </game>
+  	
+  <game name="Wolfenstein 3D (1992) (id Software) (Installation).dosz">
+    <description>Wolfenstein 3D</description>
+    <year>1992</year>
+    <developer>id Software</developer>
+    <variant>Installation</variant>
+    <link type="media">https://redump.info/disc/43388</link>
+    <rom name="Wolfenstein 3D (USA) (Rerelease).chd" size="109317888" crc="5044c4a4" md5="b04a8bf4816db5eea7eb3c9c3ec817a1" sha1="18a2ba07319823099fcef9ae0154ffdd9bab1fa2">
+      <track number="1" type="MODE1_RAW" frames="44637" duration="09:55:12" size="104986224" crc="06636aec" md5="08cf7d0df08955d6732f88b4f07e66d3" sha1="ea276250e93afc78c1890bb0dee6e3d0fa0506fd"/>
+    </rom>
+  </game>
+  	
+  <game name="Forgotten Realms Archives - Silver Edition - Disc 1 (1997) (Interplay) (Installation).dosz">
+    <description>Forgotten Realms Archives - Silver Edition - Disc 1</description>
+    <year>1997</year>
+    <developer>Interplay</developer>
+    <variant>Installation</variant>
+    <comment>Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - Used to install Curse of the Azure Bonds, Dungeon Hack, Eye of the Beholder I-III, Gateway to the Savage Frontier, Hillsfar, Pool of Radiance, Pools of Darkness, Secret of the Silver Blades, and Treasures of the Savage Frontier</comment>
+    <link type="media">https://redump.info/disc/79882</link>
+    <rom name="Forgotten Realms Archives - Silver Edition (USA) (Disc 1).chd" size="588342528" crc="73f87509" md5="17a17cd0e671dd74151849447a67954c" sha1="83ba45ff3472ab897e302ac294266d4ac19a88b6">
+      <track number="1" type="MODE1_RAW" frames="240278" pregap="0" duration="53:23:53" size="565133856" crc="86e0f23e" md5="791c1e23c8213638556cffb821ae83c4" sha1="aa50f3794e0f208ac3450b1c43f96249c984c7f7"/>
+    </rom>
+  </game>
+  	
+  <game name="Software Toolworks' Star Wars Chess, The (1993) (The Software Toolworks) (Installation).dosz">
+    <description>The Software Toolworks' Star Wars Chess</description>
+    <year>1993</year>
+    <developer>The Software Toolworks</developer>
+    <variant>Installation</variant>
+    <comment>14 3.5" floppy disks matching The Good Old Days ID: 2356</comment>
+    <link type="media">https://www.goodolddays.net/en/diskimages/?id=2356</link>
+    <rom name="disk01.img" size="1474560" crc="9cd83683" md5="f9e318dbfcc0156fc4673b69d0fbd2ab" sha1="4a8ff71bd17ca48f145bfce6f6e093a673666279"/>
+    <rom name="disk02.img" size="1474560" crc="47f78b3b" md5="cb44eb92873f2f0adaf87d38ba5875b0" sha1="ec237da65c3f8ea82779ff0f55bf62dbe81a4920"/>
+    <rom name="disk03.img" size="1474560" crc="b3c6b710" md5="7215aaa297e4edf796a4191397b5aa7e" sha1="d0ff1e36eca824da19d29550c1a025c827fe12d6"/>
+    <rom name="disk04.img" size="1474560" crc="bc58c31c" md5="60f6b6393c898445e187da59e8dccc36" sha1="6dccbddd0499efcb192863704871b19798d495ea"/>
+    <rom name="disk05.img" size="1474560" crc="635e628a" md5="f127667b8ed99000c2a3f3bcd54c7ffb" sha1="ba0c01ffee80477b2a3e2cabac9700fc2f3ed091"/>
+    <rom name="disk06.img" size="1474560" crc="7fae72af" md5="4a34d0380bf6e61f9e180afcadfc6422" sha1="80c31ab3b58f7c389e068f2d49eee10415803925"/>
+    <rom name="disk07.img" size="1474560" crc="039e537a" md5="34a5a88bee9434881b504807c41ab805" sha1="2e0aef8abc926e3b74d8d716db424cb70b19cfa9"/>
+    <rom name="disk08.img" size="1474560" crc="976b95cf" md5="b26ba69d504d28b72dd3e23211221843" sha1="f2ae85cedaddfb484bc36cb8762f7d056bc604f7"/>
+    <rom name="disk09.img" size="1474560" crc="600d5cba" md5="be34ac4ef7ef232ae11c4b67b495f2fa" sha1="d6c058f46cffc434cb50c3cd4b95f1005af0c9f8"/>
+    <rom name="disk10.img" size="1474560" crc="96e5ab67" md5="400c5671ad795327ee978054c3308481" sha1="55af75ae36e16854772c4111819cc89a0dbd195d"/>
+    <rom name="disk11.img" size="1474560" crc="096ed2b0" md5="72a20964cb441f72975ea78978fb8bc7" sha1="d740883f4b3760ffd6c6afa217a394085cf6bec4"/>
+    <rom name="disk12.img" size="1474560" crc="050bfb3b" md5="83162c3feb7aa105269bc2d5282538b7" sha1="62e8475056fa9574832e03f3480d41b3c60a657e"/>
+    <rom name="disk13.img" size="1474560" crc="5d469342" md5="26ae0aa058296fa0aeb45b44fe1c512a" sha1="40c73a7568518397def4d8e757ded8b043aa16b0"/>
+    <rom name="disk14.img" size="1474560" crc="8a109cce" md5="fc76cd5658489d19157858649ff28fd6" sha1="485036a462e50c80206468c628c0b3e587f96d42"/>
+  </game>
+  	
+  <game name="Ultimate Wizardry Archives, The (1998) (Sir-tech Software) (Installation).dosz">
+    <description>The Ultimate Wizardry Archives</description>
+    <year>1998</year>
+    <developer>Sir-tech Software</developer>
+    <variant>Installation</variant>
+    <comment>
+  		Redump-verified CD-ROM: Ultimate Wizardry Archives, The (USA)
+  		Includes Wizardry I-VII
+  		</comment>
+    <link type="media">https://redump.info/disc/80025/</link>
+    <rom name="Ultimate Wizardry Archives, The (USA).chd" size="791428608" crc="d7aa5037" md5="625696bc57a2dfdadaa1b54a1f733eaa" sha1="4a5ee836082e1448bbffec7e0b9cd3f0fe9b6917">
+      <track number="1" type="MODE1_RAW" frames="323221" pregap="0" duration="71:49:46" size="760215792" crc="d65b6f95" md5="70320d2dcd136a3b909e2759e4546dbe" sha1="7c789b86ce3f1ab526d57d26c4d7fb4fb0a53caa" in_zeros="1" out_zeros="0"/>
+    </rom>
+  </game>
+  	
 </datafile>

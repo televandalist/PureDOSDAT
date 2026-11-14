@@ -20,39 +20,6 @@
 		<rom name="disk2.img" size="737280" crc="f7715ebf" md5="c796f5c63aff2a7659cbdcefd1ea037d" sha1="891ec0449416b86ada2c420fb2d50ed6ba292698" date="2009-04-06 18:48:32"/>
 		<rom name="disk3.img" size="737280" crc="2b98090c" md5="912f3fbbf4124edbd7840085226ef152" sha1="aedb9544ba6fa6312f1f75b3df2186ce340e6ced" date="2009-04-06 18:49:34"/>
 	</game>
-	<game name="AD&amp;D - Collector's Edition (1995) (WizardWorks Group) (Installation).dosz">
-		<description>AD&amp;D - Collector's Edition</description>
-		<comment>Redump verified CD-ROM: Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA) - Used to install Champions of Krynn, Dark Queen of Krynn, and Death Knights of Krynn</comment>
-		<year>1995</year>
-		<developer>WizardWorks Group</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/88105/</link>
-		<rom name="Advanced Dungeons &amp; Dragons - 5 Game Collector's Edition (USA).chd" size="88891776" crc="bc98d192" md5="6d52062ada9a0e151c2602fb70e3639d" sha1="e10d15b5c889b690428aa457a1f7a197150fe226">
-			<track number="1" type="MODE1_RAW" frames="36300" pregap="0" duration="08:04:00" size="85377600" crc="0032c46f" md5="57902f6fb20e661f6e59d070c6de38f3" sha1="1df1aa991230f92d86cc3de84350d84b214c6b6a"/>
-		</rom>
-	</game>
-	<game name="AD&amp;D Masterpiece Collection - Disc 4 (1996) (Mindscape) (Installation).dosz">
-		<description>AD&amp;D Masterpiece Collection - Disc 4</description>
-		<comment>Redump-verified CD-ROM: Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 4) (Stone Prophet)</comment>
-		<year>1996</year>
-		<developer>Mindscape</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/90627/</link>
-		<rom name="Advanced Dungeons &amp; Dragons - Masterpiece Collection (USA) (Disc 4) (Stone Prophet).chd" size="522638208" crc="16b299be" md5="c2ace99e20977c6c6d0a5a500e2b1e4d" sha1="c83866a5e9af3661e85111df2be2736280ec11da">
-			<track number="1" type="MODE1_RAW" frames="213446" pregap="0" duration="47:25:71" size="502024992" crc="6be3bd11" md5="814e63e34a5d04a1d3f8fcdbb0e148ce" sha1="c828936cdcf052f6122a60a2c63ba48928359754"/>
-		</rom>
-	</game>
-	<game name="Al-Qadim - The Genie's Curse (1994) (Cyberlore Studios) (Installation).dosz">
-		<description>Al-Qadim - The Genie's Curse</description>
-		<comment>Redump-verified CD-ROM: Al-Qadim - The Genie's Curse (USA)</comment>
-		<year>1994</year>
-		<developer>Cyberlore Studios</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/2887/</link>
-		<rom name="Al-Qadim - The Genie's Curse (USA).chd" size="25087104" crc="cfee2d29" md5="984e5215c5e7b716db3a75f6495403ef" sha1="e6ecb0a80a2cac54c4423cdefc4f4ca598d3466f">
-			<track number="1" type="MODE1_RAW" frames="10237" pregap="0" duration="02:16:37" size="24077424" crc="6ca978aa" md5="ed9f3ca0920c49d41f74d966f0cab2dd" sha1="5f4e8e471b4b1d18a632e32b92f092b272e546ce"/>
-		</rom>
-	</game>
 	<game name="Aladdin (1994) (Virgin Interactive Entertainment) (Installation).dosz">
 		<description>Aladdin</description>
 		<year>1994</year>
@@ -306,17 +273,6 @@
 		<rom name="disk2.img" size="368640" crc="1bb70e4c" md5="5c50ab0aef6b0b4fab4e132b7f3cec61" sha1="f49776a16f95e18a8fe25977af53c07b6d6cd137" date="2017-06-12 01:03:50"/>
 		<rom name="disk3.img" size="368640" crc="0267bbd4" md5="efea8ccc51fc03f9788488d13b0d64ae" sha1="64b3a029fd98fa3a468adce4797b3ac7bef9108e" date="2017-06-12 01:03:54"/>
 	</game>
-	<game name="Codename - ICEMAN (1989) (Sierra On-Line) (Installation).dosz">
-		<description>Codename - ICEMAN</description>
-		<year>1989</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1132</link>
-		<rom name="disk1.img" size="737280" crc="3a3b0f72" md5="19c72826e68b99ba1ddfbf06f476fb5a" sha1="abe1f917865f7db52adfc4e8a50e3890afdb5e80" date="2012-08-26 00:02:08"/>
-		<rom name="disk2.img" size="737280" crc="729eb9df" md5="83ed518f3ba32ab6704ce623f3886115" sha1="45140b1c1e95bfdd8e001464afc4c101d075488b" date="2012-08-25 20:36:38"/>
-		<rom name="disk3.img" size="737280" crc="5eb58439" md5="87d46d6d33f7a766949b3551656fb360" sha1="d2be29f30e6ba061b1345fd8def5559bb27386e4" date="2012-08-25 20:38:40"/>
-		<rom name="disk4.img" size="737280" crc="daa8e34b" md5="b9483134424c132fd6fd92840d1e50d9" sha1="0f66d8114b269369c322b847efd62216c07e5125" date="2012-08-25 20:41:04"/>
-	</game>
 	<game name="Conquests of Camelot - The Search for the Grail (1990) (Sierra On-Line) (Installation).dosz">
 		<description>Conquests of Camelot - The Search for the Grail</description>
 		<year>1990</year>
@@ -387,20 +343,6 @@
 			<track number="1" type="MODE1_RAW" frames="300446" pregap="0" duration="66:45:71" size="706648992" crc="091b9311" md5="daf9884f98d6504c069bc168ea2e43a9" sha1="f7b4b0489cc324b7f6ccc6ad58b9438adbdeb96f"/>
 		</rom>
 	</game>
-	<game name="Dark Sun - Wake of the Ravager (1994) (SSI) (Installation).dosz">
-		<description>Dark Sun - Wake of the Ravager</description>
-		<comment>Floppies match TDC: Dark Sun- Wake of the Ravager CD v1.1 (1995)(Strategic Simulations, Inc.) [Role-Playing (RPG)]</comment>
-		<year>1994</year>
-		<developer>SSI</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.ima" size="1474560" crc="cc02d100" md5="8d9fc74fc6305820043231992b9121e3" sha1="68abaf59bbad98c3640aaedafc6d3a2bcecc45a2" date="2010-03-11 00:26:46"/>
-		<rom name="disk2.ima" size="1474560" crc="e624c6a9" md5="824dbd473e33e01c0295de4c88b720b9" sha1="16322ba731d374b406556c1b9b596e6bb0165252" date="2010-03-11 00:38:54"/>
-		<rom name="disk3.ima" size="1474560" crc="2cf1cf99" md5="9a124a90386339a87f04620561bdd3b8" sha1="9b3227636516203f2c7b5442508008a95f328d3b" date="2010-03-11 00:37:16"/>
-		<rom name="disk4.ima" size="1474560" crc="29021002" md5="c9d6671ca8ad4247be208256c767bfef" sha1="083557782c3cdc3dcbb5b7b933ce4f4d9adc2ea1" date="2010-03-11 00:35:20"/>
-		<rom name="disk5.ima" size="1474560" crc="40efba26" md5="da0d7e52cbeaaacaf83bacd3a9629d40" sha1="067c56bd84b2e101ab75abb6d5eae9d287f8f61e" date="2010-03-11 00:33:38"/>
-		<rom name="disk6.ima" size="1474560" crc="c2d86138" md5="51dc8d1f176e56975973adb40bb9be86" sha1="50a8bbf81706d3d5fd844e5f05f8931d1be1d581" date="2010-03-11 00:31:58"/>
-		<rom name="disk7.ima" size="1474560" crc="a1c8debe" md5="5795818aac3a9859ca8733e95191fdc7" sha1="621ce8a53d3e2aae986b068853a0f8b606c64926" date="2010-03-11 00:29:48"/>
-	</game>
 	<game name="Day of the Tentacle (1993) (LucasArts) (Installation).dosz">
 		<description>Day of the Tentacle</description>
 		<year>1993</year>
@@ -443,18 +385,6 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=198</link>
 		<rom name="disk1.img" size="368640" crc="9ca66563" md5="f786d6be423710d19247f90cade8aaef" sha1="60f2b79bae103b7b517ba7a37f24925574f618b9" date="1996-12-24 18:32:00"/>
 		<rom name="disk2.img" size="368640" crc="83d74abb" md5="f9830360e1aaf4eecf1ec4b757db6fe4" sha1="547b5a5e7776a23186292411f15d8fa92a0614af" date="1996-12-24 18:32:00"/>
-	</game>
-	<game name="DragonStrike (1990) (Westwood) (Installation).dosz">
-		<description>DragonStrike</description>
-		<comment>The Good Old Days ID Number 2694</comment>
-		<year>1990</year>
-		<developer>Westwood</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2694/</link>
-		<rom name="disk1.img" size="368640" crc="9b558856" md5="6be995e1051ab8cf3fc98c118416b484" sha1="047db55b0ca2e5e8df78c2c81886208cc1b8dd81"/>
-		<rom name="disk2.img" size="368640" crc="03f54f0e" md5="c4347a37dd84a750a6f915c9eb26880f" sha1="79ca48d302c428aacfd311354ecf2f3c1687c16c"/>
-		<rom name="disk3.img" size="368640" crc="e32a01da" md5="8f7def5565357a90d8a23a23baee1ac1" sha1="da0930ab4edf03fadeab40311ba9beb25f76729d"/>
-		<rom name="disk4.img" size="368640" crc="b343e058" md5="c158c40b46202df07d710c63453e2ffe" sha1="c2d8bb7348a79a742488fa12f5f2c1e3a837e22a"/>
 	</game>
 	<game name="Duke Nukem 3D - Duke - Nuclear Winter (1997) (Simply Silly Software) (Installation).dosz">
 		<description>Duke Nukem 3D - Duke - Nuclear Winter</description>
@@ -526,16 +456,6 @@
 			<track number="1" type="MODE1_RAW" frames="14907" pregap="0" duration="03:18:57" size="35061264" crc="43376364" md5="bc5558a2310bc4d091fb5ee162b70c05" sha1="cf8e5de889d4aceb4dfefc715385bca4d62cee1d"/>
 		</rom>
 	</game>
-	<game name="EcoQuest - The Search for Cetus (1991) (Sierra On-Line) (Installation).dosz">
-		<description>EcoQuest - The Search for Cetus</description>
-		<year>1991</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/83469/</link>
-		<rom name="EcoQuest - The Search for Cetus (USA) (Rerelease).chd" size="377442432" crc="397f13e6" md5="694686a846012ee3c9903bf41b6cb3be" sha1="e9d0a8c9646f826955fa9ade05be8f9bd869daef">
-			<track number="1" type="MODE1_RAW" frames="154146" pregap="0" duration="34:15:21" size="362551392" crc="cc13ca46" md5="4297becfe9f345a2ce1a08b1ea8bb276" sha1="fbb4a823576eaa902e0869f404d5350717819085"/>
-		</rom>
-	</game>
 	<game name="Eradicator (1996) (Accolade) (Installation).dosz">
 		<description>Eradicator</description>
 		<year>1996</year>
@@ -594,28 +514,6 @@
 		<rom name="disk1.img" size="737280" crc="2f83f89f" md5="13f336614693c427d80d62b4a2aa4ad7" sha1="c9cd0d212248de121f52576077d86edb47edbe34"/>
 		<rom name="disk2.img" size="737280" crc="a9ad0a8f" md5="b6a02ee2eb86a851e541a8712242de44" sha1="c86154d6a73cd4e56a7a39fae39c8138b5a3bdeb"/>
 	</game>
-	<game name="Fantasy Empires (1993) (Silicon Knights) (Installation).dosz">
-		<description>Fantasy Empires</description>
-		<comment>Redump-verified CD-ROM: Fantasy Empires (USA) (Rerelease)</comment>
-		<year>1993</year>
-		<developer>Silicon Knights</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/82737/</link>
-		<rom name="Fantasy Empires (USA) (Rerelease).chd" size="19975680" crc="457b1af8" md5="cd18daa0c055f51ffe359c8d77c47069" sha1="a6d0ad46f0e26b8d9199b7b91da2411cc8f534d8">
-			<track number="1" type="MODE1_RAW" frames="8145" pregap="0" duration="01:48:45" size="19157040" crc="520fe830" md5="37fd3c6c562b92718077cefcfa051d28" sha1="b0dde787f424ba740431ddec3292d720afbf1723"/>
-		</rom>
-	</game>
-	<game name="Fantasy Fest! (1994) (SSI) (Installation).dosz">
-		<description>Fantasy Fest!</description>
-		<comment>Not Redump-verified CD-ROM: Fantasy Fest! (USA) - Used to install Stronghold</comment>
-		<year>1994</year>
-		<developer>SSI</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.mobygames.com/game/1456/fantasy-fest/</link>
-		<rom name="Fantasy Fest! (USA).chd" size="58184064" crc="2fcbd9ca" md5="330079b1f79ba74be09de8b626813efa" sha1="3458675c43af5febd32dccc7886381baa5e43f03">
-			<track number="1" type="MODE1" frames="23786" pregap="0" duration="05:17:11" size="48713728" crc="c4488445" md5="864c6acd62d536c127fdec3e8745eb70" sha1="3f3d3c1e2d98d819a6f1dbc8132509608b66dabf"/>
-		</rom>
-	</game>
 	<game name="Fantasy World Dizzy (1991) (Codemasters) (Installation).dosz">
 		<description>Fantasy World Dizzy</description>
 		<year>1991</year>
@@ -634,17 +532,6 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=3392</link>
 		<rom name="disk1.img" size="1228800" crc="db55a725" md5="0c298a0e816a5b48e5212ad997b99d34" sha1="533e96e312551c2832eee1c2cc9c2dfd48b8e92c" date="1992-06-03 10:22:48"/>
 		<rom name="disk2.img" size="1228800" crc="88430468" md5="89b1f1eb6645e2dd01af1d5fecf8f104" sha1="2f5872bbfec9706521ba5dc19765c2fc310a3ab0" date="1992-06-03 10:39:22"/>
-	</game>
-	<game name="Forgotten Realms Archives - Silver Edition - Disc 1 (1997) (Interplay) (Installation).dosz">
-		<description>Forgotten Realms Archives - Silver Edition - Disc 1</description>
-		<comment>Redump-verified CD-ROM: Forgotten Realms Archives - Silver Edition (USA) (Disc 1) - Used to install Curse of the Azure Bonds, Dungeon Hack, Eye of the Beholder I-III, Gateway to the Savage Frontier, Hillsfar, Pool of Radiance, Pools of Darkness, Secret of the Silver Blades, and Treasures of the Savage Frontier</comment>
-		<year>1997</year>
-		<developer>Interplay</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/79882/</link>
-		<rom name="Forgotten Realms Archives - Silver Edition (USA) (Disc 1).chd" size="588342528" crc="73f87509" md5="17a17cd0e671dd74151849447a67954c" sha1="83ba45ff3472ab897e302ac294266d4ac19a88b6">
-			<track number="1" type="MODE1_RAW" frames="240278" pregap="0" duration="53:23:53" size="565133856" crc="86e0f23e" md5="791c1e23c8213638556cffb821ae83c4" sha1="aa50f3794e0f208ac3450b1c43f96249c984c7f7"/>
-		</rom>
 	</game>
 	<game name="Formula One Grand Prix (1992) (MicroProse) (Installation).dosz">
 		<description>Formula One Grand Prix</description>
@@ -828,17 +715,6 @@
 			<track number="49" type="AUDIO" frames="5034" pregap="0" duration="01:07:09" size="11839968" crc="3684c400" md5="d33b3e08fa94e0f256da7653da53fafa" sha1="458689f2e74930f03eb12bf091d3b4104542ad86" in_zeros="78836" out_zeros="856995"/>
 			<track number="50" type="AUDIO" frames="5354" pregap="0" duration="01:11:29" size="12592608" crc="2b2470dd" md5="60a5d632f695e7c3e515bc66270437d8" sha1="fda099f0fc73b21ec7068a9e7edac9e34f84871b" in_zeros="16856" out_zeros="888573"/>
 		</rom>
-	</game>
-	<game name="Heroes of the Lance (1988) (SSI) (Installation).dosz">
-		<description>Heroes of the Lance</description>
-		<comment>The Good Old Days ID number 2501</comment>
-		<year>1988</year>
-		<developer>SSI</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2501/</link>
-		<rom name="disk1.img" size="368640" crc="61d3a9a2" md5="e705b6a8f341c2adcb31376f96e5e107" sha1="c45d7cbbe6f2f8b588252d5de00ed1e1cb6d602d"/>
-		<rom name="disk2.img" size="368640" crc="105d17a6" md5="e20f9bfe934c25caad2243fa0f4d58f3" sha1="7cf0a3586dc9096da21cad6024287a8a70927a95"/>
-		<rom name="disk3.img" size="368640" crc="be1f5f42" md5="a3ce7a167050247943e843525792607d" sha1="898bedbccb9a8393e32209ee9d227e705656893d"/>
 	</game>
 	<game name="Holiday Lemmings 1993 (1993) (DMA Design) (Installation).dosz">
 		<description>Holiday Lemmings 1993</description>
@@ -1080,16 +956,6 @@
 			<track number="1" type="MODE1_RAW" frames="273875" pregap="0" duration="60:51:50" size="644154000" crc="243af36f" md5="aced5d5ea401ee5847e9667c8ee8c7b9" sha1="6a3a4453e9df9f767096a5de022af3b81b535099" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Lost Secret of the Rainforest (1993) (Sierra On-Line) (Installation).dosz">
-		<description>Lost Secret of the Rainforest</description>
-		<year>1993</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<rom name="disk1.img" size="1474560" crc="928b6938" md5="a139e3b8bdd32b5c96c740027d119c5d" sha1="dfdb8016199449f31e35263abc4633817903879c"/>
-		<rom name="disk2.img" size="1474560" crc="4df71266" md5="148d526c33a538613258bf4e4f58e14f" sha1="bc7f921613d1532527a47745216e06f14978fece"/>
-		<rom name="disk3.img" size="1474560" crc="f136adec" md5="f94faa1267c8ca1768b1fe3e09a57e87" sha1="ae38783bbae77f52c9cee212e08b4ecfb09b8389"/>
-		<rom name="disk4.img" size="1474560" crc="cb40e901" md5="a3a58f3c74cafb0ca1556ef5fc33c820" sha1="a53abd71c3e2de1b40ce42f8475cf3aabec2408c"/>
-	</game>
 	<game name="LucasArts Air Combat Classics (1994) (LucasArts) (Installation).dosz">
 		<description>LucasArts Air Combat Classics</description>
 		<year>1994</year>
@@ -1105,27 +971,6 @@
 		<rom name="disk1.img" size="1474560" crc="53630651" md5="2b6c151a81179e4b863b5a6a6b4182e2" sha1="2a10f487d6b527de60fce4730764333ea64a635a"/>
 		<rom name="disk2.img" size="1474560" crc="a839fc62" md5="1e12c27c74177f67dfd301821814a0c8" sha1="7e04d4b1ab88a1d13d57797a26b68c76112340ed"/>
 		<rom name="disk3.img" size="1474560" crc="88e75330" md5="7c222f82b34814d579b6068d1a6e60ac" sha1="9ae99e353583efe3fec13ec99b9a88103995c952"/>
-	</game>
-	<game name="Manhunter - New York (1988) (Sierra On-Line) (Installation).dosz">
-		<description>Manhunter - New York</description>
-		<year>1988</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<comment>2 3.5" floppy disks matching The Good Old Days ID: 2781</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2781</link>
-		<rom name="disk1.img" size="737280" crc="de3d278a" md5="092620ef85157a8b6b9508487e9c8bc3" sha1="823c9ffb6d5dc57c5268d692fddc887a492e311c" date="2018-09-29 05:32:08"/>
-		<rom name="disk2.img" size="737280" crc="acba341e" md5="962eabeca11b54f0a17a738d0fe56dc7" sha1="459b157eab066ed55dfb9cf877c44c3bac915084" date="2018-09-29 05:32:52"/>
-	</game>
-	<game name="Manhunter 2 - San Francisco (1989) (Sierra On-Line) (Installation).dosz">
-		<description>Manhunter 2 - San Francisco</description>
-		<year>1989</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<comment>3 3.5" floppy disks matching The Good Old Days ID: 2444</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2444</link>
-		<rom name="disk1.img" size="737280" crc="2ae52621" md5="0ca79e1d51d935c9517ed2ab258d8d1e" sha1="bfedcf1ca6403ff30168e62a6bb9550c6c4c247d" date="1996-12-24 17:32:00"/>
-		<rom name="disk2.img" size="737280" crc="12c19303" md5="8b56792cd0998dc68dc26b967c0407d2" sha1="bef90bd21c6816e67bbc02c404d6815ed4098fd0" date="1996-12-24 17:32:00"/>
-		<rom name="disk3.img" size="737280" crc="37ff2d02" md5="7995189bbe2ea4684fb9541a7963cdb2" sha1="10bba12e2a353787b2f4468d2197786afe8e9f7c" date="1996-12-24 17:32:00"/>
 	</game>
 	<game name="Martian Memorandum (1991) (Access Software) (Installation).dosz">
 		<description>Martian Memorandum</description>
@@ -1345,41 +1190,6 @@
 		<comment>Registered shareware v1.02. 3.5" floppy disk matching with TGOD ID: 1893</comment>
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1893</link>
 		<rom name="disk01.img" size="1474560" crc="7efa4aa3" md5="626119fa333b5a4ef3a27f1e91bfdbc7" sha1="7520c44be7451ff07065471b905f93f60d507234"/>
-	</game>
-	<game name="Pepper's Adventures in Time (1993) (Sierra On-Line) (Installation).dosz">
-		<description>Pepper's Adventures in Time</description>
-		<year>1993</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<comment>5 3.5" floppy disks matching The Good Old Days ID: 1790</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1790</link>
-		<rom name="disk01.img" size="1474560" crc="55313469" md5="d1e31de3c34edae26f8217ee72a7897d" sha1="9102b4bf009b4f1a3c5cb6d577a53862dd17597d" date="2007-08-16 15:48:04"/>
-		<rom name="disk02.img" size="1474560" crc="f4c99b51" md5="8be69914cbaa550f71dd0c4a537744d2" sha1="ee9d80820ec8f447c8178d28fded262cc9de72f3" date="2007-08-16 15:49:06"/>
-		<rom name="disk03.img" size="1474560" crc="7663871b" md5="0780505048a072219ace5c7b86ec09e9" sha1="6b795f4069b13f602b1d194cdacda00a3ef07db4" date="2007-08-16 15:50:22"/>
-		<rom name="disk04.img" size="1474560" crc="a9178653" md5="a28f69f719fd121bb2011071a0f59b69" sha1="1a817144356513c70157e8b319900a80c4c51bf8" date="2007-08-16 15:51:48"/>
-		<rom name="disk05.img" size="1474560" crc="e73aa031" md5="a46946b910f074517da390971596b61d" sha1="9c04c957120cff1787864615b085414f4d495228" date="2007-08-16 15:52:48"/>
-	</game>
-	<game name="Phantasmagoria 2 - A Puzzle of Flesh (1996) (Sierra On-Line) (Installation).dosz">
-		<description>Phantasmagoria 2 - A Puzzle of Flesh</description>
-		<comment>Five SierraOriginals Europe CD-ROMs (Serial: S5400220Z12ZX)</comment>
-		<year>1996</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<rom name="Phantasmagoria - A Puzzle of Flesh (Europe) (Disc 1).chd" size="800633088" crc="b2dd3420" md5="02fac2812e0697a2c78a07ae8d02fe23" sha1="534a63250f674b092d901b2bc7a7af53205823d4">
-			<track number="1" type="MODE1_RAW" frames="326984" pregap="0" duration="72:39:59" size="769066368" crc="2171c0de" md5="daeef4e8423d86ec58387060eb2d753c" sha1="e686b80c38490a6383d9a1ab006436ab221c120f" in_zeros="1" out_zeros="0"/>
-		</rom>
-		<rom name="Phantasmagoria - A Puzzle of Flesh (Europe) (Disc 2).chd" size="695036160" crc="2253c208" md5="72e65abb569b277dea6e71741139fd58" sha1="d605b4010b3995499756e3e30cb36c5d6aac171d">
-			<track number="1" type="MODE1_RAW" frames="283852" pregap="0" duration="63:04:52" size="667619904" crc="5030fb4b" md5="2fa9af6cde4eb97a21cace686dbf6f75" sha1="8b19b1b4073124a7c7a6439b6aa8f0a03d303604" in_zeros="1" out_zeros="0"/>
-		</rom>
-		<rom name="Phantasmagoria - A Puzzle of Flesh (Europe) (Disc 3).chd" size="640788480" crc="38092e70" md5="b0c390b6490478316012d0175568a5f4" sha1="86ca53fd62e8cb880b3eba30a5d2827a1473e1b1">
-			<track number="1" type="MODE1_RAW" frames="261699" pregap="0" duration="58:09:24" size="615516048" crc="70c83a2b" md5="efb186551194049f2b8e84b3238e2800" sha1="0979890492438b86b717ee000949bfd1e5b8efc0" in_zeros="1" out_zeros="0"/>
-		</rom>
-		<rom name="Phantasmagoria - A Puzzle of Flesh (Europe) (Disc 4).chd" size="662918400" crc="8274d24c" md5="884e51d93930ddb3596576260839a0fa" sha1="0797629aa1a3e383d836f7867ee458402300a2e9">
-			<track number="1" type="MODE1_RAW" frames="270744" pregap="0" duration="60:09:69" size="636789888" crc="ab032e84" md5="f060672d258eb99219c495c2c29f12d8" sha1="86a6b42fc00c94355c89cb4a915d261e631eeaa2" in_zeros="1" out_zeros="0"/>
-		</rom>
-		<rom name="Phantasmagoria - A Puzzle of Flesh (Europe) (Disc 5).chd" size="729308160" crc="9017ac33" md5="1b0a167203bdc5dfd407199a6e29a395" sha1="6718335d84b321540be4d62b6b4da5df52615c8d">
-			<track number="1" type="MODE1_RAW" frames="297849" pregap="0" duration="66:11:24" size="700540848" crc="5c2c5627" md5="68bb75d7c95023b7bb52ecb6ed28777c" sha1="f70fee8685a5f02ab7de16f53ab0edbfd80bf680" in_zeros="1" out_zeros="0"/>
-		</rom>
 	</game>
 	<game name="Pharaoh's Tomb (1990) (Apogee Software) (Installation).dosz">
 		<description>Pharaoh's Tomb</description>
@@ -1701,16 +1511,6 @@
 			<track number="1" type="MODE2_RAW" frames="252006" pregap="0" duration="56:00:06" size="592718112" crc="82f0d9cf" md5="9824ca767b0a5f35931009ff4def7be7" sha1="60bf49a1563d6e7070a4338e7c868cc60d6157d9" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
-	<game name="Shadow Sorcerer (1991) (U.S. Gold) (Installation).dosz">
-		<description>Shadow Sorcerer</description>
-		<comment>The Good Old Days ID Number 3259</comment>
-		<year>1991</year>
-		<developer>U.S. Gold</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C3259/</link>
-		<rom name="disk1.img" size="737280" crc="f3ad360f" md5="9b3eb816741a5c9366c0dee5c2c4c606" sha1="b96544288c8276147876a4e6ccaf7c4e1960ce51"/>
-		<rom name="disk2.img" size="737280" crc="6994df6d" md5="254a1df238eb63cc62474e666add0a14" sha1="3e7bbd6d59b9647c85977d53a6a6231bee88622e"/>
-	</game>
 	<game name="Shanghai II - Dragon's Eye (1990) (Activision) (Installation).dosz">
 		<description>Shanghai II - Dragon's Eye</description>
 		<year>1990</year>
@@ -1787,28 +1587,6 @@
 		<rom name="disk1.img" size="1474560" crc="d249822c" md5="90856a3e8ee8cd9f4c0254a2e2e3f944" sha1="919d79a81b04e0f6d74c1fc9441b96430dc6d633"/>
 		<rom name="disk2.img" size="737280" crc="05e3094e" md5="4db4b41dbcdf7feffd1272b0c5033bc9" sha1="1bb8b9bc0cbed8701a706f4a2f86102a20ccb29b"/>
 	</game>
-	<game name="Software Toolworks' Star Wars Chess, The (1993) (The Software Toolworks) (Installation).dosz">
-		<description>Software Toolworks' Star Wars Chess, The</description>
-		<year>1993</year>
-		<developer>The Software Toolworks</developer>
-		<variant>Installation</variant>
-		<comment>14 3.5" floppy disks matching The Good Old Days ID: 2356</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2356</link>
-		<rom name="disk01.img" size="1474560" crc="9cd83683" md5="f9e318dbfcc0156fc4673b69d0fbd2ab" sha1="4a8ff71bd17ca48f145bfce6f6e093a673666279" date="1985-01-03 18:26:08"/>
-		<rom name="disk02.img" size="1474560" crc="47f78b3b" md5="cb44eb92873f2f0adaf87d38ba5875b0" sha1="ec237da65c3f8ea82779ff0f55bf62dbe81a4920" date="2013-10-20 12:05:22"/>
-		<rom name="disk03.img" size="1474560" crc="b3c6b710" md5="7215aaa297e4edf796a4191397b5aa7e" sha1="d0ff1e36eca824da19d29550c1a025c827fe12d6" date="2013-10-20 12:05:22"/>
-		<rom name="disk04.img" size="1474560" crc="bc58c31c" md5="60f6b6393c898445e187da59e8dccc36" sha1="6dccbddd0499efcb192863704871b19798d495ea" date="2013-10-20 12:05:22"/>
-		<rom name="disk05.img" size="1474560" crc="635e628a" md5="f127667b8ed99000c2a3f3bcd54c7ffb" sha1="ba0c01ffee80477b2a3e2cabac9700fc2f3ed091" date="2013-10-20 12:05:22"/>
-		<rom name="disk06.img" size="1474560" crc="7fae72af" md5="4a34d0380bf6e61f9e180afcadfc6422" sha1="80c31ab3b58f7c389e068f2d49eee10415803925" date="2013-10-20 12:05:22"/>
-		<rom name="disk07.img" size="1474560" crc="039e537a" md5="34a5a88bee9434881b504807c41ab805" sha1="2e0aef8abc926e3b74d8d716db424cb70b19cfa9" date="2013-10-20 12:05:22"/>
-		<rom name="disk08.img" size="1474560" crc="976b95cf" md5="b26ba69d504d28b72dd3e23211221843" sha1="f2ae85cedaddfb484bc36cb8762f7d056bc604f7" date="2013-10-20 12:05:24"/>
-		<rom name="disk09.img" size="1474560" crc="600d5cba" md5="be34ac4ef7ef232ae11c4b67b495f2fa" sha1="d6c058f46cffc434cb50c3cd4b95f1005af0c9f8" date="2013-10-20 12:05:24"/>
-		<rom name="disk10.img" size="1474560" crc="96e5ab67" md5="400c5671ad795327ee978054c3308481" sha1="55af75ae36e16854772c4111819cc89a0dbd195d" date="2013-10-20 12:05:20"/>
-		<rom name="disk11.img" size="1474560" crc="096ed2b0" md5="72a20964cb441f72975ea78978fb8bc7" sha1="d740883f4b3760ffd6c6afa217a394085cf6bec4" date="2013-10-20 12:05:20"/>
-		<rom name="disk12.img" size="1474560" crc="050bfb3b" md5="83162c3feb7aa105269bc2d5282538b7" sha1="62e8475056fa9574832e03f3480d41b3c60a657e" date="2013-10-20 12:05:20"/>
-		<rom name="disk13.img" size="1474560" crc="5d469342" md5="26ae0aa058296fa0aeb45b44fe1c512a" sha1="40c73a7568518397def4d8e757ded8b043aa16b0" date="2013-10-20 12:05:20"/>
-		<rom name="disk14.img" size="1474560" crc="8a109cce" md5="fc76cd5658489d19157858649ff28fd6" sha1="485036a462e50c80206468c628c0b3e587f96d42" date="2013-10-20 12:05:20"/>
-	</game>
 	<game name="Sorcerian (1990) (Nihon Falcom) (Installation).dosz">
 		<description>Sorcerian</description>
 		<year>1990</year>
@@ -1821,16 +1599,6 @@
 		<rom name="disk3.img" size="737280" crc="7538fcd1" md5="2b7ca2e84564f41cdd9120bea27b84dd" sha1="7a73a7ada1cc68011b6a6d871e556c8bd73fd93a"/>
 		<rom name="disk4.img" size="737280" crc="94976d3b" md5="f1697616fc6abb579bc64cdcff572261" sha1="ce95dbb8cce013374980d20678712b279105e2cd"/>
 		<rom name="disk5.img" size="737280" crc="996bdfc7" md5="ed8030535c2d698f46627e9de2b68c15" sha1="3054ac2f0a175eb1a1a34bef62792179a27f7ffe"/>
-	</game>
-	<game name="Spelljammer - Pirates of Realmspace (1992) (Cybertech) (Installation).dosz">
-		<description>Spelljammer - Pirates of Realmspace</description>
-		<comment>The Good Old Days ID Number 2874</comment>
-		<year>1992</year>
-		<developer>Cybertech</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2874/</link>
-		<rom name="disk1.img" size="1474560" crc="1a17dcd2" md5="b8f93a357d0ec12628a506f8656bcbb8" sha1="f7629fd9b4badd9519c6a0b63654c37d64a7e701"/>
-		<rom name="disk2.img" size="1474560" crc="a17d3e85" md5="fe3cb2fd48ed89825565836324775222" sha1="8773a0a052aa98bb93d804075bfe8963cd800573"/>
 	</game>
 	<game name="Stellar 7 (1990) (Dynamix) (Installation, Floppy Version).dosz">
 		<description>Stellar 7</description>
@@ -1942,18 +1710,6 @@
 		<rom name="disk4.img" size="1474560" crc="25a743cb" md5="2a76b431ac69fc0d97590651d2525d44" sha1="7a02d67574c70270d2f9ff2b42835151bec3cd21" date="1996-12-24 17:32:00"/>
 		<rom name="disk5.img" size="1474560" crc="afa41f08" md5="7ed40c4bd9aa78aac7bb5543a37d0b6b" sha1="509545736b8953c56ec2e288a97a76fed452b0f2" date="1996-12-24 17:32:00"/>
 	</game>
-	<game name="Terminator, The (1991) (Bethesda Softworks) (Installation).dosz">
-		<description>Terminator, The</description>
-		<comment>4 x 3.5" floppies matching The Good Old Days ID: 1669</comment>
-		<year>1991</year>
-		<developer>Bethesda Softworks</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C1313/</link>
-		<rom name="disk1.img" size="737280" crc="07f90aa2" md5="db68ac2ec264eff55e7282b303ad3e63" sha1="bd7fb90cfa4082d3d7b88d6e754a5ca75bf4f2ad"/>
-		<rom name="disk2.img" size="737280" crc="f275a44e" md5="d9e05cbf6269bb612cdba08d70e1abce" sha1="d374a5254bb786bd858b3a12ff02b9e93cf1815c"/>
-		<rom name="disk3.img" size="737280" crc="bcac03db" md5="77d50cc10db4d3963dbe858df5bc251c" sha1="54131658ecd11c5bf221ba5ed21a17c074048343"/>
-		<rom name="disk4.img" size="737280" crc="443a6d32" md5="e68ac98747a73bb8401f91234caeb2c1" sha1="d919d996345803fef30445e34eae79ebc74712b7"/>
-	</game>
 	<game name="Test Drive III - The Passion - Add-on Disk #1 - Road &amp; Car (1991) (Accolade) (Installation).dosz">
 		<description>Test Drive III - The Passion - Add-on Disk #1 - Road &amp; Car</description>
 		<year>1991</year>
@@ -1989,16 +1745,6 @@
 		<variant>Installation</variant>
 		<rom name="Disk1.ima" size="1474560" crc="87753bb7" md5="6797426d41db01511f40c1d82d96d1d9" sha1="690aa852947cdb460b5d0c1c5361a86dfbcd4704" date="2021-03-04 17:22:46"/>
 	</game>
-	<game name="Torin's Passage (1995) (Sierra On-Line) (Installation).dosz">
-		<description>Torin's Passage</description>
-		<year>1995</year>
-		<developer>Sierra On-Line</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/10234/</link>
-		<rom name="Torin's Passage (USA).chd" size="513394560" crc="4ed73016" md5="3f23525ff00a2cfc0452c1b53e20e5c6" sha1="93548814f082393ce5bb53038051a5f5527b4a65">
-			<track number="1" type="MODE1_RAW" frames="209671" pregap="0" duration="46:35:46" size="493146192" crc="890a28f9" md5="d1586c01aadd19d688def2dbb82701a7" sha1="f275e7bf6f2a412f80868014bd2560da69411a40"/>
-		</rom>
-	</game>
 	<game name="Turbo OutRun (1990) (Sega) (Installation).dosz">
 		<description>Turbo OutRun</description>
 		<year>1990</year>
@@ -2009,27 +1755,6 @@
 		<rom name="disk1.img" size="737280" crc="ab39eb27" md5="d0acb538376be74bcf7cd0c002700cf5" sha1="9e49cebc436e6b0eb2e8a9b5456da150d936fda6"/>
 		<rom name="disk2.img" size="737280" crc="ab42866c" md5="5508b5f9d407372590190019ff5e0ee2" sha1="0541caad3ec98f763609beb0d39247f3668c3abc"/>
 	</game>
-	<game name="Ultima Worlds of Adventure 2 - Martian Dreams (1991) (Origin Systems) (Installation).dosz">
-		<description>Ultima Worlds of Adventure 2 - Martian Dreams</description>
-		<year>1991</year>
-		<developer>Origin Systems</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=71</link>
-		<rom name="disk1.img" size="1228800" crc="d34df8c0" md5="4e066c122baa8e22dfbd6666e32d0339" sha1="315e78f66441a2bb48a2ab2e36e67006e049117d" date="2008-12-13 10:48:34"/>
-		<rom name="disk2.img" size="1228800" crc="ba60452b" md5="68c93eb635c95ae93fd54597be727d61" sha1="c0cb3cfecc1b948f3339b10690b6307dffd87a50" date="2008-12-13 10:49:42"/>
-		<rom name="disk3.img" size="1228800" crc="41093d4d" md5="e95d6bfb519763c2e6f5e179aad3fe6c" sha1="b2d92a5bdd118c2b5ca50e5e74e6d8a78c6fd884" date="2008-12-13 10:54:08"/>
-	</game>
-	<game name="Ultimate Might and Magic Archives, The (1998) (New World Computing) (Installation).dosz">
-		<description>Ultimate Might and Magic Archives, The</description>
-		<year>1998</year>
-		<developer>New World Computing</developer>
-		<variant>Installation</variant>
-		<comment>Includes Might and Magic I-V and Swords of Xeen, but not standalone Clouds of Xeen</comment>
-		<link type="media">http://redump.org/disc/78286/</link>
-		<rom name="Ultimate Might and Magic Archives, The (USA).chd" size="647662464" crc="502dccdd" md5="fe78b154ecd335664cbfaa835bc9d9cd" sha1="3d993e96fbbbc362ef68324a9e0988a45fae9421">
-			<track number="1" type="MODE1_RAW" frames="264510" pregap="0" duration="58:46:60" size="622127520" crc="960af0cd" md5="f4b399eb72fecf2d77b2a37d650e3900" sha1="ece918b18a5cb0d3b3a5c2586d697d9bc7da86ab" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
 	<game name="Ultimate RPG Archives, The (USA) (1998) (Installation).dosz">
 		<description>Ultimate RPG Archives, The</description>
 		<comment>Used for Bard's Tale trilogy</comment>
@@ -2039,28 +1764,6 @@
 		<link type="media">http://redump.org/disc/20379/</link>
 		<rom name="Ultimate RPG Archives, The (USA) (Disc 2).chd" size="116975232" crc="207e2c72" md5="572eab616bcb4d3f991cdceb0a1af357" sha1="9adc301507c44f74ec045752fbb6406882e02006">
 			<track number="1" type="MODE1_RAW" frames="47766" pregap="0" duration="10:36:66" size="112345632" crc="c3211837" md5="f37b99c54a3ac37fe3d70ebe1c576517" sha1="e531202bb6ce51c111cef2bf5dc3f2e41d43ba0e"/>
-		</rom>
-	</game>
-	<game name="Ultimate Wizardry Archives, The (1998) (Sir-tech Software) (Installation).dosz">
-		<description>Ultimate Wizardry Archives, The</description>
-		<year>1998</year>
-		<developer>Sir-tech Software</developer>
-		<variant>Installation</variant>
-		<comment>Includes Wizardry I-VII</comment>
-		<link type="media">http://redump.org/disc/80025/</link>
-		<rom name="Ultimate Wizardry Archives, The (USA).chd" size="791428608" crc="d7aa5037" md5="625696bc57a2dfdadaa1b54a1f733eaa" sha1="4a5ee836082e1448bbffec7e0b9cd3f0fe9b6917">
-			<track number="1" type="MODE1_RAW" frames="323221" pregap="0" duration="71:49:46" size="760215792" crc="d65b6f95" md5="70320d2dcd136a3b909e2759e4546dbe" sha1="7c789b86ce3f1ab526d57d26c4d7fb4fb0a53caa" in_zeros="1" out_zeros="0"/>
-		</rom>
-	</game>
-	<game name="Unlimited Adventures (1993) (MicroMagic) (Installation).dosz">
-		<description>Unlimited Adventures</description>
-		<comment>Redump-verified CD-ROM: Unlimited Adventures (USA) (Rerelease)</comment>
-		<year>1993</year>
-		<developer>MicroMagic</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/82748/</link>
-		<rom name="Unlimited Adventures (USA) (Rerelease).chd" size="8303616" crc="239881a8" md5="280db16e127efea35b95cbb34ed9b960" sha1="f6780dccd4e03f81849a5cc0630079811f4cebb2">
-			<track number="1" type="MODE1_RAW" frames="3382" pregap="0" duration="00:45:07" size="7954464" crc="dc866d4e" md5="e4bb30ab8b3ccadbab9117db3e62d884" sha1="20018ebdcf6d7338ad0c824521b8aa1827eb62e9"/>
 		</rom>
 	</game>
 	<game name="Wacky Wheels (1994) (Beavis Soft) (Installation).dosz">
@@ -2186,17 +1889,6 @@
 		<rom name="Disk1.ima" size="737280" crc="d3fbba73" md5="a2978441c212adb59cef4529cb2b8a57" sha1="61ecea438ca6a092f11afc942d4424ed669e6390"/>
 		<rom name="Disk2.ima" size="737280" crc="084d80b4" md5="2c23210f48212c8eeab5ec10781fcc18" sha1="050e6c81024ee7b084815b3669811c58878c0f0f"/>
 	</game>
-	<game name="Worlds of Ultima - Savage Empire (1990) (Origin Systems) (Installation).dosz">
-		<description>Worlds of Ultima - Savage Empire</description>
-		<year>1990</year>
-		<developer>Origin Systems</developer>
-		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=102</link>
-		<rom name="disk1.img" size="737280" crc="39797cdc" md5="7582671a5e22d23877c24b170f543815" sha1="d51704fe22d8d37ff4c5582907fc57bf16e77760" date="2008-12-08 12:32:46"/>
-		<rom name="disk2.img" size="737280" crc="9e977933" md5="b69f41c228db77eb3ecc893cdf01e4d5" sha1="e46e3f8853aa33bd95ce6088eb5fcee81288d84f" date="2008-12-08 12:33:52"/>
-		<rom name="disk3.img" size="737280" crc="cf9cc578" md5="60b0b2c8a14bc35ad1a15261d7d1cc10" sha1="82eda121ae135dcfddea02fe2ffdde93aa4c43c4" date="2008-12-08 12:36:18"/>
-		<rom name="disk4.img" size="737280" crc="b6adefa7" md5="ef544dfd163ee0a7cc06f79ad95f3942" sha1="b8c4af4e8f90f12b9170ad26c401c7a54abe6faf" date="2008-12-08 12:37:40"/>
-	</game>
 	<game name="Xenophage - Alien Bloodsport (1995) (Argo Games) (Installation).dosz">
 		<description>Xenophage - Alien Bloodsport</description>
 		<year>1995</year>
@@ -2234,4 +1926,26 @@
 			<track number="1" type="MODE1_RAW" frames="259962" pregap="0" duration="57:46:12" size="611430624" crc="1b42ddd8" md5="b62ca567c2f259ff020521ef54d88401" sha1="bd81e4263b368202a8339ff2d1ff7da5d20e7e0c" in_zeros="1" out_zeros="0"/>
 		</rom>
 	</game>
+  <game name="Chill Manor (1996) (Simon &amp; Schuster Interactive) (Installation).dosz">
+    <description>Chill Manor</description>
+    <year>1996</year>
+    <developer>Simon &amp; Schuster Interactive</developer>
+    <variant>Installation</variant>
+    <link type="media">http://redump.org/disc/30045/</link>
+    <rom name="Chill Manor (USA).chd" size="137303424" crc="753e247f" md5="2254f381c807561307e56f9160d9887f" sha1="ca59e965e56cea1c2086c05cdc7623cfb0008cfa">
+      <track number="1" type="MODE1_RAW" frames="56068" duration="12:27:43" size="131871936" crc="27695c56" md5="b1862854065d3206784a91800bc90e18" sha1="cba0a24b1c49c62f917c537fb576ff09f8d7a94f"/>
+    </rom>
+  </game>
+  	
+  <game name="Simon the Sorcerer (1994) (Adventure Soft) (Installation).dosz">
+    <description>Simon the Sorcerer</description>
+    <year>1994</year>
+    <developer>Adventure Soft</developer>
+    <variant>Installation</variant>
+    <comment>English DOS CD-ROM talkie release converted from the original ISO to an uncompressed CHD</comment>
+    <rom name="Simon the Sorcerer.chd" size="216599040" crc="d172ef3b" md5="651c918ee8baa5ac4b8e82456221fe71" sha1="d169427b196d087a01ea14ce60c4f3491e0d0d90">
+      <track number="1" type="MODE1" frames="88611" duration="19:41:36" size="181475328" crc="97dd28b9" md5="9fac9022c4fd73e3ec615047421071d9" sha1="da7acfb3e959212248793b17d9c12665b2e65725"/>
+    </rom>
+  </game>
+  	
 </datafile>
