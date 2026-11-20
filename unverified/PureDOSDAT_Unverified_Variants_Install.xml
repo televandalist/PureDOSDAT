@@ -1672,25 +1672,6 @@
 		<link type="media">https://puredos.github.io/dat-browser/?/Sentinel+Worlds+I-+Future+Magic+(1993)(Slash+Corporation)+%5BIMA%5D%5B720k%5D%5B!%5D</link>
 		<rom name="Disk1.ima" size="737280" crc="633f23f6" md5="33c28885945407ab325b5ceab1230099" sha1="f8fbd4690bdfa1a40b06ad57a26207bfceb9c5d5"/>
 	</game>
-	<game name="Settlers II, The (1996) (Blue Byte Software) (Installation).dosz">
-		<description>Settlers II, The</description>
-		<comment>Redump-verified CD-ROM: Bravo ScreenFun 10/2002 (Germany)</comment>
-		<year>1996</year>
-		<developer>Blue Byte Software</developer>
-		<variant>Installation</variant>
-		<link type="media">http://redump.org/disc/38196/</link>
-		<rom name="Bravo ScreenFun 10-2002 (Germany).chd" size="823056768" crc="b910367d" md5="922175aa4f05760be4e135eb1a36618c" sha1="aee114cca98e45eb3c82e12385d2ae363c441acf">
-			<track number="1" type="MODE1_RAW" frames="215298" pregap="0" duration="47:50:48" size="506380896" crc="9473bf16" md5="bb38b5ee9e415963fa8e3c69701e9554" sha1="726217d8331dfdb3dfd6ee435b2e438d3ae0f8a0"/>
-			<track number="2" type="AUDIO" frames="11546" pregap="150" duration="02:33:71" size="27156192" crc="7a92de1e" md5="70bce6295dca1d748a699f322d42b5f3" sha1="c0c32eb1ab16f7b7759ce48c9542139a05c66877" in_zeros="894044" out_zeros="4474" trimmed_crc="5faa9d8b"/>
-			<track number="3" type="AUDIO" frames="13430" pregap="149" duration="02:59:05" size="31587360" crc="05a9e25f" md5="5d11d31453f2e63be5a2d2dffeb7f34f" sha1="b33abeba95537b4227a97c4a9b1298ebb34629be" in_zeros="891756" out_zeros="4473" trimmed_crc="f761ba7e"/>
-			<track number="4" type="AUDIO" frames="13049" pregap="149" duration="02:53:74" size="30691248" crc="e2e148e8" md5="44a54691120f75a012ab5b72dba4568a" sha1="2399c790acd479ea2a137015c3fb24b065a4852d" in_zeros="891756" out_zeros="4472" trimmed_crc="9c60eeb2"/>
-			<track number="5" type="AUDIO" frames="12978" pregap="149" duration="02:53:03" size="30524256" crc="eff05488" md5="72708532a4f159e7f8e21b8955800528" sha1="05f0c98f50013a9638b225c7d7fcb46e07f8117b" in_zeros="891756" out_zeros="4473" trimmed_crc="bdc5d4f7"/>
-			<track number="6" type="AUDIO" frames="16765" pregap="149" duration="03:43:40" size="39431280" crc="2db1070e" md5="3b556bb11deb1fb75773744051dc9db6" sha1="e1ede02edf5ad2ad147c41bf3635919b7ed69317" in_zeros="891756" out_zeros="4472" trimmed_crc="e7f512f9"/>
-			<track number="7" type="AUDIO" frames="33219" pregap="149" duration="07:22:69" size="78131088" crc="60e23427" md5="b18a9df2c493309eaf2039850374c6c3" sha1="143df0926e93c5b402ec4b9d533481a5672a6a10" in_zeros="891756" out_zeros="4473" trimmed_crc="34e82784"/>
-			<track number="8" type="AUDIO" frames="9656" pregap="149" duration="02:08:56" size="22710912" crc="eb3a995d" md5="d44d4a681e9ac48d33831057efecc6a0" sha1="9819007a6fca72a743a1dd3b7c122e3e09f67d4c" in_zeros="891756" out_zeros="4473" trimmed_crc="3262fa5b"/>
-			<track number="9" type="AUDIO" frames="13179" pregap="149" duration="02:55:54" size="30997008" crc="3b518a75" md5="b3684a6a9c2836a84c10258de219df8f" sha1="09dee234efe2fd13d2f04a81d736cd57d9d03bc1" in_zeros="891756" out_zeros="2120" trimmed_crc="0d1bd4f5"/>
-		</rom>
-	</game>
 	<game name="Settlers, The (1993) (Blue Byte Software) (Installation).dosz">
 		<description>Settlers, The</description>
 		<year>1993</year>
@@ -1786,28 +1767,6 @@
 		<link type="media">https://www.goodolddays.net/en/diskimages/?id=516</link>
 		<rom name="disk1.img" size="1474560" crc="d249822c" md5="90856a3e8ee8cd9f4c0254a2e2e3f944" sha1="919d79a81b04e0f6d74c1fc9441b96430dc6d633"/>
 		<rom name="disk2.img" size="737280" crc="05e3094e" md5="4db4b41dbcdf7feffd1272b0c5033bc9" sha1="1bb8b9bc0cbed8701a706f4a2f86102a20ccb29b"/>
-	</game>
-	<game name="Software Toolworks' Star Wars Chess, The (1993) (The Software Toolworks) (Installation).dosz">
-		<description>Software Toolworks' Star Wars Chess, The</description>
-		<year>1993</year>
-		<developer>The Software Toolworks</developer>
-		<variant>Installation</variant>
-		<comment>14 3.5" floppy disks matching The Good Old Days ID: 2356</comment>
-		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2356</link>
-		<rom name="disk01.img" size="1474560" crc="9cd83683" md5="f9e318dbfcc0156fc4673b69d0fbd2ab" sha1="4a8ff71bd17ca48f145bfce6f6e093a673666279" date="1985-01-03 18:26:08"/>
-		<rom name="disk02.img" size="1474560" crc="47f78b3b" md5="cb44eb92873f2f0adaf87d38ba5875b0" sha1="ec237da65c3f8ea82779ff0f55bf62dbe81a4920" date="2013-10-20 12:05:22"/>
-		<rom name="disk03.img" size="1474560" crc="b3c6b710" md5="7215aaa297e4edf796a4191397b5aa7e" sha1="d0ff1e36eca824da19d29550c1a025c827fe12d6" date="2013-10-20 12:05:22"/>
-		<rom name="disk04.img" size="1474560" crc="bc58c31c" md5="60f6b6393c898445e187da59e8dccc36" sha1="6dccbddd0499efcb192863704871b19798d495ea" date="2013-10-20 12:05:22"/>
-		<rom name="disk05.img" size="1474560" crc="635e628a" md5="f127667b8ed99000c2a3f3bcd54c7ffb" sha1="ba0c01ffee80477b2a3e2cabac9700fc2f3ed091" date="2013-10-20 12:05:22"/>
-		<rom name="disk06.img" size="1474560" crc="7fae72af" md5="4a34d0380bf6e61f9e180afcadfc6422" sha1="80c31ab3b58f7c389e068f2d49eee10415803925" date="2013-10-20 12:05:22"/>
-		<rom name="disk07.img" size="1474560" crc="039e537a" md5="34a5a88bee9434881b504807c41ab805" sha1="2e0aef8abc926e3b74d8d716db424cb70b19cfa9" date="2013-10-20 12:05:22"/>
-		<rom name="disk08.img" size="1474560" crc="976b95cf" md5="b26ba69d504d28b72dd3e23211221843" sha1="f2ae85cedaddfb484bc36cb8762f7d056bc604f7" date="2013-10-20 12:05:24"/>
-		<rom name="disk09.img" size="1474560" crc="600d5cba" md5="be34ac4ef7ef232ae11c4b67b495f2fa" sha1="d6c058f46cffc434cb50c3cd4b95f1005af0c9f8" date="2013-10-20 12:05:24"/>
-		<rom name="disk10.img" size="1474560" crc="96e5ab67" md5="400c5671ad795327ee978054c3308481" sha1="55af75ae36e16854772c4111819cc89a0dbd195d" date="2013-10-20 12:05:20"/>
-		<rom name="disk11.img" size="1474560" crc="096ed2b0" md5="72a20964cb441f72975ea78978fb8bc7" sha1="d740883f4b3760ffd6c6afa217a394085cf6bec4" date="2013-10-20 12:05:20"/>
-		<rom name="disk12.img" size="1474560" crc="050bfb3b" md5="83162c3feb7aa105269bc2d5282538b7" sha1="62e8475056fa9574832e03f3480d41b3c60a657e" date="2013-10-20 12:05:20"/>
-		<rom name="disk13.img" size="1474560" crc="5d469342" md5="26ae0aa058296fa0aeb45b44fe1c512a" sha1="40c73a7568518397def4d8e757ded8b043aa16b0" date="2013-10-20 12:05:20"/>
-		<rom name="disk14.img" size="1474560" crc="8a109cce" md5="fc76cd5658489d19157858649ff28fd6" sha1="485036a462e50c80206468c628c0b3e587f96d42" date="2013-10-20 12:05:20"/>
 	</game>
 	<game name="Sorcerian (1990) (Nihon Falcom) (Installation).dosz">
 		<description>Sorcerian</description>

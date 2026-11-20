@@ -366,6 +366,138 @@
 		<rom name="SFX/ZAP3.WAV" size="9448" crc="c58c799a" md5="33c38a9e024e33721e5c42b0fcc18eba" sha1="b83706f5e97e4416278a9564a319362c2c5a504f" date="1995-08-26 05:30:20"/>
 		<rom name="TEST.RAW" size="40320" crc="0d2d49b8" md5="7cc517930c314be6ca818395934e9850" sha1="13b15b9f8a0b7d98176f9437aca149301c576458" date="1995-08-15 19:57:50"/>
 	</game>
+	<game name="Adventure of Tipi, The - The Legend of Meda (1996) (SiEn Art).dosz">
+		<description>The Adventure of Tipi: The Legend of Meda</description>
+		<year>1996</year>
+		<developer>SiEn Art</developer>
+		<comment>Matches TDC entry: Adventure of Tipi, The (1997)(Funsoft) [Action]</comment>
+		<comment_dosc>Auto start, CPU max year set to 1992 to prevent the demo from starting far too quickly, doesn't affect game speed itself</comment_dosc>
+		<link type="media">https://puredos.github.io/tdc-browser/?/Adventure+of+Tipi,+The+(1997)(Funsoft)+%5BAction%5D</link>
+		<rom name="AUTO01.DAT" size="24028" crc="48d5a5d3" md5="7083394d46471efe5310bd65e9ecc139" sha1="f76f6ec2e2d2d96971e3c5af75127c27c95b6382" date="1995-12-19 01:00:04"/>
+		<rom name="AUTO02.DAT" size="24028" crc="07428413" md5="24c124c0347a2a57721a47542a205240" sha1="6673d24e0b40a83522e165f360b673d03d32c7d4" date="1995-12-19 00:47:14"/>
+		<rom name="AUTO03.DAT" size="24028" crc="8fe094af" md5="11d44f8623886d7875d5bfc5aff85759" sha1="a01d70d13d163cd2178795bfe41fe015752243e8" date="1995-12-19 00:43:40"/>
+		<rom name="AUTO04.DAT" size="24028" crc="9b64edf5" md5="8023f085dd221094cdf4e1953d5ec951" sha1="9daa6102c285c997992b4f47cd38b3054063336f" date="1995-12-19 00:39:32"/>
+		<rom name="AUTO05.DAT" size="24028" crc="5414413d" md5="e89a20229bc9c0091012b749cd22a21d" sha1="d33e23cc2c29276e698e9fe50465d11029d3912e" date="1995-12-19 00:35:54"/>
+		<rom name="AUTO06.DAT" size="24028" crc="4054c2d5" md5="6805484581362cd28b94b67efb91398f" sha1="2e532adf37ce31e3165c4419bea30b6d0c2796bf" date="1995-12-19 00:08:38"/>
+		<rom name="B1.DAT" size="139080" crc="931d7d7e" md5="f67c198c6dbe388a8701e94b3481caa5" sha1="628493fce46410830d941e14f2832343d6610e00" date="1995-12-04 23:27:36"/>
+		<rom name="B2.DAT" size="84267" crc="9694b138" md5="8b12e6c1c4df32e8f7d36966c2f7bc4e" sha1="b1c470e764ea3dba4d9510c18d7917be12fe812c" date="1995-12-04 23:57:02"/>
+		<rom name="B3.DAT" size="71171" crc="1f9f978f" md5="53fe07cf4bc98e475427f773202a1fed" sha1="c6ed216d95a236b51958f6baca74d407569f3394" date="1995-12-04 13:29:24"/>
+		<rom name="B4.DAT" size="140201" crc="282d8aee" md5="6b4c870a2dbcb35d50aa22868eaaba39" sha1="54d6c75c71f746b6e669a9b063bcd48ceb2f9931" date="1995-12-04 23:40:52"/>
+		<rom name="B5.DAT" size="154723" crc="5ef58360" md5="d1a6d964f9dc3e8d291c8e2f6a92bd88" sha1="0a1c629a836a6cc9ea3888c67185f339dc2d03e4" date="1995-12-04 14:19:22"/>
+		<rom name="B7.DAT" size="76639" crc="f43b97a8" md5="d765cc89c3978ed0510126d430aea9a4" sha1="daaeb5a51c49fc1cf526f086facc645242846273" date="1995-12-06 23:44:40"/>
+		<rom name="BOSS1.A&amp;S" size="87760" crc="c4fa24f6" md5="7d7ffe6e0350c43fadfa009acd7c141c" sha1="aea15e691ad4380a145d639156b0bfa532e62f4f" date="1995-12-21 17:12:24"/>
+		<rom name="BOSS1.BGM" size="3204" crc="dd0222b3" md5="ce2e736b111614f7ec41775f42364a3a" sha1="4ef3a6de069db0f783be0ef3ce5a601ffe559552" date="1995-11-15 18:32:06"/>
+		<rom name="BOSS2.A&amp;S" size="126122" crc="93a51770" md5="5e9b3936f11a5716baee01c064120e99" sha1="d14b6cf52782ec8153b3cae6a8084e205224fd6c" date="1995-12-17 21:42:16"/>
+		<rom name="BOSS2.BGM" size="2683" crc="e5a4e5bb" md5="478359f2b4a73db9acd3a1df2b1fc273" sha1="76e2bc88453a9483465cdb527a21cc31547dd6f2" date="1995-11-15 18:32:08"/>
+		<rom name="BOSS3.A&amp;S" size="88517" crc="b77438e8" md5="0e7509cb4c6f770f400da4dc7555f793" sha1="f46b08bb21ecdf3107256b6a3918b210770274bb" date="1995-12-17 22:21:08"/>
+		<rom name="BOSS3.BGM" size="2857" crc="f20a24f3" md5="06e14f8919e03f628226cc6d4a99ef7b" sha1="6529b6e84337912a2d070c7f42774fdd1406d057" date="1995-11-15 18:32:12"/>
+		<rom name="BOSS4.A&amp;S" size="146832" crc="506bd1cf" md5="b0345542fcd016336534d8e3becc2d24" sha1="eb5a700c909ac6eae7fff43b9e9a927315dfdf70" date="1995-12-21 17:33:26"/>
+		<rom name="BOSS4.BGM" size="3825" crc="a60f9d89" md5="5f984a0477848bed0b3ff97331a36f18" sha1="cd2d8180b1ea35e405e848dc9fde3cbf4b37df25" date="1995-11-15 18:32:14"/>
+		<rom name="BOSS5.A&amp;S" size="157785" crc="09b2425b" md5="81e3b3c5cc03043deab7228cf1a5dc6d" sha1="2471d297fcaf918136c3d0e64b1405e69fc58570" date="1995-12-17 16:57:24"/>
+		<rom name="BOSS5.BGM" size="2863" crc="d3801166" md5="e05cdc124596ea27df70df6344cefcc7" sha1="daf8f0d053dc6bc958073d53973a304b46475476" date="1995-11-15 18:32:16"/>
+		<rom name="BOSS6.A&amp;S" size="45108" crc="b92ce994" md5="9dc44f22e0bbeb274ebc72861b1156a8" sha1="cba89b186f46d17482cac3fbc0d6f0ddf766228e" date="1995-12-21 18:28:26"/>
+		<rom name="BOSS6.BGM" size="2903" crc="38b5116a" md5="2025b7bfd36543e48f80e7af3f74b607" sha1="2e151b3bc5ca0f69b4a8c3b96f7e4e6d88256885" date="1995-11-15 18:32:20"/>
+		<rom name="BOSS7.BGM" size="5685" crc="90dc7eab" md5="4ea02b1ca93aa97c1a44d0ad03f17c4c" sha1="feb47a6824df1647b960cd05ca294e6731c997e6" date="1995-11-15 18:32:24"/>
+		<rom name="BOSSK5.A&amp;S" size="515719" crc="94dd11aa" md5="668bdf522c0863f7cabc2d22ad0093b9" sha1="9733313e2a3d7900ae5987194e6b248df5aad2ba" date="1995-12-27 08:54:16"/>
+		<rom name="CONTINUE.BGM" size="1658" crc="ebec2e8c" md5="df660ac509b510ad335917fd930c2307" sha1="8c03fff53d8d192c17db839f7b3037f7ee0fd90c" date="1995-11-15 18:33:54"/>
+		<rom name="DEMO1.A&amp;S" size="1464014" crc="8227f2a1" md5="4f9e3e0bb88b153481369305543762a2" sha1="b37904ca6ea7ab9c607397e8b14dbbd61dbdcad3" date="1995-12-15 17:55:26"/>
+		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6" date="1995-02-10 15:00:40"/>
+		<rom name="E00.WAV" size="1988" crc="8a17feb2" md5="34d61be1f873504511e27171467ef3a7" sha1="424c8cbd34c8043da3d7b225d27c8d3ab17ce865" date="1995-11-15 14:18:18"/>
+		<rom name="E01.WAV" size="1058" crc="07e61fa5" md5="40cf55ccc0720d064bf1916d481d8c67" sha1="354957dd460e7cb5a7cdac20c9fb50accd25b805" date="1995-11-15 13:59:48"/>
+		<rom name="E02.WAV" size="5588" crc="a2c9cc1f" md5="7fbf540fde88a79f9244d01313cfbbb1" sha1="e88d8621ba1dbe28deb955f83b6f7246b2d249bb" date="1995-11-15 14:18:54"/>
+		<rom name="E03.WAV" size="4512" crc="3dada7bb" md5="b5dabeae27df63f750d52b71e686389d" sha1="d450f465cbf5073767ad85134182f78aac372352" date="1995-11-15 14:04:38"/>
+		<rom name="E04.WAV" size="2311" crc="6ce86542" md5="0ff763622f6e56eef310461289c7466e" sha1="eaee5ad037bed3dfae632a280d626af6696e0f39" date="1995-09-07 02:27:58"/>
+		<rom name="E05.WAV" size="2311" crc="6ce86542" md5="0ff763622f6e56eef310461289c7466e" sha1="eaee5ad037bed3dfae632a280d626af6696e0f39" date="1995-09-07 02:27:58"/>
+		<rom name="E06.WAV" size="2276" crc="b00d934a" md5="c30e798d288dd05a5eea4d06f4e78c38" sha1="9d2f529ca857229871ed56dcdce760c70b8fb44e" date="1995-10-16 16:26:32"/>
+		<rom name="E07.WAV" size="3828" crc="7c23d206" md5="943046c4966e086ec4155864e83d35a0" sha1="339a80967e6418b64e0568acd4958fac65f3f3e1" date="1995-11-15 14:03:24"/>
+		<rom name="E08.WAV" size="4462" crc="122ad281" md5="7d3f0d7678c17824e9cbeece477816ae" sha1="3f3f8c3166fa7ce4ec60bc2ebcd01ebbfcd7151b" date="1995-11-15 14:09:08"/>
+		<rom name="E09.WAV" size="4462" crc="122ad281" md5="7d3f0d7678c17824e9cbeece477816ae" sha1="3f3f8c3166fa7ce4ec60bc2ebcd01ebbfcd7151b" date="1995-11-15 14:09:08"/>
+		<rom name="E10.WAV" size="4462" crc="122ad281" md5="7d3f0d7678c17824e9cbeece477816ae" sha1="3f3f8c3166fa7ce4ec60bc2ebcd01ebbfcd7151b" date="1995-11-15 14:09:08"/>
+		<rom name="E11.WAV" size="4462" crc="122ad281" md5="7d3f0d7678c17824e9cbeece477816ae" sha1="3f3f8c3166fa7ce4ec60bc2ebcd01ebbfcd7151b" date="1995-11-15 14:09:08"/>
+		<rom name="E34.WAV" size="3876" crc="c17ecbf2" md5="1f9b6dbec9fd5ea10b916aec4d8a370a" sha1="18299f4b84997ee9a6a996995d8b31eae0b877e3" date="1995-07-18 14:38:18"/>
+		<rom name="END.A&amp;S" size="102671" crc="a9e1c9a2" md5="e80af3f9c75021dbfeb71f6b7838dc2c" sha1="b7137884e8780f343f0df905712a437f9d16f9db" date="1995-12-27 02:56:22"/>
+		<rom name="GAMEOVER.BGM" size="997" crc="6686640c" md5="9ae77a9522db412f1eea969241e0a128" sha1="b47723f0492502d7ec8ad462cc0760ae6fa169cc" date="1995-11-15 18:33:28"/>
+		<rom name="HERO_201.A&amp;S" size="99927" crc="2ea79d1d" md5="e34bc1b44895e61e1da8eaaf4a8eed6c" sha1="3152c0d293ecd06fce74c7dfda8039930723c2ff" date="1995-11-24 21:03:50"/>
+		<rom name="IS2.P00" size="13940" crc="8761f5b7" md5="64e74540b53285a39463e66be05edaf1" sha1="d5c56b2f6bef651bb44f3eac9ab1627bec3bfc8c" date="1995-12-27 10:10:42"/>
+		<rom name="IS3.P00" size="13940" crc="8761f5b7" md5="64e74540b53285a39463e66be05edaf1" sha1="d5c56b2f6bef651bb44f3eac9ab1627bec3bfc8c" date="1995-12-27 10:11:30"/>
+		<rom name="ITEM1_1.STR" size="14004" crc="6a49576f" md5="6ad0aa55e20f7b89c4eb31ae704883f9" sha1="8acebc89be42a553fa7d63acc07fb474b600944b" date="1995-12-21 18:39:16"/>
+		<rom name="ITEM1_2.STR" size="20875" crc="b611fbe9" md5="6333ab6053beffce206507dd968f1cae" sha1="89e8396059037c928bce366e2dbde01b9b72ef14" date="1995-12-27 09:58:42"/>
+		<rom name="ITEM1_3.STR" size="14178" crc="a44738f2" md5="322abcd0901392ec9f4ce3d96d4f2e71" sha1="eb7353944dab36f34cd8d4e7f188d1a3f4664109" date="1995-12-21 18:53:10"/>
+		<rom name="ITEM1_4.STR" size="23592" crc="da237876" md5="c32def0061f2cbab2e04314e3aaf80ff" sha1="e32cacc8808874f4e8c4bd3f8985f2808186a4b3" date="1995-12-21 18:36:36"/>
+		<rom name="ITEM1_5.STR" size="24856" crc="be859c8f" md5="99a642d93d0818f4290d512f933a0a7b" sha1="f50bea023dfaac8bdf997d877d2602abea6e9b27" date="1995-12-21 18:37:26"/>
+		<rom name="ITEM1_6.STR" size="21488" crc="8c8d9b96" md5="9bf515bca56f7923b64c135d1530d9a3" sha1="36a24017c68567f4507747ea3a53f18684413cbc" date="1995-12-21 18:52:58"/>
+		<rom name="ITEM1_7.STR" size="8437" crc="53df295c" md5="cd889bc796e1356f5b4790bbf2881e65" sha1="81bd08ff7959ca59e45e110cc1a1912c1bce4a93" date="1995-12-27 08:34:20"/>
+		<rom name="ITEM_0.A&amp;S" size="24469" crc="f82dd7ac" md5="a22021a0ba4155668bdf5c5a362e1791" sha1="6705973305719763eaed9b548c30e6eb8242b50a" date="1995-12-18 18:28:42"/>
+		<rom name="ITEM_1.A&amp;S" size="7467" crc="cfbd9164" md5="ef7e2c73fc17f4230d915d29932485fb" sha1="276e8dbd9d3c73fd30b777fbeab4b1fe14521f0d" date="1995-12-22 23:10:22"/>
+		<rom name="ITEM_2.A&amp;S" size="74952" crc="d59e4384" md5="9695a554fab6101e5846a52491f46c69" sha1="ea6746ce5cd1d63610c66a0949546fa71524fae0" date="1995-12-18 21:49:30"/>
+		<rom name="LIST.A&amp;S" size="22605" crc="422f41a4" md5="79e26901ac44cb8fce144389d2e56e7e" sha1="8e0fcc83e673361174885734e9abb82d8fd19026" date="1995-12-21 23:52:04"/>
+		<rom name="LOGO.A&amp;S" size="234339" crc="94cc8261" md5="9b07bd6df707bff3f6605afbbb6cc6a0" sha1="eb9567ebaf0796b86a9553d9bb7144e0bb9156e5" date="1997-04-24 20:46:04"/>
+		<rom name="LOGO.BGM" size="2441" crc="0d9adffe" md5="cfb8d17612403c48723fd6d1a1d7013d" sha1="b55087f80e4daca4b4e500d5534cba34c907607e" date="1995-11-15 18:33:58"/>
+		<rom name="LOGO1.BGM" size="836" crc="adecfe7e" md5="c0d8e39b4947e68d37d55348848e29f8" sha1="d2cc66232f802addeac20126fff3c58f2ca99b2b" date="1995-09-12 15:26:38"/>
+		<rom name="MAIN_STG.SSS" size="89" crc="a01e77d9" md5="5a09976d17c33534b15070091f41538a" sha1="102f260a926cf3d9133c70d61824cb1f7cbb61ea" date="1995-12-26 23:29:34"/>
+		<rom name="MEDA_S1F.MAP" size="132811" crc="72aee0b4" md5="40b241bbbf69e91f9d4b100ec4dbf1b6" sha1="eb0881c6c13b16f7bff0f686b56652aed2d030f5" date="1995-12-04 21:51:22"/>
+		<rom name="MEDA_S2F.MAP" size="132811" crc="7eafe51a" md5="2208c830c51b96b9aceb43baa42f0882" sha1="8398ffff08468fa653eda0bb65d52e534536f015" date="1995-12-17 22:35:26"/>
+		<rom name="MEDA_S3F.MAP" size="132811" crc="df35d5c5" md5="8c434b9a06c1186965932255b6644a36" sha1="30a0713c1bf965487a800e18c275ab098b239bcc" date="1995-12-15 20:31:54"/>
+		<rom name="MEDA_S4F.MAP" size="132811" crc="50cfc87f" md5="92d5445f0834b545f66b14b827590231" sha1="3baeaafa0b00ae6d38eb1304f6768100f3890494" date="1995-12-06 01:30:54"/>
+		<rom name="MEDA_S5F.MAP" size="132811" crc="a472f701" md5="8fd87f620121648b4ef432cdc813cf51" sha1="97a1e1654a008fe9b69da1af4ec0f3250c6efe6b" date="1995-12-15 20:42:56"/>
+		<rom name="MEDA_S6F.MAP" size="132811" crc="d92b00a8" md5="5295d928416bc18e5f12f703a2aa2352" sha1="d17c9c24bdcc8464357f8b68af6e9adde2ca4d2f" date="1995-12-10 22:32:06"/>
+		<rom name="MEDA_S7F.MAP" size="80811" crc="d705c6a2" md5="053014bf6531ae208ce0fd4f112abdd9" sha1="47a9aaf6b79a6cc1ec23c5225b0bf2e2b28bacdf" date="1995-12-27 07:44:22"/>
+		<rom name="MON_01.A&amp;S" size="19162" crc="00eafc11" md5="f1c731889036383a20fd54385ff84319" sha1="e11cacbe8019c0babefc381d52f3102d7a0f4772" date="1995-11-24 03:00:48"/>
+		<rom name="MON_02.A&amp;S" size="13555" crc="6c57762b" md5="cbff824d0f526ea4a67176966d5baedf" sha1="98ab49c33f53f7e327d8fc34be3f949ede398873" date="1995-11-24 03:00:58"/>
+		<rom name="MON_03.A&amp;S" size="25577" crc="fc154ad4" md5="745937b0ba2b25d746357e1853aa3754" sha1="babce91febfbf492f2e5284966510368b82d9f14" date="1995-11-24 03:01:08"/>
+		<rom name="MON_04.A&amp;S" size="31716" crc="e1487d27" md5="2bd5aaf58c8deaa0027259218e13d5ad" sha1="e39186abca156c5f39363517511cccc857d41e9f" date="1995-11-29 03:42:52"/>
+		<rom name="MON_05.A&amp;S" size="16124" crc="b9eb41b7" md5="ba5008296f67752929cad12e51da301a" sha1="ff56277b7e7aa51041d689c9a48513348ad3334a" date="1995-11-24 03:01:28"/>
+		<rom name="MON_06.A&amp;S" size="19700" crc="ef987072" md5="f898adc18b17907f5ac61f966028ce81" sha1="ea9be176f93fb13577ada7d82c6094c18d2a93fc" date="1995-11-24 03:01:36"/>
+		<rom name="MON_07.A&amp;S" size="18711" crc="1a529a02" md5="2b9e3b55e1da706e3ff00595894fa224" sha1="12cecb1be65793e4c339ab5ef01a13a468b482cd" date="1995-11-27 23:13:54"/>
+		<rom name="MON_08.A&amp;S" size="24857" crc="4aae5f1c" md5="2bf71b94da084119c4b32546ddcb2a79" sha1="8dff57336427366b745d792604510716ca9330b3" date="1995-12-23 00:48:22"/>
+		<rom name="MON_09.A&amp;S" size="42112" crc="54fea807" md5="b006bd9593ed4803ff5314d735c8d932" sha1="adfab9ba0a75c510ef9ca0c8190cb80c3ee08c4a" date="1995-12-11 00:17:30"/>
+		<rom name="MON_10.A&amp;S" size="20789" crc="547308c2" md5="edb7b2d8dd394686800b59660547aff4" sha1="e0f36117c7f28c78c44dfbd3a3fab70802b7fbb8" date="1995-12-04 23:20:42"/>
+		<rom name="MON_11.A&amp;S" size="12678" crc="b11c40a6" md5="476b1c022bbeefc0dc520a9da2535003" sha1="6d46f2cf83416cf9efe4edc513645458ef92a061" date="1995-11-24 03:02:18"/>
+		<rom name="MON_12.A&amp;S" size="25199" crc="70e6674b" md5="04d3888e7cf241c743706aac7fc39f5f" sha1="9ff65d1f388d24732f65b72daa5747c2a29dac99" date="1995-11-24 03:02:26"/>
+		<rom name="MON_13.A&amp;S" size="3875" crc="526fbe03" md5="24e37d2fc1074935cd796272eed97a23" sha1="d4ce10897369182e42c185361d44d9031ebb4966" date="1995-12-08 02:42:24"/>
+		<rom name="MON_14.A&amp;S" size="8141" crc="2a6d2039" md5="343a306587570c870a5ef24a296d4ed3" sha1="d51bf72fa123acb458283479d6506885b7e6fb36" date="1995-12-05 23:55:08"/>
+		<rom name="MON_15.A&amp;S" size="17263" crc="e57b8439" md5="569164f11fb4a24372eb0a2a309ad4dc" sha1="b582d6a26a62a9eeecbb7fe13ef12c554f93d165" date="1995-12-06 01:18:12"/>
+		<rom name="PASS.A&amp;S" size="87747" crc="9410f598" md5="051d5d0592c6103dbc718a28c6d98ef2" sha1="17f1636f1d77448feef1360d4bed98fbcfdba050" date="1995-12-22 23:10:56"/>
+		<rom name="SCORE.BGM" size="2925" crc="8751ffc9" md5="0eca601e8fcacf388e2b515b2377102f" sha1="60dfb856c2382fbad115654bff7a58bba5fb75cd" date="1995-11-15 18:32:34"/>
+		<rom name="ST1.BGM" size="10198" crc="8e022c45" md5="275db8208afe8b5c66693efd52b27a00" sha1="3ffeecd6e01949a5945cb31182c4213ff3c1808a" date="1995-11-15 18:32:48"/>
+		<rom name="ST2.BGM" size="4522" crc="ded7b156" md5="35affe87ab7dc793801d1ada8f22ddeb" sha1="bc63d87185f4742018ac7a5ab22d96e34c71db98" date="1995-11-15 18:32:50"/>
+		<rom name="ST3.BGM" size="8711" crc="d1b531ed" md5="a7fd23e20d6d22ccf39ccb5b3d9f4d6b" sha1="288603f2b4ab0cf58bdc64e3ac5c818ff82fe35d" date="1995-11-15 18:32:54"/>
+		<rom name="ST4.BGM" size="6744" crc="d35c55ac" md5="6dfc34c0b069648e43fdb6b5f1adccb6" sha1="0a1799bfacabda4d3252abebfc338b02fe794820" date="1995-11-15 18:32:58"/>
+		<rom name="ST5.BGM" size="4815" crc="11c341dd" md5="c080f1b4ee9e8e55940ce24dddc76b0f" sha1="50db15ec31750560ebd0e300ef7133d4918786d2" date="1995-11-15 18:33:00"/>
+		<rom name="ST6.BGM" size="5427" crc="ebb68a99" md5="fbe48032f5106f8f0729e415ab49b4ad" sha1="85b8550ef15626dd7c53f1f82bc7933703570f4a" date="1995-11-15 18:33:04"/>
+		<rom name="ST7.BGM" size="6705" crc="ef90c950" md5="a1261525938cf35a65ea9ae540358a4b" sha1="8e74bb7c94ea2d97afe7912e196396bc43f4375c" date="1995-11-15 18:33:06"/>
+		<rom name="STAFF.BGM" size="3273" crc="b60d3e8d" md5="7a239225c02aabf9b331df8dff850f7c" sha1="80826fe04eb21cb993e48beaf0b41d8697b590e9" date="1995-11-15 18:32:32"/>
+		<rom name="STAGE1.P00" size="373" crc="1bae3167" md5="9f8d4a062c566e214f2d8020971884fc" sha1="46cc217e16c93ff7e84ddb3b91c125f359a7f8aa" date="1995-12-27 23:59:02"/>
+		<rom name="STAGE1.SS_" size="352" crc="fb8c4af8" md5="8122edf4b041924dfbffff8eba560aab" sha1="562bf5ccc1a76f3dc5713c6801a464df9d343b48" date="1995-12-27 04:18:16"/>
+		<rom name="STAGE2.P00" size="399" crc="42dbfd1a" md5="04cf47c45a32f11341195dc71819659a" sha1="5d50238110c16cac4436c06188791708b7c5c7ad" date="1995-12-27 23:59:44"/>
+		<rom name="STAGE2.SS_" size="374" crc="b3ef73c6" md5="f8e873799dc1060a0e2468f4e1225ea9" sha1="abb9f6e2324fbf0766ae67dec1bc746ab4d9a2bc" date="1995-12-27 04:18:28"/>
+		<rom name="STAGE3.P00" size="399" crc="7fd91c32" md5="8d5ee7dfa70df8ed661568a07ceea739" sha1="adc0332115a53c8cdd10d999e4235f8a5cd54676" date="1995-12-27 23:59:56"/>
+		<rom name="STAGE3.SS_" size="372" crc="59e9a7d5" md5="9f7bfcf430373e5f74f54959d098641d" sha1="d2874e71b7d28b7e9430309eaa194ff19fee8c6d" date="1995-12-27 04:18:40"/>
+		<rom name="STAGE4.P00" size="399" crc="79c10e4c" md5="70fda06b2d808c31704892cd391ef4cf" sha1="93f9c83b6acbafdb81660b0a6d220dc9989f59d7" date="1995-12-28 00:00:06"/>
+		<rom name="STAGE4.SS_" size="377" crc="e3b323bd" md5="909f128332bb60c9cb4c29e43d3604b3" sha1="fd7a5ddb6653c1212cf14665f9c9fe089cd90bf0" date="1995-12-27 04:18:52"/>
+		<rom name="STAGE5.P00" size="399" crc="b13562a0" md5="3f4c75f62994f074900d5c23414dca5b" sha1="5c2000ee8118a0fef793d6088dc7fcb66bedb313" date="1995-12-28 00:00:16"/>
+		<rom name="STAGE5.SS_" size="375" crc="942ad058" md5="205128c7d4c4048c894209e4668c4fc4" sha1="955719e3a818be0f1e5bfb21ecf0e4d29244a3ad" date="1995-12-27 04:19:04"/>
+		<rom name="STAGE6.P00" size="399" crc="4cbf8cbb" md5="4f85af901cf0a1d3473fde3258de7deb" sha1="1419cc48f2569f4bff037b6a20d6d024ad18b917" date="1995-12-28 00:00:28"/>
+		<rom name="STAGE6.SS_" size="375" crc="b3dc9bd9" md5="3ee482062429bf36e389208114a31c83" sha1="f1d96ea6d2039bbec0341963f69a7470c1ba4c33" date="1995-12-27 04:19:20"/>
+		<rom name="STAGE7.P00" size="204" crc="58de5fc5" md5="5755cf41c47f793cabe393065c1f9a30" sha1="13232081f245d845ca43ec1ad7d71c2f5fd96184" date="1995-12-28 00:00:36"/>
+		<rom name="STAGE7.SS_" size="196" crc="fbd65240" md5="746b42194bfdc3fd05683a0f173698eb" sha1="4316d64322d308ec2119872e1608aef1d1a10e2f" date="1995-12-27 04:19:32"/>
+		<rom name="START.BGM" size="1979" crc="1418b186" md5="22085fd063ab66e162e11f452975cf12" sha1="05bc9faaf8f6d0c1cf66e9f960098f55e15d7d05" date="1995-11-15 18:33:22"/>
+		<rom name="STRUCT01.STR" size="7786" crc="6cc6e85d" md5="74a3a3d3c85d593c305022e605045e6e" sha1="7425f56db5107e9bca1de3554402774ad1a16b77" date="1995-12-27 07:29:18"/>
+		<rom name="STRUCT02.STR" size="12174" crc="28a11948" md5="7385af593fbc1780ebcfbec3f3e8c0a3" sha1="a2a4116766f1e2299dfd513688fc45a2b18cfcbb" date="1995-12-27 07:36:28"/>
+		<rom name="STRUCT03.STR" size="5140" crc="d973332e" md5="ef95ef6172ed9b5a9de4d9b70315fdd4" sha1="f72a24261464d59f87ffb86304ed452f187421fd" date="1995-12-27 07:34:16"/>
+		<rom name="STRUCT04.STR" size="10131" crc="c8bdc403" md5="c168fb5bc11e3d69cb3d762e4739e1c7" sha1="2deaece5246450af575a2c12c8cb0c0c8304484d" date="1995-12-27 07:32:18"/>
+		<rom name="STRUCT05.STR" size="9823" crc="677588e7" md5="2e1f10e42768bc2f0e7ad437aa562ef6" sha1="6590d1b6627f4ec4da823ed19603f6fd04420c9b" date="1995-12-27 07:35:44"/>
+		<rom name="STRUCT06.STR" size="10527" crc="cbeddfd3" md5="6e729373295a1aa164a1f2c6f19fa94e" sha1="3983f11c2cbeae49a00740fda23241f2d1277ccb" date="1995-12-27 07:33:44"/>
+		<rom name="STRUCT07.STR" size="387" crc="49778387" md5="f70872d9cb7da7832a718f20f10f2b1a" sha1="a91ef1a28d48ebd1be80cc6e6d376fe24064a774" date="1995-12-27 08:46:06"/>
+		<rom name="TIPI.EXE" size="199913" crc="7ac456e6" md5="691a43cf94024a4f9c87545b5f7e0ea3" sha1="ae3369cca0bbd77ee6efdfc257b3bbc6de522fa6" date="1997-04-24 20:29:22"/>
+		<rom name="TIPI_PRJ.DSK" size="1929" crc="6cb2781e" md5="e6c64992df665f87a6174c54180fb2bc" sha1="258a2ceb1f13d547b0d385c02ee6f47df1e6dd82" date="1995-12-27 23:57:46"/>
+		<rom name="TITLE.BGM" size="12975" crc="1f5e9645" md5="499a1efd9611ba1428a7608d1d7666f1" sha1="57f662be235b0f99b8d20c1132fbd22b946c9901" date="1995-11-15 18:32:42"/>
+		<rom name="X01.WAV" size="2880" crc="397ab195" md5="feea59c6c0c74b38371c064e6be4d787" sha1="33043e77b5d568b20dfb21161cf9cc2ce0981451" date="1995-11-15 13:58:20"/>
+		<rom name="X02.WAV" size="12460" crc="efc26e5a" md5="a3684ab0ea4b3193af4a7700fe1996a2" sha1="6c854443813c740178279284392b6670962f3ac7" date="1995-11-15 13:56:24"/>
+		<rom name="X03.WAV" size="26022" crc="e21f33de" md5="6437743820981af25cf2d55c70c75411" sha1="c1e745e3c11086ed773be052879bc1cb5378feae" date="1995-11-15 14:01:12"/>
+		<rom name="X04.WAV" size="11910" crc="3515100c" md5="7da29b4183a482ffa8f5d5979f9b99df" sha1="74b1fed06f046b0937aab55dcf6722bd4ca24d80" date="1995-07-09 23:15:06"/>
+		<rom name="X6.A&amp;S" size="532452" crc="e596725a" md5="2d98fe1522e1b5b8a0ea8a29daa12352" sha1="bac160b8b590901e0f625983856c194ad42eb661" date="1995-12-26 19:33:54"/>
+	</game>
 	<game name="Alien Breed (1993) (Team 17).dosz">
 		<description>Alien Breed</description>
 		<comment>Game installed from 1.44 MB 3.5" floppy disk</comment>
@@ -14553,6 +14685,45 @@
 		<rom name="README.DOC" size="5247" crc="3ea3038f" md5="3885dcf98079b402b485ffb83921277e" sha1="a6cd8c4e558bb052b582d6526af5506a3b55110c" date="1997-10-15 09:31:46"/>
 		<rom name="README.TXT" size="2695" crc="a4907589" md5="8c9ff7fad46fbbae5f0b1a3f1d1bf5c9" sha1="2f375a92ce2060443da897e660b610a3ab42f3f8" date="1997-10-15 09:31:50"/>
 	</game>
+	<game name="Harvester (1996) (DigiFX Interactive).dosz">
+		<description>Harvester</description>
+		<year>1996</year>
+		<developer>DigiFX Interactive</developer>
+		<comment>
+			Installed from USA CD-ROM release with install size set to "Normal".
+			The required CONFIG.INI file can also be generated by DoDAT or ExtractDATEmbeds using the embedded data.
+			DoDAT can build this directly from the disc images.
+		</comment>
+		<comment_dosc>Direct mouse enabled and auto start</comment_dosc>
+		<link type="media">http://redump.org/disc/59911/</link>
+		<link type="media">http://redump.org/disc/59912/</link>
+		<link type="media">http://redump.org/disc/59913/</link>
+		<rom name="CD/Harvester (Disc 1).chd" size="720084096" crc="1cc6ca23" md5="9c4908e32435fa4f56f41e26199b6ee0" sha1="cbf7255315a71b910f928ff9486241932392ec8f">
+			<track number="1" type="MODE2_RAW" frames="294086" pregap="0" duration="65:21:11" size="691690272" crc="11a37593" md5="6d8a304d928ae3e20c9b2ec9a1fd572f" sha1="4feaa44206c464b095f5930ec1d35e2ed363cb0c" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="CD/Harvester (Disc 2).chd" size="652401792" crc="1ed86bdd" md5="ce5fb4d33d9a8c75ec070445deaf7f72" sha1="b97620f0e5faa29ba94fdd5235f8696dca767ca4">
+			<track number="1" type="MODE2_RAW" frames="266444" pregap="0" duration="59:12:44" size="626676288" crc="0e835221" md5="cedeaf8d60072234b398820abe2af3f6" sha1="ab6de651a14844369bde0c70dde5b4e1d081a810" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="CD/Harvester (Disc 3).chd" size="570951936" crc="3ad202fb" md5="a17eb73faffc97781085fe02fd65e9f1" sha1="73571336fadede5192cccf14765d8bfec0ad4681">
+			<track number="1" type="MODE2_RAW" frames="233183" pregap="0" duration="51:49:08" size="548446416" crc="98dec9b9" md5="65c21a4314b18f996234e9ef95688ca5" sha1="a40434be9b1d5c8d3d08ff842f1efa83e5a14dcf" in_zeros="1" out_zeros="0"/>
+		</rom>
+		<rom name="HARVEST/CONFIG.INI" size="205" crc="a3a1133b" md5="beea4054b3cc38a2d9e9169c4ab7159a" sha1="fec4439cd138c31b27040aa165e1dc52bb922435" data="RlhfVk9MVU1FPTkNCk1VU0lDX1ZPTFVNRT0zDQpURVhUPVlFUw0KR09SRT1ZRVMNClFVSUNLX1RJUFM9T04NClNBVkU9LlwNClZPSUNFPVNPVU5EXFZPSUNFXA0KR0FNTUE9MA0KVE9XTj1IQVJWRVNULlNDUg0KDQpDRF9ST009RDpcDQpEUklWRV8xPUQ6XGhhcnZlc3QuZGF0DQpEUklWRV8yPUQ6XHNvdW5kLmRhdA0KRFJJVkVfMz1EOlxoYXJ2ZXN0Mi5kYXQNCg=="/>
+		<rom name="HARVEST/DIALOG.RSP" size="26325" crc="4555d91f" md5="97ac8a61da215b19cdc5a2fef9f800b1" sha1="0d88f1759ea7dac90644d9d4962d3d13bdfbb23a" date="1996-09-05 11:53:58"/>
+		<rom name="HARVEST/HARVEST.EXE" size="1173079" crc="0ed886bd" md5="f2a8689edf91552dd0baa35ecc325c0a" sha1="1167509dd91a92edd25f5857dc1c6e46be15b975" date="1996-09-05 15:08:54"/>
+		<rom name="HARVEST/HARVEST.INI" size="274" crc="c343c1b9" md5="4f9245694c8adaf0ded784c2bd2dd725" sha1="80710cefb3bd3fa34c8761ec71c0abcbe1aab40c" date="1996-03-19 09:45:42"/>
+		<rom name="HARVEST/HMIDET.386" size="81990" crc="637c56a8" md5="59b3f813848cda336763648d628db917" sha1="27a06eb94b0abf13139c311ebed73358b20bcdab" date="1995-02-06 03:00:00"/>
+		<rom name="HARVEST/HMIDRV.386" size="261425" crc="f6d116a3" md5="bd16499c7c0ef8cebb0999373edc5361" sha1="becd7f4a413a1966986b4c41c860b678d7244d58" date="1995-02-06 03:00:00"/>
+		<rom name="HARVEST/HMIMDRV.386" size="117776" crc="24ef6991" md5="ddfac2fec57dfd841ccfb64adee3b35e" sha1="2a5465355553646586de2368c4cd70d30697247f" date="1995-02-06 03:00:00"/>
+		<rom name="HARVEST/MENU.INI" size="403" crc="3ad2a96a" md5="1bd54831b6541344a63b72b0b1e954ed" sha1="f485094479ee260a16a935e3261a92f39c290b9a" date="1996-09-04 11:31:08"/>
+		<rom name="HARVEST/README.TXT" size="11417" crc="eec39464" md5="f275ce2ac9134e71334c5e61906f2b22" sha1="425559210b1038542df2eb2d219f4b4395afafe0" date="1996-09-05 11:12:30"/>
+		<rom name="HARVEST/SETSOUND.BAT" size="45" crc="34dedc24" md5="82e32cdb5f4371a35fbac5ef648f3e7a" sha1="e02655ec19bb5c1fd5919f206a351f969607c326" date="1995-11-16 11:33:50"/>
+		<rom name="HARVEST/SETSOUND/SETSOUND.EXE" size="470449" crc="5dcb78c7" md5="eca2e9f14e80d19e5181534a96297fa0" sha1="379bf26c28402bfe39e38554978f1e968f1f1600" date="1996-04-12 14:17:02"/>
+		<rom name="HARVEST/SETSOUND/SETSOUND.INI" size="1889" crc="1a016169" md5="ef68a279238dea06215480b2231a25e9" sha1="1c3f7c6c61c329969d897c6c36b21a4d51bf79c7" date="1996-04-12 14:17:54"/>
+		<rom name="HARVEST/SETSOUND/SMIDET.386" size="83774" crc="ae8d1a06" md5="b6656f8af855be3184d2b9f10de91ef5" sha1="c3b75ab63273edfed1bb15acf59b321102781a96" date="1995-09-27 14:09:54"/>
+		<rom name="HARVEST/SETSOUND/SMIDRV.386" size="317317" crc="21c398b8" md5="2de5f490362469628841199644a38e02" sha1="32c89e02cae4c33d1c0b93562f4ca0fe86c4a199" date="1995-09-27 14:09:54"/>
+		<rom name="HARVEST/SETSOUND/SMIMDRV.386" size="117852" crc="833fbc45" md5="642245e78d1584edbf7cc21ca05c4992" sha1="f6b1154e9f1e5c3e191c68a971bd66afc1b45290" date="1995-09-27 14:09:54"/>
+		<rom name="HARVEST/SETSOUND/TEST.WAV" size="80684" crc="482a08f6" md5="43b48823c98c370bec77460f2eac21fa" sha1="5306d9843fabb9b6a0ff4a1932b59d4f68427d01" date="1995-09-26 14:13:52"/>
+	</game>
 	<game name="Heretic (1994) (Raven Software).dosz">
 		<description>Heretic</description>
 		<year>1994</year>
@@ -19925,6 +20096,78 @@
 		<rom name="ROGUE/PAK0.PAK" size="37875279" crc="38b70ce8" md5="c38a4e04219c317cd1b02f386bdfe11f" sha1="78df8ce771d1bef5eb9da3d51c7628b11b4ae2c8" date="1997-03-11 14:35:30"/>
 		<rom name="ROGUE/TAG.BAT" size="49" crc="6200c184" md5="76e402dbe29b4ef690d1782317722a9a" sha1="555bdf58d60674d735fffe9a14d5610f9cbe89b5" date="1997-03-07 15:38:20"/>
 	</game>
+	<game name="Quarantine (1994) (Imagexcel).dosz">
+		<description>Quarantine</description>
+		<year>1994</year>
+		<developer>Imagexcel</developer>
+		<comment>
+			Installed from original US CD-ROM release entering directory "C:" using BASIC INSTALL option.
+			CD image converted with CHDtoOGG (quality level -q9).
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>
+			Auto start
+			Sound Blaster 16 config
+			CPU max year set to 1992
+			Option to run the game with intro and outro sequences
+			IPS patch that bypasses copy protection
+		</comment_dosc>
+		<link type="media">https://redump.info/disc/74947</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Quarantine+CD+(1994)(GameTek,+Inc.)+%5Bbin-cue%5D</link>
+		<rom name="CD/Quarantine (USA) (Track 1).bin" size="69217008" crc="f9e84580" md5="4a4ab2c9168ab593d33737a60453d3be" sha1="159f71830deee5ac80b867602aa560dd5f06477a">
+			<source type="MODE1_RAW" frames="29429" duration="06:32:29"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 2).ogg" size="6367906" crc="76cce3e0" md5="36c04f397868140f7ee7c2c58d05bd68" sha1="00987ea7e07ece0ea3615bb72b08c8a95802c77f">
+			<source type="AUDIO" frames="11990" omitted_pregap="149" duration="02:39:65" size="28200480" crc="5ec48d37" md5="a42cf10e4b6d36af9c3e35ddddc484a9" sha1="e406002aafb2b6633c3b875bf0982ad563799496" in_zeros="3614" out_zeros="0" quality="9"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 3).ogg" size="8805803" crc="37dbae6c" md5="608e41067f9b0e3b716187caf28ad1e1" sha1="7cc19d5610e63af134ea7e471f84a8e45ad8cae3">
+			<source type="AUDIO" frames="16241" omitted_pregap="150" duration="03:36:41" size="38198832" crc="be5494d9" md5="c1c90ce7d4cf445076cbba1035296453" sha1="da782a326f23e569553d61237971238f62664dc7" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 4).ogg" size="6581583" crc="208ad32c" md5="6b8eec0b1326c2a2df3895377345d471" sha1="e5de2f1f0da2219a225d01371cf4c3cf2e76a420">
+			<source type="AUDIO" frames="13369" omitted_pregap="150" duration="02:58:19" size="31443888" crc="cc0a1dec" md5="4aaaaeba7298dbfe1137fed45b5d30b4" sha1="3584384271c85025bd622629def3a693df5c469b" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 5).ogg" size="6997097" crc="b5e51263" md5="16fda6a2f5e2d3e76c0b5c8e75e0b2c2" sha1="43d1a7ffe5c977937e2d2d1396315f9c350679d5">
+			<source type="AUDIO" frames="14297" omitted_pregap="150" duration="03:10:47" size="33626544" crc="0fcdb155" md5="7c168ac20eac3170a8789d1c5f7369c9" sha1="cbc1955e1db3988aa46173468e2c6dbb8a0ffcba" in_zeros="3612" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 6).ogg" size="8840437" crc="49b58f57" md5="9ca973d7daa055abda1505ef9490512b" sha1="e41fd803baaf717ead8ba570e4d974d55a12f680">
+			<source type="AUDIO" frames="15317" omitted_pregap="150" duration="03:24:17" size="36025584" crc="2106ac9c" md5="b58d4671ea28fe08b144ef3c661266ad" sha1="d33d1b86baad5fdccab7ea9e31991f576bb86a24" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 7).ogg" size="6881914" crc="0df1a1c1" md5="8dd391d262c35c324ab6215fdcffaf17" sha1="e37aea18ebc0ded70f15c7b2b5cf1cf6b59e2519">
+			<source type="AUDIO" frames="12558" omitted_pregap="150" duration="02:47:33" size="29536416" crc="ba4bf15f" md5="748cce6458e9a2860947ef5861bdfb26" sha1="b498331cad17e505ee63d040e661cdce83efb1b8" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 8).ogg" size="8301181" crc="3c09ad5a" md5="1ceecd02b1dc93af2f75821ae307ab61" sha1="db40327aca1a366576160469411000b77f1a30ed">
+			<source type="AUDIO" frames="16913" omitted_pregap="150" duration="03:45:38" size="39779376" crc="d18e4626" md5="e8999f11046b57fb3e10457c7ef746de" sha1="62df111d498be9ae8c9517c273d52dfc6b317633" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 9).ogg" size="13201746" crc="b277c8e0" md5="133015bc1b9528d7eb4da402de06cf86" sha1="278303f148154f11e457faeaff7f9a1f44f4690a">
+			<source type="AUDIO" frames="24560" omitted_pregap="150" duration="05:27:35" size="57765120" crc="5e8e650c" md5="08093d921d003529f783df7eabf555b1" sha1="02bf900a13737e7e867eca894931082405234cd9" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 10).ogg" size="11366133" crc="dee03d81" md5="e4913471bdf0b82c205a9d8fec53d1af" sha1="9e8c52cc0498c78c794032e18558cefe82caa3de">
+			<source type="AUDIO" frames="19114" omitted_pregap="150" duration="04:14:64" size="44956128" crc="06b6fd77" md5="656f5ae6114180c0c4a02342b0babba6" sha1="6a5d0b46b59b873d22097da738d680340cb11841" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 11).ogg" size="12232084" crc="93a2ed83" md5="71497bf3e66e3b6648926a2cf242b65c" sha1="5496412e919d9a973fdd5d10cc9617bd928cb4ca">
+			<source type="AUDIO" frames="22372" omitted_pregap="150" duration="04:58:22" size="52618944" crc="0c4db305" md5="1b56c41d6e83ab78783c0ef0e8c563b7" sha1="f0dc4c78f3cf61e8b53bfcb7345f7099d747383e" in_zeros="3614" out_zeros="0" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA) (Track 12).ogg" size="10686981" crc="4fa836a8" md5="23b39461abc77525163be5a98cf2f7ec" sha1="a067241a77c7bd539ac1bd0f773547f1670b9746">
+			<source type="AUDIO" frames="21875" omitted_pregap="150" duration="04:51:50" size="51450000" crc="a8db21cb" md5="1854b1d3bffc3564c5dfdf039008af55" sha1="173682232ec3a06f4a433a5ba9c2407c6ae3b050" in_zeros="3614" out_zeros="526960" quality="9" non_silence_pregap="1"/>
+		</rom>
+		<rom name="CD/Quarantine (USA).cue" size="1250" crc="34527580" md5="0715ad234fb34ebbe4cdc0ff8d370651" sha1="dc08347fd09db5fd39735b1d064f1fc695e184c0"/>
+		<rom name="CD.DAT" size="5" crc="c41a51d6" md5="b399d328972476895810676d9d5e931e" sha1="cb32897560b2b37b6d96a0bba9787d3c645ce1b9"/>
+		<rom name="CDTYPE.DAT" size="2" crc="41d912ff" md5="c4103f122d27677c9db144cae1394a66" sha1="1489f923c4dca729178b3e3233458550d8dddf29"/>
+		<rom name="CONFIG.DAT" size="1" crc="a2681b02" md5="8bb6c17838643f9691cc6a4de6c51709" sha1="8dc00598417d4eb788a77ac6ccef3cb484905d8b" date="1994-05-10 14:10:42"/>
+		<rom name="DOS4GW.EXE" size="221045" crc="099efb69" md5="4716107431eb3bf2e054770a496ae84f" sha1="a7f5060bfb54a8b3208298a43dc487acc2f7582a" date="1994-09-26 14:02:52"/>
+		<rom name="INPUT.DAT" size="2" crc="b2816d2f" md5="46028609922581afcfc377a820ab5684" sha1="9d60f706cc3ceb8fb2fb98aa9db3265458997974" date="1994-09-07 19:13:10"/>
+		<rom name="NORMAL.DAT" size="3" crc="935a143a" md5="bf66384531b1056244573dfaf4288043" sha1="35d45d983d89475ff64356483409c6379ce22328"/>
+		<rom name="Q.BAT" size="39" crc="8c4cb4ce" md5="97a493956289c1074aa334d154ac2f37" sha1="d5bf13acff3f4f21cd73556b78a1074ca5387675" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCnNraXBpdCAlMQ0K"/>
+		<rom name="QVIDAUD.BAT" size="97" crc="f891af7f" md5="26a51cba59fecb87cf05ce3a17d1db30" sha1="f310be98161b6715ca3142f4c4b1e38a40eacc9d" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCkQ6DQpEVUtET1MgQlFVQVIxREsuQVZJDQpDOg0Kc2tpcGl0ICUxDQpEOg0KRFVLRE9TIEJRVUFSMkRLLkFWSQ0KQzoNCg=="/>
+		<rom name="QVIDEO.BAT" size="101" crc="cd53c3a6" md5="759546f942df6f751c93fdc3484ed795" sha1="9eac2e6b849f5f5edce1bdd630f894b5b14cd577" data="QGVjaG8gb2ZmDQpzZXQgRE9TNEc9cXVpZXQNCkQ6DQpEVUtET1NOQSBCUVVBUjFESy5BVkkNCkM6DQpza2lwaXQgJTENCkQ6DQpEVUtET1NOQSBCUVVBUjJESy5BVkkNCkM6DQo="/>
+		<rom name="SAVE0.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:04"/>
+		<rom name="SAVE1.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:04"/>
+		<rom name="SAVE2.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:06"/>
+		<rom name="SAVE3.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:06"/>
+		<rom name="SAVE4.GAM" size="16" crc="243a5fda" md5="ec7f5513a6a0de2f11c8e7dba36073bb" sha1="70825a3ffb56d62b70d4a1abf4d5e0e88ac44274" date="1994-09-26 14:04:06"/>
+		<rom name="SETUP.EXE" size="24534" crc="d2954fed" md5="e40fe788f83121414e234ca90f4f4c68" sha1="f49449ec3a6048123d958ae3b0bd1ec5661dcd1f" date="1994-09-28 13:46:02"/>
+		<rom name="SKIPIT.EXE" size="572501" crc="a6479c2d" md5="8434d4f238109ce8a89acf4e5cc16700" sha1="65844dd668c8cc934be1cde055cd835ce3095424" date="1994-09-28 16:02:18"/>
+	</game>
 	<game name="Ravenloft - Strahd's Possession (1994) (DreamForge Intertainment).dosz">
 		<description>Ravenloft: Strahd's Possession</description>
 		<year>1994</year>
@@ -20298,6 +20541,598 @@
 		<rom name="ROGUE.OPT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="ROGUE.PIC" size="16391" crc="57106c0e" md5="afb883b611c35f79f2a5168365349ba7" sha1="954278268827812fce8d8bde04954a9c3b828a48" date="1985-03-25 16:53:10"/>
 		<rom name="ROGUE.SCR" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+	</game>
+	<game name="Settlers II, The (1996) (Blue Byte Software).dosz">
+		<description>The Settlers II</description>
+		<year>1996</year>
+		<developer>Blue Byte Software</developer>
+		<comment>
+			Installed v1.51 from UK CD-ROM release "The Settlers II: Gold Edition".
+			WORLDS files extracted from the disc after.
+			CD image converted with CHDtoOGG.
+			DoDAT can build this directly from the disc image.
+		</comment>
+		<comment_dosc>Auto-starts, config, General MIDI and Map Editor launch options</comment_dosc>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 1).bin" size="339570000" crc="8054188e" md5="7b0e58719dcad92c8022c3384321d0e4" sha1="f25279358d15f0d19a4067fbb44863139a1a1b10">
+			<source type="MODE1_RAW" frames="144375" duration="32:05:00"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 2).ogg" size="4581379" crc="97659536" md5="1aff327697759294df1251181f28fe2e" sha1="e6f8ba76f5dfde8540cb5790d278bf35d4bbc93d">
+			<source type="AUDIO" frames="11544" omitted_pregap="150" duration="02:33:69" size="27151488" crc="1b7a20ef" md5="484122055deb7b71fa716a9f568ee535" sha1="6593511b1277e5d4350f60b404781212ee5c3024" in_zeros="532324" out_zeros="9935" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 3).ogg" size="4919536" crc="a967041d" md5="8ae812cd96f5dfeecb7f05e834167044" sha1="af3b614ee82456181588ba796b6c8ca42f5aef98">
+			<source type="AUDIO" frames="13279" omitted_pregap="149" duration="02:57:04" size="31232208" crc="3cdef19c" md5="51712667955a251478e8db561947b748" sha1="75dfefba62d6a375111f635e31e13223a8d20c7a" in_zeros="530036" out_zeros="10818" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 4).ogg" size="5026175" crc="42784e10" md5="25a2803ae6c61f5b7916237fe9aad1f1" sha1="53e427f79fae7ee34340b0cad7fea511291e4585">
+			<source type="AUDIO" frames="12940" omitted_pregap="149" duration="02:52:40" size="30434880" crc="d020112d" md5="4cb63e5251dfc62587b538c6774d2e73" sha1="cb19e6971a2cfa8e0238c93884c6cb78e6d2fb34" in_zeros="530036" out_zeros="7141" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 5).ogg" size="5419229" crc="3f6979e8" md5="8c55700971d63b9f696b1823932401bf" sha1="6d88c1cc8940981df4fb3829dab0bd3cd84cf3a4">
+			<source type="AUDIO" frames="12879" omitted_pregap="149" duration="02:51:54" size="30291408" crc="1fe5e0d8" md5="d66c2462cce27da916b1561d84b3ab24" sha1="4e4ff3ac7334cc2d703fd2fe1186c17ef57a0f18" in_zeros="530036" out_zeros="12167" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 6).ogg" size="7595645" crc="6d3bda2e" md5="9c234aff4779273bfa6dcbff3f31f80b" sha1="6958fbb8e7476cdd6a23fb9b311f738f91781e76">
+			<source type="AUDIO" frames="16668" omitted_pregap="149" duration="03:42:18" size="39203136" crc="4a91c30c" md5="ea843a6e338a59e4326996e0c2ad921c" sha1="2d9c2dc41c1297b47f2018ca6ba3fbf40c124f37" in_zeros="530036" out_zeros="15667" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 7).ogg" size="12937084" crc="bc067ba5" md5="4b40527807286424d11060cc551ef79c" sha1="b9cfcf0815d2871eccf2bf60f20be5fd8a85cba1">
+			<source type="AUDIO" frames="33091" omitted_pregap="149" duration="07:21:16" size="77830032" crc="2f08733d" md5="35836d52b54b2d1d566d51a3c0b247d1" sha1="f84a915cb589ec34657ad4b012b8d9025b6b7291" in_zeros="530036" out_zeros="7533" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 8).ogg" size="4761796" crc="35d7d716" md5="7687893b93825c94f8e3891af7fd9eea" sha1="07cce6f0435922ca8e6916141e6b5ffa5954c396">
+			<source type="AUDIO" frames="9518" omitted_pregap="149" duration="02:06:68" size="22386336" crc="db15abf0" md5="114583a7e3fb5741434107f54c541d33" sha1="ab1f470a331361c33efdcc351dd59cdac9855947" in_zeros="530036" out_zeros="8024" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK) (Track 9).ogg" size="5289392" crc="004d5421" md5="3475458c9551aaf151b352b9d842d6f1" sha1="7f344b8a90250c9b26b2bb3106b90eefab9c0735">
+			<source type="AUDIO" frames="13049" omitted_pregap="149" duration="02:53:74" size="30691248" crc="918becb1" md5="f6faf3ca67b157022c493e2f856124f2" sha1="058bb557f2fb68b8cff8ecf09a44ff34cfbc02aa" in_zeros="530036" out_zeros="4432" quality="8"/>
+		</rom>
+		<rom name="CD/Settlers II, The - Gold Edition (UK).cue" size="1112" crc="5fdc44ca" md5="655517a2ec9d2cc055bbbc09c2fbd944" sha1="34ede453cb8b7194c84160baaa7d95abfd2b50f0"/>
+		<rom name="DATA/ANIMDAT/ROM_ANIM.DAT" size="38404" crc="235c8d08" md5="d64a04f1078d7ba056172b2f6e9f296e" sha1="d64312bedc78ff3169f8d101f58490d61a8f40cf"/>
+		<rom name="DATA/BOBS/BOAT.LST" size="20784" crc="5e6018e8" md5="18cf46f14a5e3665c8a163d45879b42b" sha1="8af99a597d5252d9d14124426239888a9b930e8d"/>
+		<rom name="DATA/BOBS/CARRIER.BOB" size="79988" crc="ae3ff796" md5="491b567b1f884420db25c75c8ca616f4" sha1="9dfe4c40548af68ae3909de67be403e8da5a3188"/>
+		<rom name="DATA/BOBS/CARRIER2.BOB" size="91820" crc="f21bf9dd" md5="40c96d30d2554f5cce081ffc2a8828fd" sha1="04cdf9fe33e27a966cb3dba43acd43a8505dbf08"/>
+		<rom name="DATA/BOBS/JOBS.BOB" size="243158" crc="da93d577" md5="4ccbc516f149cabe485e015e58da72ef" sha1="b3093180cdf4c9a7eaea5fabb0e2009ef47300b2"/>
+		<rom name="DATA/BOOT_Y.LST" size="41043" crc="f9dfba57" md5="4520d4e37ab9868106976eb7775024c2" sha1="589d95245d5f0700796825b32140d4204a005b9c"/>
+		<rom name="DATA/BOOT_Z.LST" size="65111" crc="f0320141" md5="fa098ce769f81981be6576e17cb9c7a9" sha1="60bdc229e1186615c50282d14931c8f91b0f8bc1"/>
+		<rom name="DATA/BOOTBOBS.LST" size="41143" crc="72f12040" md5="7e64cf913029ed61ab5225509eccd020" sha1="41b5c1f63bdc47f9e2b0a30a8d67babc9ec6cb58"/>
+		<rom name="DATA/CBOB/ROM_BOBS.LST" size="496307" crc="6ff1c1a3" md5="00c4e8168751735cc1464a2be363212c" sha1="8f6823d94450b67eddbcd1c2865019552a0aa961"/>
+		<rom name="DATA/CREDITS.LST" size="598588" crc="46d1f45c" md5="c6f7454c453c1ae271fa5b89e5bda49c" sha1="94ac3928bd68313a1a61f3023785a69e3efd9f5a"/>
+		<rom name="DATA/EDITBOB.LST" size="8795" crc="70e3970d" md5="b798ff2bd658f86606c50dee8516a110" sha1="b03ed4e9458028b057291fd561e9f7c9ace01841"/>
+		<rom name="DATA/EDITRES.DAT" size="587077" crc="2acc1b72" md5="177f7c544cf962dde1610c4d1f5ed271" sha1="b55ba80829db0904d12e1caf92dbcacb70a55238"/>
+		<rom name="DATA/EDITRES.IDX" size="1600" crc="c9acc4a2" md5="842b1becf540cbed3e2132b9bfde687e" sha1="154684309f1a2e5e71ce92067da67281c445f6ec"/>
+		<rom name="DATA/IO.LST" size="44396" crc="208686e2" md5="d83fe29b78c1c0bc186bc6e8cc87e97a" sha1="9d2656e63cac735c9fc135438dcd7045c0b09ef1"/>
+		<rom name="DATA/IO/EDITIO.DAT" size="168394" crc="3bade722" md5="519d3803222e2ff7b7447f0f4a0bfe90" sha1="a745334f53a4e4b1c67aae0d0244540918f8dcfd"/>
+		<rom name="DATA/IO/EDITIO.IDX" size="4176" crc="63a3490c" md5="c95447ccecb2c93314a5339799c8db91" sha1="d2ee84302fc098eb45e940575fd0933615c909a3"/>
+		<rom name="DATA/IO/FONT14.FNT" size="16315" crc="3128f384" md5="7389a8b68aa5431fcb7743a8de730ab9" sha1="c106e85d64608fb773ed115cc7ccf686eab602a4"/>
+		<rom name="DATA/IO/IO.DAT" size="431185" crc="f897e38a" md5="6328430559c14a6d386d19d9caacd743" sha1="5e714453e4fdf013e23d5cee1eb0d989b2f49f12"/>
+		<rom name="DATA/IO/IO.IDX" size="7396" crc="134d93df" md5="5ab2a1dd81b91d2978cc6c1f25a0828e" sha1="b232151c3f84e7866eccf6d95f08566c0d073177"/>
+		<rom name="DATA/MAP00.LST" size="522874" crc="50a08a15" md5="74f23568a56620cf5538f403a094eb55" sha1="68c2b4cf2d77f784abfb6efe60a3b20d168a924f"/>
+		<rom name="DATA/MAP01.LST" size="521220" crc="a2fa20c8" md5="ee9f531bfeb08b6c759f1093359044c1" sha1="2dcf32c7c82e9d6ea7e86a0548f401a4232facc5"/>
+		<rom name="DATA/MAP02.LST" size="550777" crc="ca921e55" md5="1bd48d12235d171cb6224c4cf2c86582" sha1="b45031b118009ecd925eae60280c07c6ea6d600a"/>
+		<rom name="DATA/MAP_0_Y.LST" size="388744" crc="07e7c827" md5="6a4284ba85351cd2d9cf92ae09f987e3" sha1="4ad4fd134af4fe8b6f6fa2e0b0d64bb2a5aa9911"/>
+		<rom name="DATA/MAP_0_Z.LST" size="550659" crc="a191caa7" md5="8091ba55e9f2f21d169c3e5b5d3e61c0" sha1="b0b82028c49b2d0ab79595c2004cb84e7d1915ed"/>
+		<rom name="DATA/MAP_1_Y.LST" size="366159" crc="fbbe8b79" md5="d95cdf79fe9af0adb4c8908a2bb447cc" sha1="5a395928b7e4abcdddb7ec924f83c6fbfb7c9680"/>
+		<rom name="DATA/MAP_1_Z.LST" size="521220" crc="a2fa20c8" md5="ee9f531bfeb08b6c759f1093359044c1" sha1="2dcf32c7c82e9d6ea7e86a0548f401a4232facc5"/>
+		<rom name="DATA/MAP_2_Y.LST" size="388452" crc="7191e4d4" md5="eb28c9725d514acdb0ee1a8ce9f819f9" sha1="dff9b675ec4c5aff69a9c3fbebc8e80d17fce65d"/>
+		<rom name="DATA/MAP_2_Z.LST" size="550777" crc="ca921e55" md5="1bd48d12235d171cb6224c4cf2c86582" sha1="b45031b118009ecd925eae60280c07c6ea6d600a"/>
+		<rom name="DATA/MAPBOBS.LST" size="550288" crc="311c98a4" md5="6a76be97dcf3980689eb37f3289562b2" sha1="23dd2b174cd4c140d2c0b97f2cbc0fc4f05f2231"/>
+		<rom name="DATA/MAPBOBS0.LST" size="522874" crc="50a08a15" md5="74f23568a56620cf5538f403a094eb55" sha1="68c2b4cf2d77f784abfb6efe60a3b20d168a924f"/>
+		<rom name="DATA/MAPBOBS1.LST" size="559073" crc="a5ec3881" md5="98a3dd4fd2bb1c621bced9b443bd5a25" sha1="a7027e87d212ae798999c0af5bfe884384f8c8b5"/>
+		<rom name="DATA/MAPS/MISS200.WLD" size="59921" crc="c941136e" md5="4629a85d505077b8b6419020067dafee" sha1="cb8967f074713613c84821c1e49d7c6539b47b4e"/>
+		<rom name="DATA/MAPS/MISS201.WLD" size="88593" crc="4366433a" md5="9de4ef9164082f5c8496d4caad666e62" sha1="16c745f98863a8cd0f15c352ece9458df1344bbd"/>
+		<rom name="DATA/MAPS/MISS202.WLD" size="231953" crc="431e9cd9" md5="b6dddc7a700cedd3363d30a0eee02a03" sha1="ad1dc8a99bf42b937dc8e16016e749e2ddd92318"/>
+		<rom name="DATA/MAPS/MISS203.WLD" size="231953" crc="e1aedb46" md5="8d5feca83db067173cbb929c231a8daa" sha1="4a23b7d4dd85e074005e7a4082e03cb23ad290e0"/>
+		<rom name="DATA/MAPS/MISS204.WLD" size="231953" crc="fb4f8f5a" md5="3760c57748f3c56acbaf97c9613357ff" sha1="eed1a048fadd15a0087fd853e94ba71a2d20e733"/>
+		<rom name="DATA/MAPS/MISS205.WLD" size="346641" crc="321d1804" md5="ee8f970637df2178e73465c418c4c787" sha1="d6a2f6fa8daef6c1f3d4ec55dba5c280de1e8b74"/>
+		<rom name="DATA/MAPS/MISS206.WLD" size="260625" crc="5166521e" md5="b3bdb47e660371135f5db12d4a3cfef8" sha1="2d1bbeaf6def1ae4542421e8c2214bc72332647c"/>
+		<rom name="DATA/MAPS/MISS207.WLD" size="292881" crc="69c3651b" md5="b4db1d5fd423d60cc94c1b717c022b84" sha1="a0e2d512a4b8d7da3216577a1070a0e3cf75c613"/>
+		<rom name="DATA/MAPS/MISS208.WLD" size="253457" crc="33310fb4" md5="fdaaced83725f03130401b42e0fe07c9" sha1="7b2a5a311f1bfd4399928f77f55c4007872c6434"/>
+		<rom name="DATA/MAPS/MISS209.WLD" size="231953" crc="88213b60" md5="a6d9e6f0c77beb366a908f4a0242cd06" sha1="3a888bdcf415f89959d82b8fe053a8e3218843b5"/>
+		<rom name="DATA/MAPS2/AFRICA.WLD" size="608308" crc="feb08b1c" md5="7339165b95445675e350cec12ddac7b7" sha1="d805b207a134865ee85295e3b3cd8a575f87e316"/>
+		<rom name="DATA/MAPS2/AUSTRA.WLD" size="203281" crc="5d966985" md5="4a18c51a8cfa93ddc2e3e74ff5b6bcd1" sha1="ce0234739b8e5a8fc85dcc09a9389a331aebfc5c"/>
+		<rom name="DATA/MAPS2/EUROPE.WLD" size="705921" crc="da69cb46" md5="02dbfbc4a30a74d150b7c3023d406841" sha1="2f382e98d73ddb4bd4be97aafa342c6da359f083"/>
+		<rom name="DATA/MAPS2/GREEN.WLD" size="89263" crc="28cc0e62" md5="a68d61c4cb088dfa35e84632f1bf5f6d" sha1="2b4a46746ebb95b28a43e5224bc22d29ddb30e77"/>
+		<rom name="DATA/MAPS2/JAPAN.WLD" size="128172" crc="d64f7807" md5="06294448a9494db68745eadd56051fd6" sha1="99bfd2d230e38997d19f8d906ce09edc33251de4"/>
+		<rom name="DATA/MAPS2/NAMERICA.WLD" size="702122" crc="83d015c1" md5="c841fdf2268edd16e80fc6da9a001d87" sha1="1517fc2ba0c66b26462cf4f5267adf7769e6e504"/>
+		<rom name="DATA/MAPS2/NASIA.WLD" size="203281" crc="40ebb238" md5="2bf9aac6bebf278ad0e4809123a390e1" sha1="c5d8162dcd995fea2377643d7496cc163402cb02"/>
+		<rom name="DATA/MAPS2/SAMERICA.WLD" size="515874" crc="74f4beb8" md5="04d52fd9fa51aba05208d954d0ddae6c" sha1="35e5132ecba20154d98f9ec73de5e2602b817ac9"/>
+		<rom name="DATA/MAPS2/SASIA.WLD" size="555198" crc="e72cc5e5" md5="779a51773267b33c938f0ec1f7f12cd3" sha1="58bfd95b4f2979becc97d3c432890dece403c7f7"/>
+		<rom name="DATA/MAPS3/OMAP00.WLD" size="292881" crc="978c3919" md5="0640967897684344c572ca55acc30d3d" sha1="683005aac8c71267ef1fee094dc303d0962a84ba"/>
+		<rom name="DATA/MAPS3/OMAP01.WLD" size="228369" crc="81611e71" md5="51f9f26bd4a70a435d0e40ecff02e04e" sha1="2249c85a199944af0c1dfef8f0478ff425775ccd"/>
+		<rom name="DATA/MAPS3/OMAP02.WLD" size="325137" crc="816e0357" md5="89578d0838e521ecc70535a991197ca7" sha1="6ad0a6cf4c2f19ecd3b6a3132b861016655b67a0"/>
+		<rom name="DATA/MAPS3/OMAP03.WLD" size="131601" crc="9a1609c2" md5="5819568dcc821de01488b754b014c03b" sha1="a90c324585d84bf9053d1ed76360262d12c77af0"/>
+		<rom name="DATA/MAPS3/OMAP04.WLD" size="604689" crc="083acd18" md5="ec836866df042c8abdca9d69d9bb2084" sha1="2491cbf42bf919d0ff8eac16c174e3f674664eb0"/>
+		<rom name="DATA/MAPS3/OMAP05.WLD" size="178193" crc="351d3aed" md5="95364c4db82e196cf0619af5f5878a53" sha1="7b43977f62a1127599f2f972c888cfdb2ab54a82"/>
+		<rom name="DATA/MAPS3/OMAP06.WLD" size="131601" crc="adc54431" md5="819d3604fe6d8a98c8ca60d5322a178b" sha1="ad6e23b3ea1f6be13d9d6c4bf5bcdc2735f938b2"/>
+		<rom name="DATA/MAPS3/OMAP07.WLD" size="131601" crc="2436f1d9" md5="f8b3d0ee8d7224b25d9477fe579626c3" sha1="fe312a5d0760dc9a438ee15b7a05f1248d19c4ea"/>
+		<rom name="DATA/MAPS3/OMAP08.WLD" size="260625" crc="28b2d060" md5="eb21eb49bba1f3485a838ae911d9ac09" sha1="bb82492c546e6a57cb16922be7694f261efbd68a"/>
+		<rom name="DATA/MAPS3/OMAP09.WLD" size="260625" crc="ca5bf95d" md5="789b7dacf0229722fd00bb529d3d3172" sha1="4ee083a8b26593d2f23667165679be4b5128380f"/>
+		<rom name="DATA/MAPS3/OMAP10.WLD" size="436241" crc="b4527788" md5="d93eaf91a994fe739806f80456dbc013" sha1="3c02dffacd6d2493858dc0823752d12bd10326ea"/>
+		<rom name="DATA/MAPS3/OMAP11.WLD" size="475665" crc="8cfe22e8" md5="0778cd7f2a55b34f3134c55fd2484a45" sha1="3bea25a20c8309bd96b3c8da3c2bb7c015b21df0"/>
+		<rom name="DATA/MAPS3/OMAP12.WLD" size="328721" crc="6c1e5334" md5="4a7ade32abfb2443ddbcab89ffb1fde7" sha1="1108e324f850a6f1860908043c6be5f186162c08"/>
+		<rom name="DATA/MAPS3/OMAP13.WLD" size="260625" crc="8743309d" md5="fb3039d5426706fe1817eaebda95175b" sha1="c5948f2f5ee053e739c4acfc2c30e34edf603576"/>
+		<rom name="DATA/MAPS3/OMAP14.WLD" size="647697" crc="057b3c90" md5="53d1ef32be511dffabdf94b5b7433f31" sha1="563287b829aee60ae6cf080f5b802f94b9a49a7a"/>
+		<rom name="DATA/MAPS3/OMAP15.WLD" size="131601" crc="bffbe078" md5="46984e796cde7950670408ab7728d337" sha1="3127d6c1a1e7e00678881a18c236609a8ffc68df"/>
+		<rom name="DATA/MAPS3/OMAP16.WLD" size="131601" crc="2c890f91" md5="ac9df8d437fcf2136dff5ec561aedb19" sha1="bbbc6f3adfd2c390394aa240b6d78d72c3cf97d2"/>
+		<rom name="DATA/MAPS3/OMAP17.WLD" size="131601" crc="e4ce868c" md5="724c8ddc704da4cb0dad99f917e15e82" sha1="270b1800ea58c211329ea780249614d9057eaadd"/>
+		<rom name="DATA/MAPS4/MAP01.WLD" size="203281" crc="e0119d9e" md5="d02c136e2e75230def4b7c5f67da7ff8" sha1="93f9a03890f797e90808da66d74c2c3b2ec64e59"/>
+		<rom name="DATA/MAPS4/MAP02.WLD" size="60011" crc="0618b36c" md5="a9694f4883e8508a97c064043c58501c" sha1="5ade96b8129c1d25f0a7ce730453bd9c795f6513"/>
+		<rom name="DATA/MAPS4/MAP03.WLD" size="231988" crc="cf665021" md5="fc54a5fe0c345c0d3103de47adc86384" sha1="e8f96f3d0aef62186af8dca29cfc2ad69954dcb4"/>
+		<rom name="DATA/MAPS4/MAP04.WLD" size="178193" crc="861f5707" md5="ffc1615b4d32552f07471fff86c27834" sha1="9b3df256ee0b3c8f4b6bd8ef077df326a77039ee"/>
+		<rom name="DATA/MAPS4/MAP05.WLD" size="181663" crc="08a4fa60" md5="1c57a5980fff057a4adc203fa842e0db" sha1="24ea3f4a8c1d32816ac32bca45a1d768c5f4d59a"/>
+		<rom name="DATA/MAPS4/MAP06.WLD" size="92437" crc="bd9a712a" md5="598787d0522f3aef4eb9e330a3e4af4a" sha1="ef80087718f5cdf8dc9361a8720d6bc270876966"/>
+		<rom name="DATA/MAPS4/MAP07.WLD" size="361852" crc="163ea7d4" md5="f8da747250cb1fbface6c8fe41215150" sha1="7d94156bb572ce085b503be1fc62ec82671e3365"/>
+		<rom name="DATA/MAPS4/MAP08.WLD" size="131956" crc="d91cc35d" md5="af441e5a97416063409c3ab6a7552b2c" sha1="8db473a1f52445507684f1edfbf5eaed76b471f7"/>
+		<rom name="DATA/MAPS4/MAP09.WLD" size="293386" crc="266c9af0" md5="38ebe855d136638d00d28d921d94e1fd" sha1="e7590c2bf229f54749e9a505c6bc5f11039c055a"/>
+		<rom name="DATA/MAPS4/MAP10.WLD" size="60331" crc="e5f8bdc9" md5="a65aba7c2a7f7859f5ec73546df6e228" sha1="c87ef96d9157accaf6107e63be5368e8ea66648c"/>
+		<rom name="DATA/MAPS4/MAP11.WLD" size="293371" crc="f0a794c7" md5="34ff93724d325152062d2b06cdcbc41b" sha1="a0d752510978973474953987c222943d45b9d032"/>
+		<rom name="DATA/MAPS4/MAP12.WLD" size="178618" crc="2f332b93" md5="c62e11e2529571fd2a47a9808239e2c7" sha1="fccf7906a29c2aeb7db0a2547037cac5495c2134"/>
+		<rom name="DATA/MASKS/MASKS000.DAT" size="12" crc="add8d59c" md5="fc8f870940e3f1784f7d17dfa26125ba" sha1="86932d5459f80088ae4a7b1f53118c006713fa3c"/>
+		<rom name="DATA/MBOB/AFR_BOBS.LST" size="265314" crc="a0874121" md5="b661d66e2cb728df439f99c846c1ad0b" sha1="1cfeb1607de3b08f4612bb951747099eee10eeed"/>
+		<rom name="DATA/MBOB/AFR_ICON.LST" size="21983" crc="7246be51" md5="48b64c1c5570d7a4424f1d69094ea09d" sha1="ba5bb3542f56a3bc7a5b30f798ad3b72d2a48c3e"/>
+		<rom name="DATA/MBOB/AFR_Y.LST" size="254674" crc="82f6258b" md5="a9fad497ffcdc310acc71a2895ece1aa" sha1="7144d8fe2bd2356a82764e1cad2589595dac654b"/>
+		<rom name="DATA/MBOB/AFR_Z.LST" size="264159" crc="2675aa0f" md5="74fa111bb8b30545bb3ff9817829cf8d" sha1="1c74521ffb22d2dafd06d5acd7ecbcd430b31c05"/>
+		<rom name="DATA/MBOB/JAP_BOBS.LST" size="262837" crc="f2aa3909" md5="9174ca68090c435fcb11764ffe734e39" sha1="6a560848d03a19aff010f5de63f3878cb8564980"/>
+		<rom name="DATA/MBOB/JAP_ICON.LST" size="22036" crc="110fd483" md5="e46d42605f14bc01f9ee9862c2bac53c" sha1="d58eb9935b8d8c2f4601fa7d444e2a53ec1ab09a"/>
+		<rom name="DATA/MBOB/JAP_Y.LST" size="252668" crc="4e74807e" md5="87beba54bc99fd292cf607d97865d06f" sha1="92999daf31ace24c2fcbb705052f6c19e0ef563b"/>
+		<rom name="DATA/MBOB/JAP_Z.LST" size="263114" crc="31d56d90" md5="cc9a291467238c9f7c2ffa252f184ff8" sha1="aac0ed280ccbcf8b5d5a7185c99cefad99995071"/>
+		<rom name="DATA/MBOB/ROM_BOBS.LST" size="286130" crc="707cba2e" md5="32b1df08fcaee148a329d66eae60e21f" sha1="ebe5412e37ef3514d1e2b4c5a9040c1c58755612"/>
+		<rom name="DATA/MBOB/ROM_ICON.LST" size="21896" crc="afade4d0" md5="5c1ffe1d999efa2ddeb9d9378e541542" sha1="cd01277a23fc8c2139de1e1f452bd62d82654134"/>
+		<rom name="DATA/MBOB/ROM_Y.LST" size="271145" crc="9d7adf1a" md5="4e3fdabbb51090956f30e413a21e05cb" sha1="c68a0c372d0fde41f1447469bfae53850d50970b"/>
+		<rom name="DATA/MBOB/ROM_Z.LST" size="283279" crc="657179eb" md5="7f4f36c0d732381992b1d0db84828aac" sha1="36ca7015dcf138ce6584f312f4ec5883f75dfef2"/>
+		<rom name="DATA/MBOB/VIK_BOBS.LST" size="253870" crc="8fcb41b5" md5="74ed7c4807084c4d41ef501b2e238c7c" sha1="e0f91d78bf7334c5f6f923ed29c5a1b4dcc1d5d4"/>
+		<rom name="DATA/MBOB/VIK_ICON.LST" size="21567" crc="36c31aab" md5="70c41547213b9248d5bf28c2329e0e7e" sha1="14f50cd285fc9ba7e559c496ddd1a57a469285ad"/>
+		<rom name="DATA/MBOB/VIK_Y.LST" size="246032" crc="6ee24bd2" md5="68ce17f90ce229ad889aace4bb4d552c" sha1="6e8dd5cabc5cd1decd8c231004a958945aaf14a9"/>
+		<rom name="DATA/MBOB/VIK_Z.LST" size="253870" crc="c7c0330f" md5="1cfad6a0f4f8feb97422ee407908ae4d" sha1="80adf92b4da5756e93242ee5f6e62733f99e94ff"/>
+		<rom name="DATA/MBOB/WAFR_Y.LST" size="251295" crc="7557760c" md5="fc47b4b538719de3d442088834d0c213" sha1="5da6fcc2e209a8e191739d18efb7ca11f8cb525f"/>
+		<rom name="DATA/MBOB/WAFR_Z.LST" size="260780" crc="edbbb4ba" md5="204f41c89c4b03638e09eb5d0e0f7fb4" sha1="0bd69d6b462de37de1b0c95b609b9b88f1ce2306"/>
+		<rom name="DATA/MBOB/WJAP_Y.LST" size="252336" crc="bb9e9559" md5="8bf090bae7276c1812c7aa6338239762" sha1="e73e796da8424bf9afb54c2f23df67a148b7e8de"/>
+		<rom name="DATA/MBOB/WJAP_Z.LST" size="262782" crc="d95f7f9b" md5="fd3df0856eb055a79d6a416f7f4efba9" sha1="f416931e7c19876f8eae35a44193c4c01b792b54"/>
+		<rom name="DATA/MBOB/WROM_BOB.LST" size="284605" crc="39d368af" md5="c4824a8e3e36ef3afadfebe86fa9c5f1" sha1="3253380bada7df5d21edf027fc484af090255a03"/>
+		<rom name="DATA/MBOB/WROM_Y.LST" size="284605" crc="39d368af" md5="c4824a8e3e36ef3afadfebe86fa9c5f1" sha1="3253380bada7df5d21edf027fc484af090255a03"/>
+		<rom name="DATA/MBOB/WROM_Z.LST" size="284605" crc="39d368af" md5="c4824a8e3e36ef3afadfebe86fa9c5f1" sha1="3253380bada7df5d21edf027fc484af090255a03"/>
+		<rom name="DATA/MBOB/WVIK_Y.LST" size="254391" crc="2f8f7a39" md5="046e22b423d30b65c324e8085a06861e" sha1="a2514b136e8069820405d19e275d0ced355f1fab"/>
+		<rom name="DATA/MBOB/WVIK_Z.LST" size="254391" crc="2f8f7a39" md5="046e22b423d30b65c324e8085a06861e" sha1="a2514b136e8069820405d19e275d0ced355f1fab"/>
+		<rom name="DATA/MIS0BOBS.LST" size="6557" crc="3478db2a" md5="d4523ffccacb43b78d1d7ce39d805ea9" sha1="92fd466e7ac719a66d56baf8059542faba18e54b"/>
+		<rom name="DATA/MIS1BOBS.LST" size="13585" crc="65b719d3" md5="d02b9fd77e137f74d8f9952fa28b63ab" sha1="af066761624d7ffbd6245bac8f2ddff888403734"/>
+		<rom name="DATA/MIS2BOBS.LST" size="17573" crc="1a2fcbfa" md5="395e0a185e4a431912e191b2e40870fd" sha1="fd517309639390bdd037dbe25850c3c991a189eb"/>
+		<rom name="DATA/MIS3BOBS.LST" size="1112" crc="e028d1d9" md5="b8982304f2c07ef60f4902b09136c289" sha1="438efee57d8527438dbeaad8c1763dbfcdf25374"/>
+		<rom name="DATA/MIS4BOBS.LST" size="399" crc="bae0c070" md5="b474423c89a68d2efb8fd23a06ac2aa7" sha1="d32e59459f4ae58122063a3207669eaca98509c3"/>
+		<rom name="DATA/MIS5BOBS.LST" size="4574" crc="4373407a" md5="46a699226721c7483f5351a41bdc4930" sha1="1236e137fb8c5260efb29ad44be024a243c89425"/>
+		<rom name="DATA/MISSIONS/MIS_0000.RTX" size="4343" crc="4b5299fe" md5="a6d90b56be94f57480da04ddded88a27" sha1="b63db490e6d932abc7f4b4c4819e08c7ab8ef491"/>
+		<rom name="DATA/MISSIONS/MIS_0001.RTX" size="4759" crc="67bb1d5b" md5="0965a2001668ded76b0c93e06c687ac3" sha1="9284c625beea7193be281fa7f9cdf758af261182"/>
+		<rom name="DATA/MISSIONS/MIS_0002.RTX" size="5801" crc="b4d5f424" md5="ffc49e865c549fd63b78a7d47106e2ba" sha1="cce7052e794829d4e40721666da98d405ee66104"/>
+		<rom name="DATA/MISSIONS/MIS_0003.RTX" size="5603" crc="8cee13fd" md5="0ff30e9633487018165000449fddad63" sha1="9df7a733c45ca465e6d788292c265a0ced13d78e"/>
+		<rom name="DATA/MISSIONS/MIS_0004.RTX" size="4061" crc="1460cac0" md5="f3cd848cac59a0a338e583d8ed72bab6" sha1="b027e9dbf9b5562b9b0e862919e4489e582cde25"/>
+		<rom name="DATA/MISSIONS/MIS_0005.RTX" size="4355" crc="3a3c014f" md5="844c2d7ee6a7dd43ba0270c8b0ee188c" sha1="f4ae21ed5f86aa40ef5591593e9f501222e49b14"/>
+		<rom name="DATA/MISSIONS/MIS_0006.RTX" size="4702" crc="94260f3d" md5="2c572ff8db9abe146c768b15ec1f70f4" sha1="c027fd94d59066f87d2a3724dc6364bde4fe5fb0"/>
+		<rom name="DATA/MISSIONS/MIS_0007.RTX" size="3832" crc="8087c4b3" md5="87516f1e4a87a4c3ff77527aec5b037d" sha1="0d6e2c52a8ff6b8916bbecaba54df147858b7596"/>
+		<rom name="DATA/MISSIONS/MIS_0008.RTX" size="3356" crc="74a3f80d" md5="e2f2cd3113b12ffac0103446b19f53e4" sha1="035b8bdd6a57ee2f3414c271a23cbaf1447656b5"/>
+		<rom name="DATA/MISSIONS/MIS_0009.RTX" size="4452" crc="08c16846" md5="55e5bb310d6ebeaa5eb1353c3753390e" sha1="ca0c327e4f9eb361f28671d0efe7333381a51084"/>
+		<rom name="DATA/MISSIONS/MIS_1000.RTX" size="1291" crc="a6a2acec" md5="35a2fcb06ab5d7aaef6b0920c89a729c" sha1="c53568898969e2dea765a5f956d53ed336707a33"/>
+		<rom name="DATA/MISSIONS/MIS_1001.RTX" size="972" crc="b0c23b31" md5="e135aa6a54729269c88fe4b312cd5610" sha1="31af44e5fefe26ae8d9b15424a3ba6ed20e26e5e"/>
+		<rom name="DATA/MISSIONS/MIS_1002.RTX" size="859" crc="ccae74f9" md5="2fa1342d2f70fe69762f99fe6aef62bb" sha1="421c81a089c35ed21feca4652521b1da42982d27"/>
+		<rom name="DATA/MISSIONS/MIS_1003.RTX" size="903" crc="701f8080" md5="e440ba2f43379f7d9e1dbbaf593336ff" sha1="e24289f0872dca46b3476d875b4a215453360b1b"/>
+		<rom name="DATA/MISSIONS/MIS_1004.RTX" size="788" crc="031118e2" md5="382fc1b6a8d0b5f54a551a27a28469bf" sha1="e174c8dbbd2a1a5a24b91eefab2e0046f22e1d43"/>
+		<rom name="DATA/MISSIONS/MIS_1005.RTX" size="1100" crc="f2cc91b5" md5="9d44dd20f41816ee4d83d2f2747581d9" sha1="5daa1ba3fe33c74216ee8070a5119118d137d333"/>
+		<rom name="DATA/MISSIONS/MIS_1006.RTX" size="1180" crc="c966f2b2" md5="bdd15466301ab1556002bfb3afba7167" sha1="8588921d61c3e32cc7cb79c4689471e396165cb9"/>
+		<rom name="DATA/MISSIONS/MIS_1007.RTX" size="1071" crc="b89e9903" md5="ae2eede2bf62b9720293d2c632acec25" sha1="bb18b637987cc07b28f63593861f4afc2705449b"/>
+		<rom name="DATA/MISSIONS/MIS_1008.RTX" size="1098" crc="5e9aab4e" md5="8209991bc3689631281870f7a5754781" sha1="de573de926caf5405e942c23ebcce381b9feb792"/>
+		<rom name="DATA/MISSIONS/MIS_1009.RTX" size="793" crc="d5bd95db" md5="a546d2f4c07f3d869dc0cdd9c83ff007" sha1="bd49822e2b83288798fd133fc91787fdc70c7ecd"/>
+		<rom name="DATA/MISSIONS/MIS_1010.RTX" size="710" crc="1410ee49" md5="4b373546dde0be904b717dfab57566ec" sha1="adaefe47f743c528490599e3fcf746337c9f7ab0"/>
+		<rom name="DATA/MISSIONS/MIS_1011.RTX" size="928" crc="59601f06" md5="a253ae2ac44fa9de809fe82110cec48a" sha1="6f6f61764ebe5b52b177b7af7ab0cfad6f8afbc1"/>
+		<rom name="DATA/MISSIONS/MIS_1012.RTX" size="630" crc="068deec6" md5="a1057e62fc27cdd2592b99c3580bf337" sha1="c3264b6a57ad6deaa6bbfa3c29053cd4afe82d9a"/>
+		<rom name="DATA/MISSIONS/MIS_1013.RTX" size="740" crc="353fc459" md5="1032ab7d6b6cb903deb9fc3e489f8a3f" sha1="9ffa461831bae3d54d997137e5488bb1d90870c0"/>
+		<rom name="DATA/MISSIONS/MIS_1014.RTX" size="930" crc="ba5ed87a" md5="e99cade4a900f8ad20c2f870bb1003dd" sha1="2e62c08a3a7ea1005e3d2f7ee2743f642a463083"/>
+		<rom name="DATA/MISSIONS/MIS_1015.RTX" size="2225" crc="1af17ba4" md5="876769e6d636ed427ab6d81869671787" sha1="2cf775c1421f40e831bfb10c550afd6561532cc3"/>
+		<rom name="DATA/MISSIONS/MIS_1016.RTX" size="2797" crc="5b9577fc" md5="a5f201d1df4df01c325d1919d09de113" sha1="97bd7d3d7bc468990b906d7765f1f10d56984060"/>
+		<rom name="DATA/MISSIONS/MIS_1017.RTX" size="2052" crc="7e1f3ab2" md5="ba6944be21c1fbb587800e500e3362eb" sha1="f7e609b53fdc1031a92a5f9df25cea94a3444e63"/>
+		<rom name="DATA/MISSIONS/MIS_1018.RTX" size="789" crc="44fe67d6" md5="c4f92d6dad875c60f39ce65daf6a25c6" sha1="11d00085af1eff98d9a616a8775e81dae12c619e"/>
+		<rom name="DATA/MISSIONS/MIS_1019.RTX" size="2315" crc="fce94ecd" md5="804011694d13010054c5df78d3e910cc" sha1="bc4208d814f2b50393c7a9de97e6584fa9fc4f5d"/>
+		<rom name="DATA/ONLINE/HELP0000.ENG" size="100" crc="11fe25e5" md5="005e4763649d468af4687f2593a258f0" sha1="f6f67a728bf7c003503ec073676ff244d3dcd68f"/>
+		<rom name="DATA/ONLINE/HELP0000.GER" size="128" crc="0eb0b2ee" md5="14e9259346e6cd09647525ef6b7b274e" sha1="805d4269c9079e38d5146b5743457d3813053e37"/>
+		<rom name="DATA/ONLINE/HELP0001.ENG" size="98" crc="9e2571a0" md5="d3987d2b1d58801cc1763889fd2d056c" sha1="f57f075d151c3cbdc4bd730d4f8aa495368ef8b8"/>
+		<rom name="DATA/ONLINE/HELP0001.GER" size="110" crc="ebfc3a4d" md5="9cd8c8e9b39a3387358f2f43918d5d53" sha1="7ec6bc0e4c6e740dcacff1e290d3eb4d549fd4c6"/>
+		<rom name="DATA/ONLINE/HELP0002.ENG" size="141" crc="efb3441f" md5="fc9893ab1f4f4249750787fb3e6ddcbc" sha1="98198c6088068e3d2eb5dd5056b3d9dcdd80bb4b"/>
+		<rom name="DATA/ONLINE/HELP0002.GER" size="160" crc="7b7b1cdd" md5="cf5eab9c03bc2c16cc43622d6cd554d6" sha1="ecc53e36577cdb30b6faa1b37991c0cc7d5d53d2"/>
+		<rom name="DATA/ONLINE/HELP0003.ENG" size="98" crc="afae330f" md5="1f1e1f8913994b509fa344cfd1966d76" sha1="d82522b14ace682a322a025715151207ce510734"/>
+		<rom name="DATA/ONLINE/HELP0003.GER" size="122" crc="bfdd2214" md5="b3c185e4aafe51a2f5d08eab99c47b62" sha1="ef285b72fa1c3c5d98595388d78e2f40bd6f5528"/>
+		<rom name="DATA/ONLINE/HELP0004.ENG" size="57" crc="b8327445" md5="9869d9d84b60a56bef8e6ddcbfbf2723" sha1="8033e5c2f4a5678afe126776dbcec1ed7d95622a"/>
+		<rom name="DATA/ONLINE/HELP0004.GER" size="72" crc="60f52d1b" md5="424d55ba5a2ed25c22b33f3d95a39af5" sha1="28076001a0ed98a804559bab743fbfbb2cb6a63c"/>
+		<rom name="DATA/ONLINE/HELP0005.ENG" size="125" crc="573f3cc0" md5="50ced4c8c69b7b20e8a32a3761a5e34b" sha1="017e9c15369754e6b4ce2ff602630bcce57fcc97"/>
+		<rom name="DATA/ONLINE/HELP0005.GER" size="145" crc="bd7745b4" md5="32337740fe33390fc91744f2b8f10baf" sha1="492c83a47c36e61e55b6d70beafe3d04c09da6de"/>
+		<rom name="DATA/ONLINE/HELP0006.ENG" size="158" crc="84410b1f" md5="9efe85138265d5e46784a4136ec7a395" sha1="c3bdd909a252baad84b45182b555b4b6d73e7e9f"/>
+		<rom name="DATA/ONLINE/HELP0006.GER" size="132" crc="8e6fa3ce" md5="a0cf50b8e1b4e27ebfeb909ab7c681eb" sha1="8371f689be0b9cde32675d325710e3a43dcfbd6e"/>
+		<rom name="DATA/ONLINE/HELP0007.ENG" size="106" crc="f4968862" md5="a910643761825d7f88a10ff57849d5d9" sha1="9b1806bd989b204710338d5b4d558eba3c3e1c05"/>
+		<rom name="DATA/ONLINE/HELP0007.GER" size="148" crc="74aa831f" md5="b4a8d63a046aed55f644727790b4f88a" sha1="2e22b7d9cda23339ea8b13f07a778d9e3d1c2112"/>
+		<rom name="DATA/ONLINE/HELP0008.ENG" size="124" crc="3c0ce563" md5="3174f2df2b54534ccdac7f62cd6ede67" sha1="ba18eac440432aa70f09b377990e63f29165f2f8"/>
+		<rom name="DATA/ONLINE/HELP0008.GER" size="121" crc="6a9d7a50" md5="796613c5614351c4ee4e64267eefa615" sha1="edbbe4507591a8ce993b3d0369740bdde7cefbaa"/>
+		<rom name="DATA/ONLINE/HELP0009.ENG" size="100" crc="c2e654be" md5="791cf755e02f7c0bc97ce6697992ee20" sha1="f84d916456825efa04856524ca00c80abdd1b3ca"/>
+		<rom name="DATA/ONLINE/HELP0009.GER" size="117" crc="1dd20bf7" md5="88d7c57d9feccebc8d58aabee60d330d" sha1="ad84f11a19e56c46139b7bbb70d3177c82383317"/>
+		<rom name="DATA/ONLINE/HELP0010.ENG" size="112" crc="a3d5821b" md5="7ef893d20f23cc3ee2c45df29407f97d" sha1="eda26dbbe6855e237d3aeae8a5b2083ffa4c1928"/>
+		<rom name="DATA/ONLINE/HELP0010.GER" size="116" crc="9991e1b7" md5="1a3d16415246f85d355b2e346f734ab4" sha1="c5f129c2e8b613c73e8feb007a01036d3b07545f"/>
+		<rom name="DATA/ONLINE/HELP0011.ENG" size="134" crc="5a6757ee" md5="89952c2e081507019b28d945b82627c6" sha1="1a7f58974ffe7e9715f509c659987a5d8cb88544"/>
+		<rom name="DATA/ONLINE/HELP0011.GER" size="165" crc="ac74d63e" md5="c93fc390f4c355edd5ad738b8bbbee9d" sha1="619d23d4239b8306435300ac62d3c0f3edc8efa7"/>
+		<rom name="DATA/ONLINE/HELP0012.ENG" size="183" crc="1e2e6b92" md5="3323fb27050d10aeb62759d4a95f6526" sha1="450be708f8a71de8d30fbd81ae1ff25e4c4514fd"/>
+		<rom name="DATA/ONLINE/HELP0012.GER" size="140" crc="f4a0bfa4" md5="d24630c3580719a246d74e6dbfd77e80" sha1="b958b7f8459a4149cca993675d1d8ae032d5ec68"/>
+		<rom name="DATA/ONLINE/HELP0013.ENG" size="105" crc="47594b4c" md5="4df9e03d88a18dd07a1947dae6449607" sha1="d4ade79dca9bb16f178139a775cfcaed036f0e05"/>
+		<rom name="DATA/ONLINE/HELP0013.GER" size="135" crc="cd56978b" md5="7491e87893e57dbfbaff36ffcce1f6c6" sha1="32e2674bc233c6e70631a5b02b99e019bfb4a0b5"/>
+		<rom name="DATA/ONLINE/HELP0014.ENG" size="94" crc="2e0659a0" md5="d87cb7d779498822c9a465e6d8def49d" sha1="8e52fefdbff4dc22e0560cf021062d9fb749c641"/>
+		<rom name="DATA/ONLINE/HELP0014.GER" size="113" crc="0e4beda7" md5="e8e358f9c574d09d63e2ae6362f339d0" sha1="c9297f9f500fd780955bd1092b2aca23774cd561"/>
+		<rom name="DATA/ONLINE/HELP0015.ENG" size="121" crc="90bc7275" md5="c05765f96ead481cf20e6784e149a15b" sha1="e905e56ba924347aa77c8a0de95a5f26d1734f2e"/>
+		<rom name="DATA/ONLINE/HELP0015.GER" size="149" crc="102025ae" md5="45b34e2547542a787cab3d33e0980c5f" sha1="2ee811ad3450ba63cecb9599ab66bdf8c2d47f22"/>
+		<rom name="DATA/ONLINE/HELP0016.ENG" size="155" crc="a45a8591" md5="ac34c1df2c7ed219fe0e5c834734d43e" sha1="74bc5556ab0ce2823b723238ec2682577070189f"/>
+		<rom name="DATA/ONLINE/HELP0016.GER" size="186" crc="01a9a7cf" md5="ee2ec389a3e138e22d33a4bab60df216" sha1="10e6ddf3e4062d86eb67b3a2eb8fbea63602126b"/>
+		<rom name="DATA/ONLINE/HELP0017.ENG" size="110" crc="c7070395" md5="ef33aba92aedb79d75a29e4816e2e740" sha1="8924afc741bf36e4ff3d304b21f0cfd2e1f5c795"/>
+		<rom name="DATA/ONLINE/HELP0017.GER" size="133" crc="d2dbc1ab" md5="cf35811b2fa5b6bc8c3574f7e8eb3ff7" sha1="e724af7f2edd7af1d2d13948b72ffe8adb33e2f0"/>
+		<rom name="DATA/ONLINE/HELP0018.ENG" size="154" crc="051cd37a" md5="e8439cb970d296bbeb97a26609d76de4" sha1="611189ddd34347d179c1d41bc377530b98c3ba52"/>
+		<rom name="DATA/ONLINE/HELP0018.GER" size="147" crc="08d5c1da" md5="6710a20926534dd176d448da1a4d3c78" sha1="b48640265b7aa0572d3a6a5a1f0db23d8675d25c"/>
+		<rom name="DATA/ONLINE/HELP0019.ENG" size="120" crc="4cc77bff" md5="4f818baf2a6e7a9d06f2e8ccec115af5" sha1="68cdab1f9f62837ed9c4b4acb2276ff1511a8637"/>
+		<rom name="DATA/ONLINE/HELP0019.GER" size="141" crc="12268903" md5="5e8b45a207c485d77a99f445d403ff2d" sha1="53366ffd2ca098af43e37534b6d51ef819577c54"/>
+		<rom name="DATA/ONLINE/HELP0020.ENG" size="109" crc="ec2552d1" md5="44e2a2782a0cbc5b4d8462fa792938aa" sha1="853b420dcce9a6166c6ce5107b0deac725bb41bb"/>
+		<rom name="DATA/ONLINE/HELP0020.GER" size="155" crc="ef03605a" md5="5213d7310da9ef739aef1abf8238114c" sha1="e0714c770eb8a31ec44e41a7941b402c31c2c688"/>
+		<rom name="DATA/ONLINE/HELP0021.ENG" size="144" crc="01c3aca9" md5="3cbe2003888af0bcf428a4f973bc7150" sha1="125afc053f0495170971c2a9f159f36e69a74a6b"/>
+		<rom name="DATA/ONLINE/HELP0021.GER" size="163" crc="98c5c32b" md5="d5fbd68e13889f5745ebe5a2976e320e" sha1="ab8dcca0b3e102e48f8e493398e78d2ed3d4f914"/>
+		<rom name="DATA/ONLINE/HELP0022.ENG" size="361" crc="51a7ae94" md5="3d29ac4970795d4d469f202385a8dd7e" sha1="03dea19647b07736f3d8367e523896155dbcfb7b"/>
+		<rom name="DATA/ONLINE/HELP0022.GER" size="316" crc="128790fc" md5="a199a34d3269b1074ca6d7bb82137ceb" sha1="ac3010555c5af17995e0dc1ea5335b87e5524ef2"/>
+		<rom name="DATA/ONLINE/HELP0023.ENG" size="320" crc="a8d90ea8" md5="b9b90290b267b12478965b890b45f7bc" sha1="21f806ca3e3d9ef1ab1d8d5a4e06ec694600beb7"/>
+		<rom name="DATA/ONLINE/HELP0023.GER" size="318" crc="afc69689" md5="743eed6f9147f8cb1a97c669524cc73d" sha1="474c056a5d33adb13916bf636f36537c3a858e13"/>
+		<rom name="DATA/ONLINE/HELP0024.ENG" size="599" crc="b81dbfdb" md5="c3f371f68f57643e8366f1acf355521f" sha1="aa64cfb48707d708e63db76118e1b7ba82a02359"/>
+		<rom name="DATA/ONLINE/HELP0024.GER" size="539" crc="db790693" md5="6498696071d600dfcdbd5364bd46f88a" sha1="2dbe7d8a88d9bf776436c6d3fefd35317e6aaaf7"/>
+		<rom name="DATA/ONLINE/HELP0025.ENG" size="270" crc="8269b7a4" md5="ec7ab81f90244c8d27c0887a077712fb" sha1="86e37c15b192371f19af9be10db6cf0a492308a4"/>
+		<rom name="DATA/ONLINE/HELP0025.GER" size="212" crc="ecc1bd5b" md5="22176deeb96597d495e23daee7908f77" sha1="619370dc07d9c759906770a46f3fdf0cac9c2593"/>
+		<rom name="DATA/ONLINE/HELP0026.ENG" size="290" crc="e9fa5819" md5="c76da8307cf8062dbe8f31077224276e" sha1="d1190c30336b59904db2ed06c38a4f7986a6e3fa"/>
+		<rom name="DATA/ONLINE/HELP0026.GER" size="230" crc="e02fbac0" md5="4882ea0d95e558f68a0e2424c60106fa" sha1="4c46683d68b529edca080c67ac5702d6dfd248ea"/>
+		<rom name="DATA/ONLINE/HELP0027.ENG" size="296" crc="ea47e7e9" md5="a81899f4cb2bbacbef2a33243b9bf12a" sha1="60f995224fe51312bd2e578e5cc4eaee43da6dea"/>
+		<rom name="DATA/ONLINE/HELP0027.GER" size="220" crc="a103a514" md5="6b1a2ac9626cb07bc322f347558c9676" sha1="290cd4163ca9869f8c6fdc9a189347b1013a835d"/>
+		<rom name="DATA/ONLINE/HELP0028.ENG" size="343" crc="a7a0d9b9" md5="d9805bb93503effa45c2f17138b9f73a" sha1="d27cacef33d09d25b26ed40925bfcb83f5a22d13"/>
+		<rom name="DATA/ONLINE/HELP0028.GER" size="251" crc="74ff6098" md5="77101933e31441c1a8fee931a147cbd6" sha1="659cda95f6e154dc9a1c0da02ce60bc7bc51abe3"/>
+		<rom name="DATA/ONLINE/HELP0029.ENG" size="78" crc="95d55853" md5="7785885512cc1f02f65ee75fc5c4939b" sha1="e2a493795bf7085534b443dcf21a6ab275eaa036"/>
+		<rom name="DATA/ONLINE/HELP0029.GER" size="70" crc="e8df33b1" md5="adf99495e896a3618921a10bb93b70f4" sha1="4e03e56d8ba1a215c1187bb86a7cdf1fbb285f7a"/>
+		<rom name="DATA/ONLINE/HELP0030.ENG" size="77" crc="40a94cb6" md5="d32ca4e9fa3d1837eb5864e1cea5772f" sha1="f63a654ee47babb121104b5aa2d9b7fcecdb9272"/>
+		<rom name="DATA/ONLINE/HELP0030.GER" size="109" crc="c1bc9974" md5="4a61a7b1a3e3582e65547074a8e1c876" sha1="29fca5a3f30e796eb8debd48c2e3a7f3b73359d3"/>
+		<rom name="DATA/ONLINE/HELP0031.ENG" size="112" crc="0ea37e66" md5="f79c656d01fc756ee5e6ebce93a004b5" sha1="586e53b7f24edc277881f34e388c1c28f1c5c607"/>
+		<rom name="DATA/ONLINE/HELP0031.GER" size="113" crc="b37810d4" md5="e217e555dc9d76742b6ab317e23707d0" sha1="5fc2837fdda7f841fd5dd5b11789b4b960a71b65"/>
+		<rom name="DATA/ONLINE/HELP1000.ENG" size="39" crc="830e6845" md5="8cd9e708e56875ab4584071a5493cb88" sha1="59093a8999e79533d67ea4a03f1e43b8d651cb4f"/>
+		<rom name="DATA/ONLINE/HELP1000.GER" size="41" crc="067e83e5" md5="c891c36aa86dda20ddcd4409e8f79752" sha1="1af79bec92ae0ebac00d2481d84192ea302dc5e5"/>
+		<rom name="DATA/ONLINE/HELP1001.ENG" size="298" crc="8ca4546a" md5="ccca65ccd2fba3438ef5a3b901cb3cd5" sha1="25f7a0d410102c71503c71610683e12fd62d817f"/>
+		<rom name="DATA/ONLINE/HELP1001.GER" size="302" crc="c7e6cff1" md5="344d0725f7c0e8b18333de97b2216349" sha1="38c4bd2ed8f0b72778c4a7089d4571678b8905b0"/>
+		<rom name="DATA/ONLINE/HELP1002.ENG" size="649" crc="df73e84a" md5="1a8b7a55452d164c66f8f90d71f55288" sha1="9fa046c4eca2bd5b7e7a84dc6905cf51ff644017"/>
+		<rom name="DATA/ONLINE/HELP1002.GER" size="776" crc="cfa5e5a3" md5="971309c29fee96d2038caad45fc47636" sha1="0351b06e026a9759f5bf96ca3d56cc8d9c7fe4fd"/>
+		<rom name="DATA/ONLINE/HELP1003.ENG" size="212" crc="fe38f393" md5="27ac3391626abb168d5982a74d2a3acb" sha1="eddce91e40cec4603ff537e0061670149c6d684b"/>
+		<rom name="DATA/ONLINE/HELP1003.GER" size="233" crc="a5d013a7" md5="441fc8aa6bb6296041750090e7cc9982" sha1="8972307ed03d3a035ab148af51aa9998e06675ae"/>
+		<rom name="DATA/ONLINE/HELP1004.ENG" size="186" crc="e6f49bbc" md5="61947c4d9a1d5c83f6e46d8a39c34d42" sha1="f9902a2bfa5739d3332d7c2b5306e34da4efc70a"/>
+		<rom name="DATA/ONLINE/HELP1004.GER" size="222" crc="c38e91cd" md5="51e3b651d06ad6cff99d64d455b97edf" sha1="3f2a420a8fc7878f49f43040e25a4624255f5846"/>
+		<rom name="DATA/ONLINE/HELP1005.ENG" size="132" crc="68d17568" md5="966d490fffedc42e73974174e3b10348" sha1="87e69eda1c167b820a540148760592060b589abd"/>
+		<rom name="DATA/ONLINE/HELP1005.GER" size="157" crc="ad797819" md5="0b839ad2b252d78640b85400fcd13f35" sha1="d56cd457c76b85d837eeb77bdf95a385853474be"/>
+		<rom name="DATA/ONLINE/HELP1006.ENG" size="164" crc="87c4e754" md5="12359469767b00edb80622b1fa1eff5a" sha1="bb36f098ad8ffdf22781b26cf3fd8340a246d68a"/>
+		<rom name="DATA/ONLINE/HELP1006.GER" size="171" crc="a09d5d63" md5="66a38936e9cce4835b3480d34e1ba6c9" sha1="ea102e8985d63f1e70520620f927c75173faf40a"/>
+		<rom name="DATA/ONLINE/HELP1007.ENG" size="190" crc="aecb7000" md5="67a98b0597ec4e85f2c84df2f1b309e2" sha1="8d994ec05f37c793fda72ae0b06a1d2dab6ea1a1"/>
+		<rom name="DATA/ONLINE/HELP1007.GER" size="229" crc="c9fd93b2" md5="abd38f38c24bdc244325f1a41923168a" sha1="1612dd91bfed96e98e1f36a432551c7bbe03aeb2"/>
+		<rom name="DATA/ONLINE/HELP1008.ENG" size="256" crc="b60cd146" md5="3367e78e7064e28dfbe57f9102881ec8" sha1="6b00431d5d6f85f810f514c7370b19d2f3162bb6"/>
+		<rom name="DATA/ONLINE/HELP1008.GER" size="178" crc="12586209" md5="f27a080139a3f0f73674459f51eb5538" sha1="a824405699cb150dd2fe1dbfcfae3917049f9863"/>
+		<rom name="DATA/ONLINE/HELP1009.ENG" size="166" crc="7902c18a" md5="2d0c03e6cbd4cd0614b1239f87272124" sha1="cb92c359f4845892f6a4c02a3f4f8330ec7c9250"/>
+		<rom name="DATA/ONLINE/HELP1009.GER" size="174" crc="c34cadf4" md5="8698d450eea3390d73b0d401ea6d5220" sha1="be708f949742e24cdb7fb22d66b51e351b0fccde"/>
+		<rom name="DATA/ONLINE/HELP1010.ENG" size="104" crc="84be035a" md5="28d9ddfcbe5ed721f64158228a2a9bfe" sha1="4e1d8f6f89c033876971c1342e5f6ae5dcc0e00a"/>
+		<rom name="DATA/ONLINE/HELP1010.GER" size="90" crc="8f097015" md5="0394796728505848b9a62ad05a40c18b" sha1="37ee9dcc96a0d5cc45b19faad3364d902f3821c9"/>
+		<rom name="DATA/REMAP.DAT" size="260" crc="b082d93b" md5="a6b57c1506287a95db3fceaab8c93964" sha1="7634312a119710cc0cba073bf2757d64c1e826e5"/>
+		<rom name="DATA/RESOURCE.DAT" size="592262" crc="22a552da" md5="c85e7ef9d050fdef2fd4ae65f8cab57f" sha1="eb583cccfef637aa4336b277877eba0ccdaad461"/>
+		<rom name="DATA/RESOURCE.IDX" size="1600" crc="61145e90" md5="8dfdc353528cff881cc4607e4c0b1212" sha1="5293a1c2ce41f1f25c78b5d98e3f9e84eb120c9e"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0001.DAT" size="4174" crc="c7a5f0fe" md5="9780ea055a512e51009cfa04fa96f392" sha1="f8449658f7f9ec84fc901e3cadf48c06c7582708"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0002.DAT" size="4212" crc="352fb8d1" md5="5f3da878ee5c894770c6d161bd00b7e8" sha1="443131add2d1a73d38a4ab607e8a8a4374fc33a7"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0003.DAT" size="4306" crc="1427d3fd" md5="5504cdd2c535cc90a523c734266c385e" sha1="99bdec1d2878e5edd34146405c882060bb5e1909"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0004.DAT" size="8746" crc="b208f8e8" md5="e242125dcfc09d51f176eff31514743f" sha1="5b5018b57ba48d9027c9f4c45b76f90054e46608"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0005.DAT" size="7458" crc="d60ce56f" md5="11e6ae3d38fe1ca99038fa752fac5653" sha1="c97092661dadf4d7ace70e4ef9b70862148f24db"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0006.DAT" size="5610" crc="fe2a86a9" md5="17b2ecd2bb5442379c5682339cca5eb1" sha1="a0a016f35695d0401702ae4b19a6bfc7ebb86265"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0007.DAT" size="10360" crc="b4347079" md5="98b0148b7449cc9f0d9ec9b81a521fb8" sha1="52bdba75dffb4edbd7a25a3d92ccfa166652490a"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0008.DAT" size="6582" crc="2301f36a" md5="0601a187ed16183e6f85e7beb3fa8801" sha1="d2899fade3d59198539a34f6aa33fa8678fe8394"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0009.DAT" size="8154" crc="1372494a" md5="5d6b8153bdc8ce9f1a34cf73f29ddabd" sha1="5070848198d575561064e7a74d16706af72c6780"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0010.DAT" size="6786" crc="6d554644" md5="758e1127b91ac13552b6bf25a2c9deac" sha1="c5111a8bce97c74f9a79adb2f5102a749ccd58b1"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0011.DAT" size="5150" crc="8fd2f6d5" md5="296aa8d4e78bab8ac5c061f57e7453d1" sha1="b8b190adb98b173c7bbfe5c9e374dca5a3dab5ce"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0012.DAT" size="6120" crc="717a8be1" md5="ea4c65b1979bba9fea4a73a244694464" sha1="e2c6e33b9f9951633a36e18255e28e50346224a1"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0013.DAT" size="7608" crc="59430d7e" md5="fa250ea34a5f34b6709a6d46c5d72712" sha1="ef609941fe2b4f7815e7ee91a70f59e45985ce0c"/>
+		<rom name="DATA/SOUNDDAT/SNG/SNG_0014.DAT" size="12654" crc="e5a9a2d7" md5="3d32e0f45dd12f61d046deaf2f2685bc" sha1="45336e55c337a5a4726ba5528e342029f29e410e"/>
+		<rom name="DATA/SOUNDDAT/SOUND.LST" size="349788" crc="d5f169bd" md5="50fe393d11c2b100409633e2fe9c47cb" sha1="940124d06995777bb0f9a0d39fd6040434bad776"/>
+		<rom name="DATA/TEXTURES/GOU5.DAT" size="65536" crc="52fe68ea" md5="cf39146390bc455613cbf5de272483d8" sha1="4aaa839712760b4053ebc579ae1c587f86fa39b5"/>
+		<rom name="DATA/TEXTURES/GOU6.DAT" size="65536" crc="e9250d22" md5="cad91c6e6d0179fe0f7f5854a21d3a1c" sha1="177257d979212efdebf430c62e8f231da2235fda"/>
+		<rom name="DATA/TEXTURES/GOU7.DAT" size="65536" crc="6e488a2c" md5="54bdd8d05feff6847d79b88259f4f512" sha1="eded25a30fcf7bbaf2705b55e7df9552add08ab1"/>
+		<rom name="DATA/TEXTURES/GOURAUD.DAT" size="65536" crc="7c19bd10" md5="7ff8b1ea16bee47a32108ea2a48dabf2" sha1="3e449508608db3ad51ff3531c069c547ddd1a916"/>
+		<rom name="DATA/TEXTURES/GOURAUD0.DAT" size="65536" crc="7c19bd10" md5="7ff8b1ea16bee47a32108ea2a48dabf2" sha1="3e449508608db3ad51ff3531c069c547ddd1a916"/>
+		<rom name="DATA/TEXTURES/GOURAUD1.DAT" size="65536" crc="215c4698" md5="3be382996039928bba2ea846f0b56000" sha1="15270dc8d53318e6d92f41b3f7b0951c7ca9983c"/>
+		<rom name="DATA/TXT/MISS_000.ENG" size="5088" crc="b97ad1fe" md5="c106cfc457cfc2ef2d483bb0c5cb2915" sha1="1f9405cefd2a2cbcb7db4baf8a28b6755e1079f2"/>
+		<rom name="DATA/TXT/MISS_000.GER" size="5088" crc="b97ad1fe" md5="c106cfc457cfc2ef2d483bb0c5cb2915" sha1="1f9405cefd2a2cbcb7db4baf8a28b6755e1079f2"/>
+		<rom name="DATA/TXT/MISS_001.ENG" size="4809" crc="1a7cdd57" md5="1dca174eee44ced1d6a8d10a72c2739d" sha1="197f6219ae90e2ac3a5ae86936fddc2858a998c5"/>
+		<rom name="DATA/TXT/MISS_001.GER" size="5325" crc="e3c59dc4" md5="8a3bbe60ff2d20c09ea6bf157a820a2d" sha1="36d6d13fb67332a6a7f1aafad24d3d8f832ed973"/>
+		<rom name="DATA/TXT/MISS_002.ENG" size="4027" crc="d90bfd56" md5="d979268ec59665193fbfbcc9b96c4c99" sha1="ec0e3fcd965cd7c1c2cba3937c9991c11c46a24e"/>
+		<rom name="DATA/TXT/MISS_002.GER" size="4193" crc="b0c3152a" md5="68861b5b24145f620d12356b97ba66ad" sha1="d8e0039f748f7980c65d530424d0ea10bf10a92a"/>
+		<rom name="DATA/TXT/MISS_003.ENG" size="1648" crc="64633494" md5="5fc50973fffeceec3aa3b74650189e63" sha1="e2ae98c322d05cc5060e17976702b721de9481f0"/>
+		<rom name="DATA/TXT/MISS_003.GER" size="1736" crc="5d3db603" md5="b86d4c2f097c051aee08714632793d0c" sha1="3ac94d4898ae61a0ad3b36d5565602872ce8e9d1"/>
+		<rom name="DATA/TXT/MISS_004.ENG" size="2281" crc="f642e6ea" md5="facc2de92cef34bb34822821c5c64b1c" sha1="afa27d07cca07278bd057cebec3ac4f54c103e06"/>
+		<rom name="DATA/TXT/MISS_004.GER" size="2298" crc="7db5b6ed" md5="4a7ee970ef219fe29b0ba60a3b4982b8" sha1="5df04b4c5c7fec55854c6f7c92d534412e9635e7"/>
+		<rom name="DATA/TXT/MISS_005.ENG" size="1459" crc="b1bc37a3" md5="8dd1b1647096d8a8a81ed076ec32ded3" sha1="0532356329090a99b7061488656eb90a75836a63"/>
+		<rom name="DATA/TXT/MISS_005.GER" size="1545" crc="17737fdf" md5="e105f4bc0a434db4717e937c541021a1" sha1="be3b32064d2907b13a7c3315555ce7876b804c4d"/>
+		<rom name="DATA/TXT/MISS_006.ENG" size="1300" crc="33b1cdc9" md5="733b8b4f100a7c3bc1c700ce94ce106b" sha1="2bd0a1427627d7abfbf9442dd1c6451334781bfa"/>
+		<rom name="DATA/TXT/MISS_006.GER" size="1337" crc="cb93eba6" md5="d9bc57e35f5cb1423e5441bf0b0daa02" sha1="97fa739d4b7579743a137a2f1dd8c9f81c355367"/>
+		<rom name="DATA/TXT/MISS_007.ENG" size="1205" crc="73fe44b1" md5="a4edfd4da24d9de844442d2b2fd88c6d" sha1="85694fb8589c42301bca10a50176629825ee054c"/>
+		<rom name="DATA/TXT/MISS_007.GER" size="1175" crc="77dd5ac7" md5="16c2f7272ababc72f04c56d6da9130ee" sha1="68dcafa52f698bc7ec5172a17e05058da34b64ed"/>
+		<rom name="DATA/TXT/MISS_008.ENG" size="665" crc="a33830df" md5="fbafda9ed208906385b3fa27f25df421" sha1="04e6a50c835819a95dfd0d54431d0fa86ce1416d"/>
+		<rom name="DATA/TXT/MISS_008.GER" size="748" crc="a96cebc5" md5="2224573a274236965a14e22d610075df" sha1="d1c4f880f7e5aa3c889d7601e6043920e97af9d9"/>
+		<rom name="DATA/TXT/MISS_009.ENG" size="801" crc="3f387108" md5="a4499ddb908cf551b7c576697de8ab21" sha1="4442da6206a51d3639538cdbac40036d09be91d3"/>
+		<rom name="DATA/TXT/MISS_009.GER" size="757" crc="dc2930e9" md5="0ebc75188c66e339cda109d1c5fe923b" sha1="d1f316a77b44d696b0b875ba64713a7eb257da74"/>
+		<rom name="DATA/TXT/MISS_010.ENG" size="1619" crc="ed2e1eee" md5="74c6127a7e25ba0efff11ba8ab41703e" sha1="d362f31161b710cb1e18718f1e55517320120956"/>
+		<rom name="DATA/TXT/MISS_010.GER" size="1616" crc="12414e81" md5="d2d611936f5c4bf040074e311816b0f7" sha1="852b6cc97ac63a643978dddd51d32e7577c7d996"/>
+		<rom name="DATA/TXT/NAMES.ENG" size="2528" crc="61360663" md5="ec3f4cbe9ca9c07ae69a37131c2da4b7" sha1="325d6c634f3655971a645f909eb2aa84d80eae8e"/>
+		<rom name="DATA/TXT/NAMES.GER" size="2599" crc="4e52df07" md5="a0a4b3ff12d1727784ba849ac1ebf6ec" sha1="da4d45276acae07cca782eaa5abe306f03d34acf"/>
+		<rom name="DATA/TXT/ONGAME.ENG" size="8215" crc="ceb89ff6" md5="691c564c893593e28196bb2dffd0fde5" sha1="f07e70c2b86abefb266aa2ee735f7ecb3fc9e922"/>
+		<rom name="DATA/TXT/ONGAME.GER" size="8635" crc="58de808b" md5="68ae62408d89b96600d5198e56586680" sha1="0fac05ac1392afe09f90207c0152c47f79084db7"/>
+		<rom name="DATA/TXT2/CREDIT00.ENG" size="28" crc="82877412" md5="bce1a006bfdc147ee695e81351d1b478" sha1="b5b89de9c721a8dc10dafb01fa7732205e961903"/>
+		<rom name="DATA/TXT2/CREDIT00.GER" size="23" crc="621aed78" md5="df8d2ec5a024adf52801a4940efa93f1" sha1="2d826b3c5695cae359fb46c163431c7612df3d95"/>
+		<rom name="DATA/TXT2/CREDIT01.ENG" size="57" crc="82012c1a" md5="d7810feb075072d8daec10c115713796" sha1="bb83df58fba56712618f44040b4bfedc83e538a4"/>
+		<rom name="DATA/TXT2/CREDIT01.GER" size="56" crc="c14f3bd8" md5="39ddc7667dd17abe1eb45c30be6a32cf" sha1="28f447f1be41287bea0b9a500d678cce4ff5e844"/>
+		<rom name="DATA/TXT2/CREDIT02.ENG" size="30" crc="d498d6c3" md5="aeba2f6cc2c20e56788134011368e72f" sha1="ae57350889c3147879793d0f5c41109e0b4a647d"/>
+		<rom name="DATA/TXT2/CREDIT02.GER" size="38" crc="d65b7191" md5="67b9a4fbebe52325e26ec463a1b4a28b" sha1="65637462f147b6137c0c5c46d73a3a56a2a10681"/>
+		<rom name="DATA/TXT2/CREDIT03.ENG" size="30" crc="90cd8ef3" md5="16b8dea7fd0f36d5d90a56484eb0ce64" sha1="7f70d8957bcd18296671ff2034e41354894e67a5"/>
+		<rom name="DATA/TXT2/CREDIT03.GER" size="40" crc="5cbaae60" md5="7f76326225249d07dd54d0ed0191e886" sha1="9564d503933f51e9cee2085abdcaf054379b9496"/>
+		<rom name="DATA/TXT2/CREDIT04.ENG" size="38" crc="33b25872" md5="79989bf69c1e4d1fa99b721be5baae91" sha1="c4f4e5da130999eb49d7eebeb0f2bbbff779b884"/>
+		<rom name="DATA/TXT2/CREDIT04.GER" size="50" crc="a427695e" md5="f7e23a22b53972289b5bc7ec963c5b26" sha1="21f1cce1a2de8df6e7f255c062b061ecf54728b4"/>
+		<rom name="DATA/TXT2/CREDIT05.ENG" size="59" crc="634430cc" md5="8879e01f647fe6591e86a4aab7b8726f" sha1="64935d1df1101674f17f0068700a34c44e9d2e1f"/>
+		<rom name="DATA/TXT2/CREDIT05.GER" size="63" crc="f475ed18" md5="69e4754547d7377ab82f2f3b01efaf22" sha1="3e64c4542fb7f31c1cd09e26fc34bf6edf4776d6"/>
+		<rom name="DATA/TXT2/CREDIT06.ENG" size="43" crc="fb7859f5" md5="5f70179513209bd7684169668adfbd59" sha1="77220e3d865d5d84b991571a542989b079f0df49"/>
+		<rom name="DATA/TXT2/CREDIT06.GER" size="44" crc="85522880" md5="b75a0f2d88c928235ddb007cee5de8ce" sha1="d782903c8f9c8c692d4749601377451d7cbf9354"/>
+		<rom name="DATA/TXT2/CREDIT07.ENG" size="42" crc="d0b2001f" md5="1ed0a53ea49a1d2964b491d80fe0f15a" sha1="32d5ac66aa138a57bf6b024347ca39a19d022ca7"/>
+		<rom name="DATA/TXT2/CREDIT07.GER" size="50" crc="1ff10249" md5="7e1c657934aacdf4933e867fd5c43b5c" sha1="db87414068dd223a129bd5c5d5fd4a0d49a51b0b"/>
+		<rom name="DATA/TXT2/CREDIT08.ENG" size="40" crc="0ea00c3d" md5="884f1539204adb0c19a1073bfc330285" sha1="1fb61f56ec382299a7b440f76cb9458f540859d5"/>
+		<rom name="DATA/TXT2/CREDIT08.GER" size="48" crc="1bd96fbe" md5="dd93ae77d82a7244eb01f2dd5bb3573f" sha1="aef0356cdf073c973dd408ae0a1c1d014d6a1f3e"/>
+		<rom name="DATA/TXT2/CREDIT09.ENG" size="43" crc="6071addf" md5="b317ee18b6c2a0cb59bfc261c55988b0" sha1="3bcc00299c0aeeb6c8f5754f1b7dae09460d9cfc"/>
+		<rom name="DATA/TXT2/CREDIT09.GER" size="50" crc="1b520809" md5="9043d4c2943a74d04b59029d1b499336" sha1="6f79e19bb31c91eca0a4e8cffa4bb2b9d24b41fa"/>
+		<rom name="DATA/TXT2/CREDIT10.ENG" size="44" crc="592a268e" md5="5fcf31aded46e1a640b38c7876ce5443" sha1="7fcf1c2822d97dbd06f6301f87df6f7f18014cf2"/>
+		<rom name="DATA/TXT2/CREDIT10.GER" size="50" crc="d81159c2" md5="f70daec0ceac23cfb9f920ebabad3584" sha1="96f2b8d69de2ce473f743e9aaa9c6fd8cfef9050"/>
+		<rom name="DATA/TXT2/CREDIT11.ENG" size="29" crc="4589bcaf" md5="67e696176a094adbec7c5ad9cef34d6a" sha1="8e9579f6f14625e16fb8956e6e0c3a9e62d924df"/>
+		<rom name="DATA/TXT2/CREDIT11.GER" size="35" crc="db4265cb" md5="dbcbe89dc6dc138b0dfd2d587f7bea08" sha1="309a83570d6e3ebc4ced6b35f80e4d52d93c7304"/>
+		<rom name="DATA/TXT2/CREDIT12.ENG" size="36" crc="4c327320" md5="697db4223f28fc317ef35112bfec8ff0" sha1="18db111ed4622f00935b44daab65afc7ca32368d"/>
+		<rom name="DATA/TXT2/CREDIT12.GER" size="109" crc="b18b1057" md5="2bade16b53ae032b8aca43bd49883dd9" sha1="30f8678daab95fad08f6c46f04b14592101b8686"/>
+		<rom name="DATA/TXT2/CREDIT13.ENG" size="37" crc="607f2b0b" md5="1e54d0b88bd5a64357041a8a4cd851e7" sha1="e54ceea2db2ff9f427dee2324d63420996745a6f"/>
+		<rom name="DATA/TXT2/CREDIT13.GER" size="33" crc="7502975d" md5="d04b837aa0ee547ab7976e90d74109a5" sha1="7ce587f977d3a55b1644aee47b4d1683edc586e8"/>
+		<rom name="DATA/TXT2/CREDIT14.ENG" size="63" crc="e2faa94d" md5="4baf89fb332c84a23031364bed8c7e57" sha1="a8613d7b3d568213a5f214ba39d892002672d6da"/>
+		<rom name="DATA/TXT2/CREDIT14.GER" size="65" crc="05170a5f" md5="f891abdf70f5ceaf4581a5a87eaa3d61" sha1="d17423fc241705c470997d770e92805092235947"/>
+		<rom name="DATA/TXT2/CREDIT15.ENG" size="120" crc="9477d495" md5="78b5347f42b58c65084b3561ca1f2105" sha1="da09edb14323a2c877d900584a96081b7933b050"/>
+		<rom name="DATA/TXT2/CREDIT15.GER" size="112" crc="58ddefe0" md5="4f2d39578ee540fac384c96556a2a045" sha1="8a6785bb626b4f27480740f3d3d8fb9e16584924"/>
+		<rom name="DATA/TXT2/CREDIT16.ENG" size="49" crc="4577191a" md5="2a632f2836dcf0d150f92a4b28a4c03e" sha1="ebed84e71cdce2ddc1d7c2b5e44262fdbb3c1d93"/>
+		<rom name="DATA/TXT2/CREDIT16.GER" size="55" crc="67fa04d7" md5="c51e9b0c47ab8b53d39d71d77ceb958d" sha1="0d538d3057dfa44535e26bc17a4dd4e6e7a992b3"/>
+		<rom name="DATA/TXT2/CREDIT17.ENG" size="49" crc="a1a026a2" md5="8bf56426af576b724f93a48627197086" sha1="02e42c5237144092a0363d6fca0da49636bb398d"/>
+		<rom name="DATA/TXT2/CREDIT17.GER" size="98" crc="57b81857" md5="453fc0cfb13d4426d2676968bd42e160" sha1="ccbb01f3762c5807887045403b9303e9b6eb580e"/>
+		<rom name="DATA/TXT2/CREDIT18.ENG" size="86" crc="409cfb99" md5="f03082378e9e1792775d12e443172344" sha1="8750539010b2ccaf19cbadc51782666d2ff486a2"/>
+		<rom name="DATA/TXT2/CREDIT18.GER" size="79" crc="125f1f1b" md5="917f4fef882bf507d3cf07d0fa2a9459" sha1="e9b47450c349b9f1a8e3df4f2f56b34297b77dbd"/>
+		<rom name="DATA/TXT2/CREDIT19.ENG" size="64" crc="83da9502" md5="01998a21332ea97f031e66d8dc63fc68" sha1="b57c459f775d3257f5a5ab7109a375a114453bcd"/>
+		<rom name="DATA/TXT2/CREDIT19.GER" size="63" crc="5d8f27d7" md5="8ee2c46382a5ad25cf53ca2aa42c4a64" sha1="f30d8badea9cba9efee10a38cb04e86bdf83a3c9"/>
+		<rom name="DATA/TXT2/CREDIT20.ENG" size="62" crc="4aa95aae" md5="b0c4a6132a9eec0bdb603bf72518bf77" sha1="175fa04c950117e8d6dd0b8ddf7331e7d6d9033e"/>
+		<rom name="DATA/TXT2/CREDIT20.GER" size="79" crc="dd7436a4" md5="d87b4d085e85811d27640ffcdd41fd16" sha1="256b51af2700fdc9ff8450eb41ba348115447726"/>
+		<rom name="DATA/TXT2/CREDIT21.ENG" size="1" crc="e96ccf45" md5="7215ee9c7d9dc229d2921a40e899ec5f" sha1="b858cb282617fb0956d960215c8e84d1ccf909c6"/>
+		<rom name="DATA/TXT2/CREDIT21.GER" size="1" crc="2f6016f7" md5="bebe43a13d6320b4c6751958bf5398a7" sha1="ebdc2288a14298f5f7adf08e069b39fc42cbd909"/>
+		<rom name="DATA/TXT2/KEYS.ENG" size="899" crc="f800574c" md5="db6a94b01868e39d929189a1db77283c" sha1="84b85ddcb72521a354dc5e2eb0b02b44c1db3c4e"/>
+		<rom name="DATA/TXT2/KEYS.GER" size="1277" crc="6f637e93" md5="43e67f709c0989814be281a1faf574ba" sha1="59f9ce9327cfdfcd27329142b905ff82f2767474"/>
+		<rom name="DATA/TXT3/ONGAME.ENG" size="2667" crc="3b4a4b2b" md5="c27ffe9141c3de39d5ee53a888030126" sha1="e4d410c847fbfaa628c6f00618cd69f03587995e"/>
+		<rom name="DATA/TXT3/ONGAME.GER" size="2707" crc="0d830176" md5="e3cc1f75b1aef0a22d170f8c1e5f4e65" sha1="8f2b00e289f1b958b5d0600cd91ae2f14ffb7ac4"/>
+		<rom name="DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
+		<rom name="DRIVERS/ADLIB.MDI" size="14986" crc="6871f64c" md5="5cb112d060d70a43ee7c89b7ffe4f029" sha1="1f19c757259cac7b5f04281ac8830f8bece3c8d2"/>
+		<rom name="DRIVERS/ADLIBG.MDI" size="16377" crc="1d2a278b" md5="79d8137d4e6b78735b78cd8a4bd14827" sha1="14f61539bf8438f68add723fef2ef76821fa9fd8"/>
+		<rom name="DRIVERS/ADRV688.DIG" size="11278" crc="96dfb75d" md5="feabc78729e3a458ae2f6ab40146f0d9" sha1="255ecb5d649895d65bca49bd6afcbdf875e34bf2"/>
+		<rom name="DRIVERS/AILDRVR.LST" size="17948" crc="a9fdfa78" md5="074cd0f0f6e52e5deeb250e3cf70d544" sha1="ab4b2fa02954eac48fbba6c8c6818fe6e5b067cf"/>
+		<rom name="DRIVERS/DOS4GW.EXE" size="265396" crc="5cc34b0f" md5="006211ca60fa3d4b38a9a8da2ade1056" sha1="c489f83dc15a9ffc3c502707da40e581ec79bfe6"/>
+		<rom name="DRIVERS/ESFM.MDI" size="15896" crc="399a4039" md5="6d0ab12338dd4acf62cf07dc1ec78239" sha1="cb3f3af40fb3069917ea2a1b7a57860f5d14f295"/>
+		<rom name="DRIVERS/JAMMER.DIG" size="3219" crc="230129e0" md5="4922c729c5e7b347089a2be44f296859" sha1="103e0bf92c6fd1c9fc925fd57bdc22e56170b395"/>
+		<rom name="DRIVERS/MPU401.MDI" size="1927" crc="b46f56c4" md5="0e641bcd4e0cc4d2e7d61df97384ebb5" sha1="3818842ce3ee2e5b3a536fdfba7b0680499323e3"/>
+		<rom name="DRIVERS/MT32MPU.MDI" size="6980" crc="bdaf0222" md5="609666cbd6fe795d576a9b6aff5ac7d0" sha1="08a6bc68a710c57f48dc33cacaa83151767a0dec"/>
+		<rom name="DRIVERS/NULL.MDI" size="1609" crc="93d88470" md5="8416b75a9db53a3a25f254ed45da4c57" sha1="be1424015a0c59de59dfc21226f3f2bfafbdb4ff"/>
+		<rom name="DRIVERS/OPL3.MDI" size="16387" crc="74aad2f1" md5="84ce740acea5af9ef8d118174bff88c8" sha1="310b8b21f088ec0180c02c9fbe1edd744d76c9b2"/>
+		<rom name="DRIVERS/PAS.MDI" size="15425" crc="01d01110" md5="bcc2a72a36663f40c019d0af2c95df13" sha1="a94fcb63700f1cbf46698d074526b5db48754b90"/>
+		<rom name="DRIVERS/PASPLUS.MDI" size="16458" crc="c5a2ded9" md5="f5515c19a269ca2b1af13e9b3e3c3d3a" sha1="a9c4967e8ca11c529a49d8a54f8730b223c0289f"/>
+		<rom name="DRIVERS/PCSPKR.MDI" size="4705" crc="9f6b860c" md5="29d094687340cb9536852f145e35114e" sha1="30a83056b006f4ed27aa9fa6e529fa823159bf1c"/>
+		<rom name="DRIVERS/PROAUDIO.DIG" size="2127" crc="4b071066" md5="a054071be574b2bcf47a0386f1a98ae6" sha1="8debfb262849ebce1da3d45387d1595712c2667b"/>
+		<rom name="DRIVERS/RAP10.DIG" size="2849" crc="47373ef0" md5="bb846bb23ee9065a09373afdb73cf054" sha1="6081bc6e447afeaad48a8361c92e7ce280f6ea7e"/>
+		<rom name="DRIVERS/SB16.DIG" size="2836" crc="6ddaa5d2" md5="b24e361b7634b9b3eafcd2cbb592ba9b" sha1="f0734dae77c034f5cfcd7b353cd75adfb57871af"/>
+		<rom name="DRIVERS/SBAWE32.MDI" size="32694" crc="dd43a7b8" md5="a66e04b5c067b95932857aff75f48f5d" sha1="a608005dd369a07f16e6acdadfd0fcdf95cc02ec"/>
+		<rom name="DRIVERS/SBLASTER.DIG" size="3125" crc="d1b1a7d7" md5="b456d6385b74b700f09aec22ba14ca19" sha1="5eec3b5791ad5855c7a4440909db651b6aca3b2f"/>
+		<rom name="DRIVERS/SBLASTER.MDI" size="15118" crc="670d5af4" md5="20fc92cf9e0d0d8e2447cd30252faee4" sha1="8e44d8bf0291e453d45477c6dd36fbd5ca40ac95"/>
+		<rom name="DRIVERS/SBPRO.DIG" size="2763" crc="1061490f" md5="b0fe50da778c24cc4066e960a3d1a7c3" sha1="8bc27ebd0ec30dabfd354b948801946b7e8f33d8"/>
+		<rom name="DRIVERS/SBPRO1.MDI" size="15471" crc="25370f67" md5="998eced7549230f6d621766f0cce4c39" sha1="92775d93ad5ee563ae8bf2b6f51ba8d444039e52"/>
+		<rom name="DRIVERS/SBPRO2.MDI" size="16541" crc="0ab0493a" md5="8879265bf3b414346f66c326389e32ae" sha1="4a9d598979e14f4f8c0e76fe0246b305fb848955"/>
+		<rom name="DRIVERS/SETSOUND.EXE" size="168737" crc="7a1fa975" md5="9912211c09ce1cf2e85f6da7bf4cd4ea" sha1="4bb75d2024abed1b3aab2a999a6744726564f9cf"/>
+		<rom name="DRIVERS/SETT_SND.AD" size="3622" crc="0ab378df" md5="3cce7683e5f2b8e0cca251613120eab9" sha1="f7e71a11957899980da5bb929de05c0b0ec124aa"/>
+		<rom name="DRIVERS/SETT_SND.OPL" size="3622" crc="0ab378df" md5="3cce7683e5f2b8e0cca251613120eab9" sha1="f7e71a11957899980da5bb929de05c0b0ec124aa"/>
+		<rom name="DRIVERS/SNDSCAPE.DIG" size="4171" crc="708a96a2" md5="9d7a052a680f45d244e0ee4735b7b55f" sha1="f9902b74d545813315194f5a1791c4ea0a9a1e0d"/>
+		<rom name="DRIVERS/SNDSCAPE.MDI" size="2971" crc="ad1df3c2" md5="31ec7e6e06a3eb9e0bebff3e52ef1b0f" sha1="01e3ffef3aa6e9d312f190a9403ff8d167743aed"/>
+		<rom name="DRIVERS/SNDSYS.DIG" size="3332" crc="86ecb774" md5="c67142fe53599b28ff7d53565576dbae" sha1="72a300265348a67c33945d0aa6b5c0ec3933dbcd"/>
+		<rom name="DRIVERS/TANDY.MDI" size="5010" crc="8abb61f4" md5="59153a3c31e3e62b403cac8c11a5e848" sha1="6fe77cabd4b9b621568c38f6feaa36696b8aa56b"/>
+		<rom name="DRIVERS/ULTRA.DIG" size="9478" crc="430d67f5" md5="000e584a06712d2f2b58eb2e17b65248" sha1="4327d6bb924b4e40fa7ff035bdfb73a879c31836"/>
+		<rom name="DRIVERS/ULTRA.MDI" size="49672" crc="04849dc3" md5="9a1b881ab9e8f6d827f6c27c5df40d85" sha1="8337ada0962de33ee3eb8ebbf9d5d0c898f41fd2"/>
+		<rom name="GFX/PALETTE/PAL5.BBM" size="1338" crc="7deb8c31" md5="215de72a69ec6172cb74f009479aac28" sha1="1dcf34f3040d239b5fd66ce1e42155f2f0ad7465"/>
+		<rom name="GFX/PALETTE/PAL6.BBM" size="1232" crc="4cc80f56" md5="a58fdfa71ff07c7b27e6d22a9b197033" sha1="b7a5772b9d68acacb0f63e47863a95b6109fb4f1"/>
+		<rom name="GFX/PALETTE/PAL7.BBM" size="1170" crc="d77e6e49" md5="90d1751ab55bf873f72e8c866fb82053" sha1="93dda293483608e4eca2d8f95c0fe82826767db1"/>
+		<rom name="GFX/PALETTE/PALETTI0.BBM" size="1338" crc="7deb8c31" md5="215de72a69ec6172cb74f009479aac28" sha1="1dcf34f3040d239b5fd66ce1e42155f2f0ad7465"/>
+		<rom name="GFX/PALETTE/PALETTI1.BBM" size="1338" crc="ffd4cdc8" md5="5aaccebcfd4d9f7fbd3b3fe9dccfe05d" sha1="3e573c89b5fb94c387cfdb1a96f1c98f649c4f54"/>
+		<rom name="GFX/PALETTE/PALETTI8.BBM" size="1226" crc="ea11fcf9" md5="7e54eb7466a08ed4f989fabe47830bbe" sha1="abafa6738bd038973568f41f17ed1dcac600945b"/>
+		<rom name="GFX/PICS/INSTALL.LBM" size="60904" crc="e0f6b0a8" md5="0f2491a45a914f4a131c74457f066b09" sha1="6ee1eac6b5f6653afcb00a4443336afaf89aed29"/>
+		<rom name="GFX/PICS/MISSION/AFRICA.LBM" size="195752" crc="17cbbe43" md5="4061588ff9e2e9dc360aa835689bed65" sha1="78937bc8dccf82c4c3a4e2a46701bc917b961bda"/>
+		<rom name="GFX/PICS/MISSION/AUSTRA.LBM" size="244708" crc="756869b4" md5="01d8473983a947b757bcc4c5816c20af" sha1="b27388000a50022358dcb9d37b5705d743b8a9e8"/>
+		<rom name="GFX/PICS/MISSION/EUROPE.LBM" size="255064" crc="7aa01cef" md5="5256cfc88616632e240005bf46961d8d" sha1="a8496dc212e45d002a54a4973f3db154ad7b944e"/>
+		<rom name="GFX/PICS/MISSION/GREEN.LBM" size="255512" crc="2dca54ea" md5="8b62652ffb2b2a296e51e59fe6a9f30f" sha1="ac818915c5f5ba5d216433569e0514e100f94fd3"/>
+		<rom name="GFX/PICS/MISSION/JAPAN.LBM" size="231240" crc="25d21d51" md5="4467c05365a6040247566069b5bf1344" sha1="1dd8be32652f6ef03c2c42e62399ee7efcd7292b"/>
+		<rom name="GFX/PICS/MISSION/NAMERICA.LBM" size="253272" crc="0a0d0ad7" md5="924909fa6b4f3ce2e85cfc8779b58c58" sha1="0d104e240490bc1658406c07dc7a941eda3af814"/>
+		<rom name="GFX/PICS/MISSION/NASIA.LBM" size="245638" crc="cb8f69cc" md5="503b199f6d8f29f6e3cd7eb682330c5f" sha1="dc7823252f278d6aee373575c73d2b9c616ca0e7"/>
+		<rom name="GFX/PICS/MISSION/SAMERICA.LBM" size="256144" crc="62b0cbd2" md5="c5e0352370ec79e85b123b2d4bebbd91" sha1="4af4669a106d13862c83662cd6771fbe5f4c7ba0"/>
+		<rom name="GFX/PICS/MISSION/SASIA.LBM" size="249154" crc="ce227097" md5="88c3f9df9e528fbf765d9c1b185ba974" sha1="1c6a80dceb85ad13cc2a844df5a30d14dd052752"/>
+		<rom name="GFX/PICS/SETUP000.LBM" size="177400" crc="e7476262" md5="ca0a67ee66929f125b6d6aafb25d82f8" sha1="64d306c000a7fbc6a8520702965160d473ec4386"/>
+		<rom name="GFX/PICS/SETUP010.LBM" size="209984" crc="6641a646" md5="fe70c3c5282c87e9aa498141dd49400f" sha1="fa1f090f39e0752fabb7cd6a8e28a7fb30846578"/>
+		<rom name="GFX/PICS/SETUP011.LBM" size="172352" crc="50b05993" md5="ab96fbeee5bcc712297a82ee69810a4e" sha1="bce7028c466ee2efb0e76710d8fdb7853cafd33e"/>
+		<rom name="GFX/PICS/SETUP012.LBM" size="151166" crc="7a4d9404" md5="d3a74aff78f0f9d0e4bea4f93020c3ad" sha1="38110a79f9771a33975d8ed6d10b90be08a5094b"/>
+		<rom name="GFX/PICS/SETUP013.LBM" size="206938" crc="de4a1a59" md5="dfcc1421b9ef7b8a835836cf2871fe01" sha1="ca29cdeb300305d88512ceed5ddb8e2c26699925"/>
+		<rom name="GFX/PICS/SETUP014.LBM" size="215058" crc="fdea87a0" md5="3695d6b8f090620d00b3c46a63e03bc4" sha1="d7801f4337ecc799f09f2741f6a589cdc69bec29"/>
+		<rom name="GFX/PICS/SETUP015.LBM" size="212198" crc="96ad5d40" md5="926fe6cf1afbc2400a1db595994898ad" sha1="e35d54b497e52773ca9d9564cadd8bf78413c6dc"/>
+		<rom name="GFX/PICS/SETUP666.LBM" size="242924" crc="95e5c49a" md5="b1da00efb31e30ebf00eab68195ea34b" sha1="388a5c4cf5cb1f1a20cdb577ba2e61dd0e299f9e"/>
+		<rom name="GFX/PICS/SETUP667.LBM" size="239774" crc="6c64d648" md5="c80b1670c02a12ca7378a3ce8db0ddaa" sha1="62c4bdcad27bbc8bb39a95a64aee2ac39bd130f4"/>
+		<rom name="GFX/PICS/SETUP801.LBM" size="266532" crc="0c668328" md5="91180efcb91b4555f450e02c92222f9b" sha1="2746293f2442768efbe2b0625978dccb27abef92"/>
+		<rom name="GFX/PICS/SETUP802.LBM" size="263384" crc="80e52220" md5="6571b29a5032ef5fe5e1c37930c0b341" sha1="e98da1842ffdf800a7fad8459b65424e228fd201"/>
+		<rom name="GFX/PICS/SETUP803.LBM" size="245922" crc="7d7bf622" md5="73bf38318e3b3b78443472907366da63" sha1="5ef2a7ef312f485d18f136ba501877705dedb468"/>
+		<rom name="GFX/PICS/SETUP804.LBM" size="293298" crc="b3080f9e" md5="100804008da8f603578b886e68556984" sha1="6036ac939efa1624f5d332500ea5aa4955248632"/>
+		<rom name="GFX/PICS/SETUP805.LBM" size="263230" crc="a111bd69" md5="35c38b4c643369a2230841be9aa34538" sha1="30cd29575d4c9c87f54acd115e4b4ba6e68acb3f"/>
+		<rom name="GFX/PICS/SETUP806.LBM" size="252604" crc="6470c136" md5="ca6a851587a02b7845df1c16d431714a" sha1="fe6d7dafb62b8344e4778249c3c59a822651a122"/>
+		<rom name="GFX/PICS/SETUP810.LBM" size="255512" crc="3d5447dc" md5="ceee227b0cd6910d1c45201384341e42" sha1="6631a28064a524b4f630ed5e91a613ccaabeaed1"/>
+		<rom name="GFX/PICS/SETUP811.LBM" size="245638" crc="585b129a" md5="79e6c6f57708c9f89e450ae34129cf17" sha1="9e266560ba4051353f4b725d1a71a90390cab02a"/>
+		<rom name="GFX/PICS/SETUP895.LBM" size="227796" crc="c171876b" md5="6eee6c220e6d72bff4c2b4a7caacbcb5" sha1="d93de22a1b39af5042a8aa6be3596762657e8c99"/>
+		<rom name="GFX/PICS/SETUP896.LBM" size="225034" crc="e305c4de" md5="d559a74f831e80f601a8b177de1ba0ab" sha1="6ceb27a4491466a1e34e248b1d8c6ebcb424bd53"/>
+		<rom name="GFX/PICS/SETUP897.LBM" size="279290" crc="e71e9ba5" md5="3ebe426c185bcd17d30326ab4a7f163b" sha1="b071f6ec1c2273702605af5a30237805c00d70c8"/>
+		<rom name="GFX/PICS/SETUP898.LBM" size="226224" crc="be016dbd" md5="a58f5cf9e8fd54bf24577fd605a5bdcf" sha1="7802e1f706f983e081d30868305f5ef6eb84337e"/>
+		<rom name="GFX/PICS/SETUP899.LBM" size="96624" crc="834876b2" md5="efc9cd11ae604244ddb72728a7c068b5" sha1="dbff635534e18a008bec384273070ce4d5da45a6"/>
+		<rom name="GFX/PICS/SETUP900.LBM" size="120876" crc="75502400" md5="cb10e3ebe86b02cfb564e2c635b9b0bd" sha1="71464bacec0959e7b0a95840d6ca05b0d3287ab1"/>
+		<rom name="GFX/PICS/SETUP901.LBM" size="98268" crc="48670824" md5="a0cef87073e492c6b6a6d854e8813199" sha1="ca97a39d30feb4e354acff5b4cc4c9cf513d402d"/>
+		<rom name="GFX/PICS/SETUP990.LBM" size="216076" crc="f77df445" md5="c071fbc6d83590eb298e75b90c8af853" sha1="e841297c5785761095148f210f3835a83faaa145"/>
+		<rom name="GFX/PICS/SETUP996.LBM" size="276436" crc="25327b16" md5="17750a02849933bc021954a3f52ec5ea" sha1="0934fb56d1890033498d088fefc87c79ed183438"/>
+		<rom name="GFX/PICS/SETUP997.LBM" size="292488" crc="36959482" md5="7deea1691413268dc0367101aaf3d0ba" sha1="b37fa5d216de89eed22d29a13521cf1235c56c97"/>
+		<rom name="GFX/PICS/SETUP998.LBM" size="268510" crc="27419a4d" md5="7dd6cf639008cec6e0eae1c31f1d9c38" sha1="7327ec331b4c4066b89f6c4a96d27412cc1b85be"/>
+		<rom name="GFX/PICS/WORLD.LBM" size="60668" crc="aaffce0a" md5="dd381967556f5df931847f2af1a199b2" sha1="be3126fdca6f4d43f0656d11576dc3b28e260938"/>
+		<rom name="GFX/PICS/WORLDMSK.LBM" size="8980" crc="f5daea4d" md5="da4199f7ae8221bcacad11f38cd78b0e" sha1="c0a544e50db53f7ae25d2b6501f3515346a58863"/>
+		<rom name="GFX/TEXTURES/TEX5.LBM" size="45344" crc="f066dff4" md5="bab248f57101b8174d9eb1cdb60adb42" sha1="c439d792df7ad30b0be123404aa48e1930588095"/>
+		<rom name="GFX/TEXTURES/TEX6.LBM" size="42638" crc="fdafae07" md5="ef5ce19bcd554a4c82e3b985c0036e74" sha1="694e3f429cfe85f56f3a4aeee0a429c062fdf38f"/>
+		<rom name="GFX/TEXTURES/TEX7.LBM" size="41266" crc="958feb89" md5="ad9fea4cc02d4237127c3da46a5c61d5" sha1="51f214730057d1b1bd5255461e33312c6fbf84f2"/>
+		<rom name="GFX/TEXTURES/TEXTUR_0.LBM" size="55264" crc="a7117666" md5="ef2ca9f4fe75bddfbffd1f9108ef8823" sha1="ef7e614780a1ffab3f1f2e38fc1efda14a5d82a1"/>
+		<rom name="GFX/TEXTURES/TEXTUR_3.LBM" size="53732" crc="a47bc09e" md5="4885819218f08042f0f37fa899d2f10b" sha1="03eca2904cca9e1f036c5384355604356e93aecd"/>
+		<rom name="INSTALL.SCR" size="5181" crc="cca7835c" md5="5cc52ad3614b7604ae99b11e6a744564" sha1="ef1f1d66854c970b11844304eb96d218abd17359"/>
+		<rom name="NEWS.TXT" size="529" crc="bb40b9e5" md5="1e8e9ba34223db62eabc4e20ca03a64e" sha1="487b0343a502e85ba9fc9adc6981c0dcace8051b"/>
+		<rom name="NOSOUND.BAT" size="82" crc="fd33441b" md5="2500b1395767605b6b948043424c1c0a" sha1="7094c340425340fa8a59df3c8558a1d44955c753"/>
+		<rom name="README.TXT" size="14160" crc="011650e0" md5="eeb6eaa1edfcdb881955bc946ada7103" sha1="0e8b43fe5da1bed70df2d03aa53d1ab42beadc3d"/>
+		<rom name="S2.EXE" size="1939570" crc="1adf6b2e" md5="d9dca83b00b0290576dcde2646156516" sha1="6b80355106be0eabad98fc8e06bf528730128a5e"/>
+		<rom name="S2EDIT.EXE" size="975474" crc="3b8403ec" md5="8270e8979a41f826c72e0198ecb269d1" sha1="d258fcd8a36dc22b468c5aa11f328c07d51e6797"/>
+		<rom name="SAVE/MISSION.DAT" size="13" crc="433432b3" md5="910a2ee20c5f4fc51bc17940f8eb4329" sha1="50b93d87404ea7218087ffadca6435259039c617"/>
+		<rom name="SETTLER2.EXE" size="19120" crc="d69df2a5" md5="f60c72b15a7571f5368fcf36fbf92362" sha1="8318ffaae8e507a803a9c05e642d25cd352ae218"/>
+		<rom name="SETTLER2.VMC" size="100" crc="9de8b8b6" md5="8d8a03e6108ea40d209371ea274e9b88" sha1="cb3629942fe8ee6d5b4a68cb781047985d0bd7cd"/>
+		<rom name="SETUP.EXE" size="189511" crc="969f9aa9" md5="cb27d7ca7617c861c85f322144d4c0c2" sha1="d66f3beb0073a55d05dcc54b66519fa86ca407bf"/>
+		<rom name="SETUP.INI" size="423" crc="c28dd78a" md5="d4988ff7a86fde2de805d6230190c756" sha1="458dca6d344886bdca2634dcd66a306c815c7540" data="W1NZU1RFTV0NClZFU0E9WQ0KRlBVPVkNClNPVVJDRV9QQVRIPUQ6XFMyXA0KTEFOR1VBR0U9Mg0KRURJVF9TQ1JFRU49MA0KW1ZFU0FdDQpNT0RFXzEwMjR4NzY4eDE2LjJNPU4NCk1PREVfODAweDYwMHgxNi4yTT1ZDQpNT0RFXzY0MHg0ODB4MTYuMk09WQ0KTU9ERV8xMDI0eDc2OHg2NGs9WQ0KTU9ERV84MDB4NjAweDY0az1ZDQpNT0RFXzY0MHg0ODB4NjRrPVkNCk1PREVfMTAyNHg3Njh4MzJrPVkNCk1PREVfODAweDYwMHgzMms9WQ0KTU9ERV82NDB4NDgweDMyaz1ZDQpNT0RFXzEwMjR4NzY4eDI1Nj1ZDQpNT0RFXzgwMHg2MDB4MjU2PVkNCk1PREVfNjQweDQ4MHgyNTY9WQ0KTU9ERV82NDB4NDAweDI1Nj1ZDQpNRU1PUlk9MjA5NzE1Mg0KVkVTQV9WRVJTSU9OX1NVQk5VTUJFUj0wDQpWRVNBX1ZFUlNJT05fTlVNQkVSPTINCk9FTT1TMw0K"/>
+		<rom name="START.BAT" size="27" crc="46e065fd" md5="55ca5090c95a7550d1669d9ba2cb965c" sha1="359829d0c1a5973f14a8748c3f0940ed37b865c3"/>
+		<rom name="WORLDS/000.SWD" size="132286" crc="9a6660a8" md5="e10c67b075d4b36a4edecc13e419aa90" sha1="b9d33d6945adcdf6080b6243efcb5883f1d599aa"/>
+		<rom name="WORLDS/001.SWD" size="178263" crc="1956c068" md5="30292c5110cd9737dbb92c86becdabbd" sha1="4f17e2e82f86b84364c96accf37ba4309872fa80"/>
+		<rom name="WORLDS/002.SWD" size="525363" crc="83a546b6" md5="021640b4b53720ade61d203478908335" sha1="ae6c5e5abcd0ece5bb1bbc51cc8e270659f896c1"/>
+		<rom name="WORLDS/003.SWD" size="60106" crc="68aa2d06" md5="7dd3cef0c64c2018d314098448d50b8a" sha1="e22abdc3ec855a9fdc63138d2ce322aecb781e18"/>
+		<rom name="WORLDS/004.SWD" size="102969" crc="90118f56" md5="25099e18bd1bb725b936ee3034aa3c8a" sha1="66ab6db43167dabdbdc8d8b2d486d8c8dbe47804"/>
+		<rom name="WORLDS/005.SWD" size="224492" crc="9ec6e929" md5="4393904a18ed0453a59a653028581b50" sha1="2a17009ca10ab9285c43243af3bb1f76512e33a3"/>
+		<rom name="WORLDS/006.SWD" size="295636" crc="a4b37808" md5="54141c78a3f60e62f9f90f5146903281" sha1="47e11255322e26e8fb1a68007c0ef664f192e3ee"/>
+		<rom name="WORLDS/007.SWD" size="523753" crc="9aa8ed7f" md5="4913c7b825c7cebb9c707ec8cdb7c69e" sha1="be9372ad77a3f8b6658736411c65700fd73379a5"/>
+		<rom name="WORLDS/008.SWD" size="203526" crc="c7f30428" md5="40d155c347897763801c82751449e193" sha1="04542d078e13cd6293d9efea8574e85ac8c5b26c"/>
+		<rom name="WORLDS/009.SWD" size="131966" crc="8bb41a18" md5="873de8a6c5efc9e29658736d62213f3f" sha1="1a438eff2cb4cd5f98cbbd5c9af782924350f757"/>
+		<rom name="WORLDS/010.SWD" size="524098" crc="d8dff61c" md5="4a1e79b3509fd5670d94c4b73fa96b85" sha1="6e952c76d0846ac65f5ab86f49089786f87b641f"/>
+		<rom name="WORLDS/011.SWD" size="519148" crc="a807b42f" md5="4e96227fa6d60878d493b10edff6d74c" sha1="771acd4c26189cd8fad01cbb78290c4d059eef6e"/>
+		<rom name="WORLDS/012.SWD" size="952471" crc="0e2689c3" md5="29b645fb9cfbe998c97e01fd0ffc556c" sha1="142505c439b57048496cd6aad459f456fdb14f3c"/>
+		<rom name="WORLDS/013.SWD" size="299926" crc="0a35570c" md5="d8508de6ceea689d4ea90204a7dc7ac5" sha1="537acc424f1e18b07577a2f095f332cf2ae32f55"/>
+		<rom name="WORLDS/014.SWD" size="516664" crc="e5551ef2" md5="41cbbefe4fa09301fc9ce3ff92dd07c1" sha1="79076a613a28fb95ff4922874ba7b945cb264665"/>
+		<rom name="WORLDS/015.SWD" size="132471" crc="a83eef23" md5="2dafc6baf69d61559a5e8abeb25e6764" sha1="b23055d86a85cd0b1ca4a4d4824412b50669aa3c"/>
+		<rom name="WORLDS/016.SWD" size="232203" crc="a138cd00" md5="c813559934ff654b71216ab69865f3b0" sha1="93142d4051aa08a467b0c3ae5b29f0ac13438555"/>
+		<rom name="WORLDS/017.SWD" size="132401" crc="bea53e58" md5="85965ff432d357cfaefed864996996d9" sha1="5fa13604dd4caaff0ef99fbcfcd7f3d27b313717"/>
+		<rom name="WORLDS/018.SWD" size="372632" crc="cec165fe" md5="bf2514e4bd084fa64d8719704e421c67" sha1="f0828eb1d085dcc7e99c9332a2b8168ed1e084d2"/>
+		<rom name="WORLDS/019.SWD" size="131961" crc="ace29b77" md5="be7b3071224578d91bca20ceb97266c2" sha1="00252e9b538d8088e25fc978938978398dde0f46"/>
+		<rom name="WORLDS/020.SWD" size="153490" crc="d5eae7ca" md5="4178fb9611d01612217e018fddeac0ca" sha1="351afe3366915309ad6e11cd5851ccf3a0254256"/>
+		<rom name="WORLDS/021.SWD" size="164007" crc="197005d6" md5="d532744676e768e4ffe2d6415059a13b" sha1="e8644ceb06872a0b6f013ffec8c30e276434abc8"/>
+		<rom name="WORLDS/022.SWD" size="179298" crc="7e81aa75" md5="898dd738a92234da9778a9fe1a62f877" sha1="d31fc32498a9c61ba47189841b641c2465c5ee58"/>
+		<rom name="WORLDS/023.SWD" size="232613" crc="e4ff0bcc" md5="77af066f4d632612c957020dd15f2022" sha1="df745e0d16f1777b2e6d992a24aea3fc09b36e69"/>
+		<rom name="WORLDS/024.SWD" size="131676" crc="6a478337" md5="840cb8aabf1086d4bb1fba91e15282a1" sha1="787e53bad61723457490564fc40169977ba7c7d0"/>
+		<rom name="WORLDS/025.SWD" size="178588" crc="204dec7f" md5="6acb47fc8791b505ba633e3c0e71bf3e" sha1="4aa423be64b3e70df98a9bd513af6b420650676a"/>
+		<rom name="WORLDS/026.SWD" size="131686" crc="bb918bde" md5="6145acd5d2b9788c9b0b32ef38ba2ed3" sha1="32fd8281c880f353c1384aca381c44f21caf79a0"/>
+		<rom name="WORLDS/027.SWD" size="131781" crc="15f850f2" md5="d93f62c0996728270cd155eced6f7275" sha1="6f83a54a4421f84144b6305ba93e0fb3d030a11a"/>
+		<rom name="WORLDS/028.SWD" size="705181" crc="f5486f1b" md5="70f95245edd4542fc10e91851f6cce02" sha1="04af2ee9056080ad6e93ccd36812f2a3dfc16ac5"/>
+		<rom name="WORLDS/029.SWD" size="261095" crc="eb2858d2" md5="f00c986a654bbcac3cf5bf37332e11fa" sha1="3839df96b01699d214e31ff8722c1e11bb3baa2a"/>
+		<rom name="WORLDS/030.SWD" size="176469" crc="acc59d71" md5="686b27374590c17a4d667425e897b6ae" sha1="57971adec8fe3d54e8e49f217d2e7e3177cb8bae"/>
+		<rom name="WORLDS/031.SWD" size="366612" crc="cef19593" md5="9f641f4ff0ff0e000d478c9573e3a5e1" sha1="773ed12aaaeaa1f351d322d9e2b6beee01b4aa4b"/>
+		<rom name="WORLDS/032.SWD" size="347571" crc="25c3056e" md5="740dde92f2dc9036b0abf2bec615d484" sha1="82c29d8e993cdb959b7d7f5e5d4f48aa97b7f3d9"/>
+		<rom name="WORLDS/033.SWD" size="519228" crc="8f117d7b" md5="1367d0be4043dab19d767134d6c09bbf" sha1="a285a2a3d38557bcb9dfab96ff7555240a1553dd"/>
+		<rom name="WORLDS/034.SWD" size="154145" crc="3cee065a" md5="370d54bfd327125fb9ef2c507b9fc436" sha1="65ecccdbce6de1b76709b3fc7ad2ece014d4d2b4"/>
+		<rom name="WORLDS/035.SWD" size="134946" crc="32ca7cff" md5="1f4879fd5bce3d49f9cf322a1be69b06" sha1="9156157faa3f16833a1be698c49aa4a8753c6342"/>
+		<rom name="WORLDS/036.SWD" size="361762" crc="1c381f8a" md5="1ed0127221bce6dc6b740414bc9d4cd3" sha1="a82f6520c8dfc3486832f5702f40036836c4390a"/>
+		<rom name="WORLDS/037.SWD" size="293786" crc="e6c1414c" md5="40e5829eef6c0fa6ed48ce08a5ab346f" sha1="f7f312a0bb88558587ab7ff357e91d80e759fe45"/>
+		<rom name="WORLDS/038.SWD" size="132286" crc="2f2f0192" md5="29da7d2aa2235fd029a4e592e78e58e2" sha1="fc32ec220bf6d9090c650f02efeca706e56b868b"/>
+		<rom name="WORLDS/039.SWD" size="132421" crc="fdc35219" md5="5697de464d8ff7df39e8b866ca3ce5b2" sha1="aea80cf63246d26f25e86db6799ffa826807c92f"/>
+		<rom name="WORLDS/040.SWD" size="362497" crc="95d7b921" md5="6ce7cd8db3d47a7803132a0546f666c5" sha1="2585c308aee8fa763d6029b93680468bc992b485"/>
+		<rom name="WORLDS/041.SWD" size="362372" crc="496f1ed7" md5="22ab388f643f2378e1d3a4b53d069d19" sha1="1e0ef303e7f1ccd53401fdffcb2d8a595d14e74e"/>
+		<rom name="WORLDS/042.SWD" size="132021" crc="fe2ec0cb" md5="68d86c1a9c19d2e0374dc4f243655e2e" sha1="aab7ca2ab4c095f8454b074401b0b2eb8c6335e4"/>
+		<rom name="WORLDS/043.SWD" size="35438" crc="6c4d60c7" md5="444718ee75d736bd6232d28303ad5877" sha1="867817498d66aa95839257412db353f8294bbb9b"/>
+		<rom name="WORLDS/044.SWD" size="131966" crc="39421944" md5="84aee4b1abc83ee809388d7b484dd204" sha1="7c7148e7a51bd75cd86bc523bcf54df58a6616a4"/>
+		<rom name="WORLDS/045.SWD" size="153980" crc="6eee7738" md5="ad7d7e2767737653c4b09260f7da7677" sha1="db481820f67524e1c09d6734dfd88b087c1e5060"/>
+		<rom name="WORLDS/046.SWD" size="232608" crc="b813f021" md5="58a34e9ee80ac4197472a40377955b18" sha1="ebe86a15b158c5abc224ef15185173a629ebd0dd"/>
+		<rom name="WORLDS/047.SWD" size="131966" crc="39421944" md5="84aee4b1abc83ee809388d7b484dd204" sha1="7c7148e7a51bd75cd86bc523bcf54df58a6616a4"/>
+		<rom name="WORLDS/048.SWD" size="437101" crc="cd32a870" md5="3368dde928f51d9ba925e07abf585601" sha1="66e7a6e09be9815703707955c1ddc3c3ea2f1633"/>
+		<rom name="WORLDS/049.SWD" size="519448" crc="4b889eb9" md5="9f7b69b4a3ba46fdfdf1f2e980471ea4" sha1="797c9f3fc7d6243d9cc24c9ac3bd2b8c4f23088f"/>
+		<rom name="WORLDS/050.SWD" size="361642" crc="209876ef" md5="6a847d08652e3ad5ea5a6e89c69d973a" sha1="98b6dc065ec0b09b72e0da9050942ae18dc7a14c"/>
+		<rom name="WORLDS/051.SWD" size="132336" crc="dc3891b8" md5="712843e8354db631964ba832fa15448f" sha1="913399602639e99585f32335fca3862c355ddd27"/>
+		<rom name="WORLDS/052.SWD" size="327332" crc="da5c5900" md5="be1f4037069686221af435d1698f93db" sha1="6284a0935b706156476cfd2652e24276b352765d"/>
+		<rom name="WORLDS/053.SWD" size="594352" crc="4a94e04c" md5="594bb2d108702e6eb691211a43234623" sha1="7933751e856d3321402c7332495d29b6ee5f102e"/>
+		<rom name="WORLDS/054.SWD" size="178738" crc="02e9043c" md5="7edb0fd1168cac7902a03dac09b7cfed" sha1="d3f4404ac0cfc157ec4153935bad6fcff3e6f9f7"/>
+		<rom name="WORLDS/055.SWD" size="261210" crc="53393131" md5="ab6fb10953f106600bfebbc0ce62b42c" sha1="4f394f8b55b40416a3893a8533da5d2b0d8b8500"/>
+		<rom name="WORLDS/056.SWD" size="132506" crc="242261b8" md5="139e53e5c0197df5f346c752882d1491" sha1="9d500378aca58e314c1cfc65b1ca246da72ddafd"/>
+		<rom name="WORLDS/057.SWD" size="93657" crc="c51d95a8" md5="1f170d4ce5457462d9803942415e4e09" sha1="28958f9a77a3a4af1f62f21433e8417033414543"/>
+		<rom name="WORLDS/058.SWD" size="132721" crc="528fe7c0" md5="cef57e567684ee49ae3f78cccfc6cfd3" sha1="564f35d262f11ceeb0930fb6c05b02a8b0dac4a0"/>
+		<rom name="WORLDS/059.SWD" size="920521" crc="bf279b37" md5="479549396fe1d5dafee35a8f23928078" sha1="32b573a109dadfb10f04917b54db8c400b90aaf0"/>
+		<rom name="WORLDS/060.SWD" size="361447" crc="6206072a" md5="3ad530f811b685b1cea3b7397703025a" sha1="eb210ac33ed57895a2344182fa8fa61d2ab52f20"/>
+		<rom name="WORLDS/061.SWD" size="133396" crc="d9f9cf9e" md5="c712b08e45b29e7e176d7b3d09362cf0" sha1="19e1922176771c0e74be96f33368c015a04edfba"/>
+		<rom name="WORLDS/062.SWD" size="232728" crc="1df0216f" md5="95d89ca2e09d146a4ad0f0947c70775a" sha1="55bf6c7e761e003356f65e5ab94314d06baf3fe4"/>
+		<rom name="WORLDS/063.SWD" size="232438" crc="72295e73" md5="4b1495dcda027ba3959afb1388801f00" sha1="37eacf3be4f7fdc9604353f911635fa9cea80681"/>
+		<rom name="WORLDS/064.SWD" size="421905" crc="82238cfd" md5="3210f395a19e9a27da84013d19f6f119" sha1="c6776146b2e7f14a42d26b22f55701f5c8da8005"/>
+		<rom name="WORLDS/065.SWD" size="132061" crc="9c79070b" md5="84fee2eecf68a2bfbce3f62a5efa6c6f" sha1="b737ad299dade549b634b9e8dd6d6885d7f548fc"/>
+		<rom name="WORLDS/066.SWD" size="132376" crc="d1dc30d9" md5="11e3d32fca697511ae2f1738b666bae7" sha1="cf07b46afcc5c33256a4fce655b183a8070c100b"/>
+		<rom name="WORLDS/067.SWD" size="132786" crc="bd518b17" md5="157c4a639c90e9ea75290c0438f4b583" sha1="eef0724f36028b7d74986782776c6d4eca3f5675"/>
+		<rom name="WORLDS/068.SWD" size="178383" crc="704b0265" md5="a7075905ab6ccdb6db22f1dca4443974" sha1="71c7a347c5bda4106c080b1386b79929f5763b49"/>
+		<rom name="WORLDS/069.SWD" size="133566" crc="7d6b0fd2" md5="c0b3d22ab7272ae38aca8bd5e91ef3fd" sha1="1bd62fbd01270a3eb6e3b70b051fb736271ea654"/>
+		<rom name="WORLDS/070.SWD" size="180658" crc="2fab1a25" md5="dffda82c7e8c957bc4bd9fff09a8a31e" sha1="277bbbff4bb0cc8851a099ec459287c32db05fcd"/>
+		<rom name="WORLDS/071.SWD" size="178588" crc="e728b762" md5="58c96389e3a07b900adec03a49e8d80e" sha1="82c9977ea246ede717d4f7780c726b0a79999a7a"/>
+		<rom name="WORLDS/072.SWD" size="180033" crc="4ba0fb6c" md5="28e1cbf8ab703a6d2cc11f83fbc2c122" sha1="042742a8584e3355b8e4832848afc8579900dfcf"/>
+		<rom name="WORLDS/073.SWD" size="199878" crc="cc3a9bd8" md5="e4d33598c91f9595300b1f1b67705fc7" sha1="6f98a52c26550bbc6e441c5bc31b22b1c8b3b2a5"/>
+		<rom name="WORLDS/074.SWD" size="132461" crc="489c3580" md5="32376170f248f42c7ff9b9dcc189684b" sha1="a06f6a3b4c4b56be0ded570f1c926c6385bc2efb"/>
+		<rom name="WORLDS/075.SWD" size="203966" crc="491ff43f" md5="6bc05cd2ca12f43985001f52a8fd0da0" sha1="31ff50fbd3e5d12136c530a3f15a6d912cb3e113"/>
+		<rom name="WORLDS/076.SWD" size="132281" crc="c289bdd9" md5="f76ca63ac4a45a3ed17bf2042d5db5b8" sha1="791f24015adf023a6c77e99a020775e01ff0e939"/>
+		<rom name="WORLDS/077.SWD" size="131746" crc="3b2864fa" md5="52f0a7226caeee2ca674dcf392f920b7" sha1="64abb202204012665499362b9095c2cfd97b6836"/>
+		<rom name="WORLDS/078.SWD" size="519778" crc="d56167d0" md5="d3a59b3d451772f52c4c975e3f8c3284" sha1="fd34a0c91044bb21c7029dbe150a681460ff7f6e"/>
+		<rom name="WORLDS/079.SWD" size="131796" crc="5d957bde" md5="5b15a4ecd5bfc366222b45c5b987d1f3" sha1="636b41200807e47d662e1ff105129b94ddce685c"/>
+		<rom name="WORLDS/080.SWD" size="74372" crc="1ed78509" md5="c06e01efa6fd9da29c321e3168dcce1f" sha1="0bc29edf20fbc8eca1a6dd1bbfac98897c3ce132"/>
+		<rom name="WORLDS/081.SWD" size="92697" crc="563a4720" md5="30b5a0202b3dd98bcb2c5df67638b344" sha1="502db95dbb4c4f9ac5e7d6f81a15f37da7ef0be1"/>
+		<rom name="WORLDS/082.SWD" size="132086" crc="76318edf" md5="a3c6534b5f3796eb8812eb4a9c43082a" sha1="fe8b6ed5be7fb994f95b700531f8d90b30e8c8b8"/>
+		<rom name="WORLDS/083.SWD" size="518958" crc="f96e4f47" md5="d61517b526409bdc4ae1551cd1b0a56d" sha1="5c44f9d40eadee370948637dc8307cd5569419ea"/>
+		<rom name="WORLDS/084.SWD" size="614238" crc="39cadc45" md5="8a4c36a051ea8084e1c68f80bde59c23" sha1="fe7567293497a4a405fa869d142ad1a193cf1f61"/>
+		<rom name="WORLDS/085.SWD" size="132521" crc="1ab67045" md5="c2958b7a54d6d6878aaf43400f1b924b" sha1="6adf73e2fd855fef1f58c84931c61988ec36d04d"/>
+		<rom name="WORLDS/086.SWD" size="131731" crc="68b89ee0" md5="b14ac873934280de87eb663ac90363ae" sha1="166c85d61e36883386dd50f62b245121b2c1e46b"/>
+		<rom name="WORLDS/087.SWD" size="363597" crc="67ca86c0" md5="206f79ca3e6a54148f64bf37e8152962" sha1="e63d6fdae0e1d671146c4f5617da816bb145bcdd"/>
+		<rom name="WORLDS/088.SWD" size="692085" crc="a0413cdf" md5="87bdc868edc5a0da9c3c6297d5914b7c" sha1="c00ca2c226fcdbde198fc4fe83df2c1a52e7542b"/>
+		<rom name="WORLDS/089.SWD" size="178908" crc="f4c5a16a" md5="31cca4d7b933a074eb7229b70e8de0c9" sha1="54f7e227b3a79ae7b1c796d532eb7565ec61777e"/>
+		<rom name="WORLDS/090.SWD" size="925941" crc="ed31ffb1" md5="d66d0ce72e6e7a1509898bc5a06b59a2" sha1="65558cc649f9682879ff86b1199c413c85315787"/>
+		<rom name="WORLDS/091.SWD" size="131951" crc="a8bc4fe4" md5="b07f0f54089d4745f7d5744fc9d2d676" sha1="50ad89fe68d4597b8a2b35403d98e426d5d0fa1d"/>
+		<rom name="WORLDS/092.SWD" size="361092" crc="dd23b4ab" md5="2f6b324ebdde98453b0ef80b6c6ed4a0" sha1="53298ef5521186c9c89ce3cf83537406338fa5ed"/>
+		<rom name="WORLDS/093.SWD" size="519578" crc="73cb3967" md5="62fc603f7d8ae0e2565d6ba544533759" sha1="a09c306e837be822770a5f1e14ace5b74098a358"/>
+		<rom name="WORLDS/094.SWD" size="133026" crc="9277532c" md5="db9a134a7244dc5c11927e8b1dc5d36f" sha1="2932c593fe6d886d31696660e9c6490b1c6d4673"/>
+		<rom name="WORLDS/095.SWD" size="134686" crc="27f910a7" md5="31f673c24d559d7bf5da9430155842c3" sha1="3e49c030b948c441f8e92d003ac3a52235fdb92a"/>
+		<rom name="WORLDS/096.SWD" size="929001" crc="97cbe404" md5="cdb3a56686df6b5a3ddb82c6c1d2a261" sha1="dc8caf61c60fdbbc611f9de2b745cee23becb224"/>
+		<rom name="WORLDS/097.SWD" size="232898" crc="c11a267b" md5="d4f7a500eb7366230999c14a78d814f4" sha1="1ceec5f3f0022eac903b140905444ee795a0fffd"/>
+		<rom name="WORLDS/098.SWD" size="132121" crc="008b9e55" md5="eecaf077b3748e7cc532832bf821cef6" sha1="eb49e37e4fa07f257993ee7dcfcc24ecb86f60fb"/>
+		<rom name="WORLDS/099.SWD" size="922996" crc="e517529d" md5="1f5d6de2d9cbc48c0a9833d3b139ba8a" sha1="0e590c6f9738f331581d3f2c64bb2049e285f333"/>
+		<rom name="WORLDS/100.SWD" size="476925" crc="28af8089" md5="87e5fa8724ddc705c62c4f6ff192b17c" sha1="5b5b85e9733e514feccc1e5394ce0ca2f3554dab"/>
+		<rom name="WORLDS/101.SWD" size="705111" crc="e40b6dcc" md5="fd124f18b40832daf16db7312b4c4211" sha1="63d2aad0a5158a684d1ce27bd74882645e85a56b"/>
+		<rom name="WORLDS/102.SWD" size="179883" crc="747e1c1a" md5="ba8b83d38988c6d8ad6a4c9bc7b99133" sha1="bed814bdafb1e6ab11af8b6b5fbfffbdd4fbac7a"/>
+		<rom name="WORLDS/103.SWD" size="93567" crc="6598d7ac" md5="e1d9feceda5cc6af38be8b2113124f05" sha1="10e568ac6916125b7cc6e76b018f43fd2cfd19d8"/>
+		<rom name="WORLDS/104.SWD" size="923596" crc="923e9740" md5="ac33479d21ac512041d3685f9cfe1707" sha1="2262fe8a0bc11782fa3a05fa83e7704b00c4d042"/>
+		<rom name="WORLDS/105.SWD" size="92177" crc="88d9c2da" md5="9fbb3af969820383283339caec58d3c4" sha1="8c76251985ed4f22394785af228784c636315ff2"/>
+		<rom name="WORLDS/106.SWD" size="466989" crc="123b1cc4" md5="a6449fb98f769f849a82c3d3a469d83e" sha1="916c103329a1f057ae468e614f01ac8fad1b25b9"/>
+		<rom name="WORLDS/107.SWD" size="924531" crc="36bf61d5" md5="4f1fd75a331f5d7ff839c00cd18bf9cf" sha1="231f753e22c768bda87d7db60df847137c597ab2"/>
+		<rom name="WORLDS/108.SWD" size="74577" crc="34f4ebb5" md5="75a55f0f27807d6b87bfc633e79a8298" sha1="8841579dfaab7e1c12305afc2590bd8472b3d968"/>
+		<rom name="WORLDS/109.SWD" size="197338" crc="70a0d00c" md5="b072bd256e0cdbce030651584e5ce0da" sha1="61e9bc3a3bab4d7f41cf4001b3cb70d3475a691f"/>
+		<rom name="WORLDS/110.SWD" size="154070" crc="6eb8218e" md5="6aeea5d5497d71bae3659e5f81fa5104" sha1="a6b6b486158a1ceb0595c802506c12aeff0b62ad"/>
+		<rom name="WORLDS/111.SWD" size="132421" crc="1f7c9ac4" md5="5200b0da8c57ef8adea48bdccd9a0160" sha1="ea3f2db15d978d39703dd1d92a417293f3c5e2e2"/>
+		<rom name="WORLDS/112.SWD" size="232688" crc="26de94c7" md5="4f4feaeff99d99083b6f9afdf2937e0a" sha1="5cb2228f0b2e8277708bb9d51254291348eb6ffd"/>
+		<rom name="WORLDS/113.SWD" size="134446" crc="7c4a6abc" md5="e1dce1454b9baaa1fe3156d8f6166060" sha1="4e37325a04f12e7f6c1f64ede91fb40884c4da6e"/>
+		<rom name="WORLDS/114.SWD" size="564781" crc="38e81f10" md5="938fdfd09420871ba9a322e392a720af" sha1="f21b6cacbb869e3dfb4ac48962e9f57d9f48f79d"/>
+		<rom name="WORLDS/115.SWD" size="361707" crc="89b91e19" md5="ae16cff077e59b8437253e1fd7f7c08d" sha1="3bccbf588619f3d6b144949a7631d57eb25103b5"/>
+		<rom name="WORLDS/116.SWD" size="362262" crc="f4502aac" md5="71f6182398cfc05b030f3e5a966c02f3" sha1="c8789c90c4412b5875aa4af5c2016c8eefb3b06c"/>
+		<rom name="WORLDS/117.SWD" size="132196" crc="e0bb7451" md5="8621244e8ef2639b30faae0f33c75890" sha1="e9ac66d8080f66e1881142abd5acd508ce898d3a"/>
+		<rom name="WORLDS/118.SWD" size="75577" crc="28844417" md5="daf6868f2e7748203cd7eb19f8e7122f" sha1="ba70e2647003c54b51d51bece9cc64c8d1e68a5b"/>
+		<rom name="WORLDS/119.SWD" size="132646" crc="965dd4a4" md5="03ddafc3cc15407b8dd07b38a13db5f9" sha1="a156fbbebc46a469f1d5d11c18fce29a97fc04b8"/>
+		<rom name="WORLDS/120.SWD" size="361242" crc="8dc4d5b5" md5="ab1863bc11dca253800c2358790188f6" sha1="eecc2c49f7b2350c0d12d31e2afbb915ec704201"/>
+		<rom name="WORLDS/121.SWD" size="232368" crc="b6629ebf" md5="cacb9d6a034b7f13069c99829429872b" sha1="6508131155557f8be5099a334f6fc9be85943f3c"/>
+		<rom name="WORLDS/122.SWD" size="178723" crc="7bd54b77" md5="25e551801efb38ae88181748a4bbb473" sha1="36db166304e669a17e1eadbf7fc0f065a4e4bc86"/>
+		<rom name="WORLDS/123.SWD" size="131751" crc="d5fddbeb" md5="8f68e88a228c4ac8703e59ea47adf2c7" sha1="a734185d3fdeb284eab971fa76d0f948e76bb248"/>
+		<rom name="WORLDS/124.SWD" size="131886" crc="985e8624" md5="dd5c1bfc117a08065d5b9796f7f663c1" sha1="b37790089454bc950d640fb9fefd3b6ccb711ba7"/>
+		<rom name="WORLDS/125.SWD" size="132126" crc="2c6a1ed9" md5="bd1b052fa759090776fa194eee09298b" sha1="1122ab7ef805e0daeef200ddb99cf62fd51706bd"/>
+		<rom name="WORLDS/126.SWD" size="132836" crc="f2131ca5" md5="122a0a0d23efa886bd55900dc8f9a577" sha1="be9e15421bd56d13564df562b584a0fee20ea0d6"/>
+		<rom name="WORLDS/127.SWD" size="519258" crc="b1849b13" md5="ea6ca3e504e95a3cdbb0c8eddc559198" sha1="3a38ed1089d1d926dd33b94744efdff243a367a6"/>
+		<rom name="WORLDS/128.SWD" size="132396" crc="5a195cae" md5="e232205d5de17ed96225a83ba97dd903" sha1="24c4b1363a37da2d3e119eb70393433ed01e858c"/>
+		<rom name="WORLDS/129.SWD" size="131926" crc="6c63a7f5" md5="3f95f54aba1d6d35fb174e78d1d2946d" sha1="6bce1a60d35f5ad3ce789d987752fd69726b2048"/>
 	</game>
 	<game name="Shadow Warrior (1997) (3D Realms).dosz">
 		<description>Shadow Warrior</description>
@@ -22595,6 +23430,367 @@
 		<rom name="SNOODDAT.DAT" size="684377" crc="16f286f3" md5="daaa5f4e7d75ba181a6f91f95ba6f4ec" sha1="2afa0827f4ac63ddf0fa481b74df2d30e2552816" date="1999-02-17 23:25:10"/>
 		<rom name="SNOODHLP.DAT" size="729879" crc="f9a59821" md5="19466aa8516c3d147160a6c591307160" sha1="f07b22462c1193c4a3057cc14bcdd55708b95b3f" date="1999-02-17 11:14:20"/>
 		<rom name="SNOODPRF.200" size="4756" crc="f45ed344" md5="0656316b8d090692dce3a2afad832d6f" sha1="1c4d4da9752e8a82140086379490327ca031740f" date="2014-09-11 20:01:46"/>
+	</game>
+	<game name="Software Toolworks' Star Wars Chess, The (1993) (The Software Toolworks).dosz">
+		<description>The Software Toolworks' Star Wars Chess</description>
+		<year>1993</year>
+		<developer>The Software Toolworks</developer>
+		<comment>
+			Installed from 14 3.5" floppy disks matching The Good Old Days ID: 2356
+			Also matches with TDC#23 entry: Star Wars Chess v1.0.0 (En)(Fr)(De)(Es) (1993)(The Software Toolworks, Inc.) [Strategy, Chess]
+			Installation options:
+				Language: English
+				Video Card: Y
+				Backdrop: Throne Room
+				Processor Speed: Fast CPU (i.e. 486 or above)
+				Music: Creative Labs Sound Blaster; Creative Labs Sound Blaster Pro (OPL3); Y
+			The required SWCHESS.CFG file can also be generated by DoDAT or ExtractDATEmbeds using the embedded data.
+			DoDAT cannot build this directly from the disk images - many files need to be installed.
+		</comment>
+		<comment_dosc>
+			Auto start
+			Configuration file
+			MT-32 option
+			English, French, German, and Spanish language options
+			Throne Room and Space backdrop options
+		</comment_dosc>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=2356</link>
+		<link type="media">https://puredos.github.io/dat-browser/?/Star+Wars+Chess+v1.0.0+(En)(Fr)(De)(Es)+(1993)(The+Software+Toolworks,+Inc.)+%5BStrategy,+Chess%5D</link>
+		<rom name="BOOK.DAT" size="11879" crc="86e12104" md5="62f9f05bf382d05a5619dce8f7ca0dd1" sha1="650a82f71d50e165ccb4865af850fa4d81d3b438"/>
+		<rom name="CAPTURES/ARC1.DSF" size="19159" crc="7c3bb949" md5="35a586993c13dbc80ba18aaffe233bd0" sha1="12e7db615a64dbef27ec81d0b98c485378c10098"/>
+		<rom name="CAPTURES/ARC2.DSF" size="19016" crc="03d5cc6e" md5="d26b5815851d6042eaf3610f4d48930c" sha1="babdae1b81438357772e77c85871b1e6bdc54603"/>
+		<rom name="CAPTURES/ARC3.DSF" size="19159" crc="326af46b" md5="5033d3edba1da4f286fa42630ad005e4" sha1="2802606c0c93d1d6a9821ec6374bc9997ed6f664"/>
+		<rom name="CAPTURES/AT_C3001.IMG" size="337888" crc="f6d6a260" md5="75eef1acaa4804a81655d5cbf6cb94d8" sha1="a28d5716f8a3378b953d838d5b7dde76fff7e4a7"/>
+		<rom name="CAPTURES/AT_C3201.IMG" size="45918" crc="aba3b718" md5="c179b895e2a84237acc423c43c0a090c" sha1="80e499216c2bd3ba361f17526625f9fc7fbe0501"/>
+		<rom name="CAPTURES/AT_CB001.IMG" size="522244" crc="58bdbee6" md5="b6ae46d3c9315001e7a69f63c29696d8" sha1="8e1e03b8824eee08638054d2d94191d7fd074534"/>
+		<rom name="CAPTURES/AT_LO001.IMG" size="298504" crc="e0cab91a" md5="8b31077049d0a495ca746688754c8039" sha1="8cc324f84b8f65b792495bc488090131a412f8ff"/>
+		<rom name="CAPTURES/AT_R2001.IMG" size="203460" crc="c46834bf" md5="15d17e4e96fd112c8cd2bd8e756cb807" sha1="9d690de18d745ab349ce54bb0a4d07f994fc83cb"/>
+		<rom name="CAPTURES/AT_YO001.IMG" size="316557" crc="faaf3413" md5="3e72fa91b37a8b568a710fc044b49e1a" sha1="88189a81e0aa80e692ac7401c9b912a3843b71b0"/>
+		<rom name="CAPTURES/ATC3.TOK" size="635" crc="ab470c58" md5="ceb0e4ba3faf1614f31711a15914a27a" sha1="e69255124a25afc6a0734cc595563f6cc7131c61"/>
+		<rom name="CAPTURES/ATCB.TOK" size="439" crc="8a7304eb" md5="3f71d1192df0cc24cfb2376fece0f55b" sha1="2a371113478303c1bc24f7074b9b9e7ac17bf89d"/>
+		<rom name="CAPTURES/ATFTSTEP.DSF" size="7470" crc="b00e22b1" md5="bfa1a4fbc3828a3b5312ec97951e23e1" sha1="fc3d25367127964ec95b1f8f144f86926fdf65b9"/>
+		<rom name="CAPTURES/ATLO.TOK" size="582" crc="334afc96" md5="f3e2b59f23af66e6a2a87fc0a98041db" sha1="5d8d89236bde6447ae0b57d7f3b03566cd1d6444"/>
+		<rom name="CAPTURES/ATR2.TOK" size="233" crc="d75be30a" md5="43b98f80dcdb4263bd5b8f6b0948f027" sha1="824cd0e27cc74338496fd435e4626d2a49db53d5"/>
+		<rom name="CAPTURES/ATYO.TOK" size="278" crc="75324b41" md5="822afee023c75e2d3f1ff28e092d0346" sha1="1f0c8b2b3e7387040dfd6b59e8613c1a8d80ca1c"/>
+		<rom name="CAPTURES/BACKWRDS.DSF" size="23319" crc="a66e46c4" md5="faa4aadba1fe2c0d1e76bc8398e95c5b" sha1="883f5e4ae3356971fe8996420cebebf5a2cd0d2f"/>
+		<rom name="CAPTURES/BADFEELG.DSF" size="19730" crc="1e047a1b" md5="bcda6dc4c586dcf192ad5c92e68c5d76" sha1="17135f6bb1344172bc150ddfbef7f34d62e60a99"/>
+		<rom name="CAPTURES/BEENSHOT.DSF" size="15614" crc="bdbd9459" md5="cf6e91bcb8e8b0cfb2aa37fae2316643" sha1="3feec62750275b1372ee079134f8bd2ee1ba3354"/>
+		<rom name="CAPTURES/BEN2.DSF" size="20046" crc="1f45b302" md5="50ae7140e03e1090d2e64dfbb54646e2" sha1="798a96c65604a9837d5ba1d1cd6c709eb7272d07"/>
+		<rom name="CAPTURES/BF_C3001.IMG" size="172121" crc="2243466d" md5="3783af436eebe28b642c1541e4eb11df" sha1="6d8aa14ece17d3f6d68b390aab4d8535bf15d019"/>
+		<rom name="CAPTURES/BF_C3201.IMG" size="69212" crc="18dd5e90" md5="290891b32a0763a83c445b5135fd85de" sha1="d3871fa362046348ebeaa3ad6227f85313581c1d"/>
+		<rom name="CAPTURES/BF_CB001.IMG" size="727492" crc="2cd0924f" md5="9deb8f3105402b3ab3ac2c826dbb59ac" sha1="3005b20ae86fefb1380c7e246fe8949a49df83d4"/>
+		<rom name="CAPTURES/BF_LO001.IMG" size="334667" crc="46f2955a" md5="56bb7a72d1703feb6a10c71c90e533d7" sha1="fdef69170c2febb6983564380b8f6a45f58f745a"/>
+		<rom name="CAPTURES/BF_R2001.IMG" size="260729" crc="ceb2703d" md5="caf952935bdcda7a58c3bdcf935308e4" sha1="4f176351a7df82216c1b0cd6fb49b4211cef8b6e"/>
+		<rom name="CAPTURES/BF_YO001.IMG" size="267232" crc="0bb41dc6" md5="09084258ad8a4554ca329ed4ad26ad41" sha1="b484a97a073052fc2e018fe6c419e32fe2ae467c"/>
+		<rom name="CAPTURES/BFC3.TOK" size="282" crc="db90e858" md5="ac5aaf2f310d594f8617bd955329ad1a" sha1="24f32db64646bab5b8a538cd832b20ffefbd220d"/>
+		<rom name="CAPTURES/BFCB.TOK" size="307" crc="fe9d5f73" md5="84f7ecadb53351da3a5a52eec9e12a1b" sha1="d76be63ac4e15d751a7b29300ffa1f559a0452a3"/>
+		<rom name="CAPTURES/BFLO.TOK" size="360" crc="aa1d2e20" md5="c66060e4fdf90a479a9154ce0e46adcf" sha1="5b327a510dd66a10ce5a4b7490e7c230ce0b996a"/>
+		<rom name="CAPTURES/BFR2.TOK" size="419" crc="38a579e0" md5="49535f128f92cec4aaed3282345d1a30" sha1="b5490fc2d69a02aae25ee223e70660dbd0cd9705"/>
+		<rom name="CAPTURES/BFYO.TOK" size="269" crc="3dc248d0" md5="73dd0a5a946c26a14fad637c33de4c12" sha1="02f5122f3902a5d096931f44c711c749ec421885"/>
+		<rom name="CAPTURES/BIRDIES.DSF" size="38875" crc="9fd74d10" md5="d00c8f5ee943760f5f49ce7f3f1340eb" sha1="d62ea73551442174597cc4e33d55723fd050267c"/>
+		<rom name="CAPTURES/BLAST.DSF" size="9499" crc="1e121ff8" md5="0d64a2cc4be7d2ba90587eadaa1aedc4" sha1="23509731596497fd0a9843da6c6e17e1f3dc011f"/>
+		<rom name="CAPTURES/BLASTER.DSF" size="12789" crc="123fdf24" md5="224cd6f3c40632c3cd617c068063ff83" sha1="1a61a1adc45dcbb233bfa12111534e272c6c4d4b"/>
+		<rom name="CAPTURES/BOING.DSF" size="8512" crc="71078a88" md5="e5d4bd283a572d108c783324b5f02f57" sha1="41c063de21e8edd8133d150ca3e62d471e6fa6a4"/>
+		<rom name="CAPTURES/BREATH.DSF" size="48689" crc="08d269aa" md5="f7c190072a9a5d816733a3f0fedf2ebc" sha1="f99efe27f0e37c6110c036077504a28978571720"/>
+		<rom name="CAPTURES/BURP.DSF" size="5789" crc="c96a0839" md5="12a940bb483fc29500d6956f090e805c" sha1="15d7b9768897746155481a997f46dcb36870659c"/>
+		<rom name="CAPTURES/C3_AT001.IMG" size="394056" crc="0521a885" md5="89e494e1a03d830d954725ebee056421" sha1="749bab260d969856b09a0a412261d8e4ce5723cf"/>
+		<rom name="CAPTURES/C3_BF001.IMG" size="323970" crc="2a123c6e" md5="269d7a4c826154fe1ed6c79f84563c04" sha1="b61145e79ba56246caedfb7f6f2e38a513cd0524"/>
+		<rom name="CAPTURES/C3_DV001.IMG" size="530312" crc="813107b5" md5="8a16ba023f14fa5b14156778c4d852f3" sha1="91a3fc61177567e800c87ba1aaa8718b65fd9f6a"/>
+		<rom name="CAPTURES/C3_SP001.IMG" size="435715" crc="d2962e1e" md5="0fe3bff49534253fbfcd5f7ff6c4610d" sha1="1cdfe740859e1d834577f31c80308d571fa9aaa4"/>
+		<rom name="CAPTURES/C3_ST001.IMG" size="386328" crc="bec7edcb" md5="8b2973772cf437604fd89f784dee82a8" sha1="03953412344685b10d6b306aef42957ec2932024"/>
+		<rom name="CAPTURES/C3AT.TOK" size="501" crc="ed8c2841" md5="58e7e1bfaca6585a3ebab42952fc2e80" sha1="14d51063dd114c228e617334d4b38856d2c4b653"/>
+		<rom name="CAPTURES/C3BF.TOK" size="322" crc="ab63dbb6" md5="e7273ac36ee3314935f3972c7e52db36" sha1="d3db6c2095a3cbd4db35fe59c2868186f9709c55"/>
+		<rom name="CAPTURES/C3DV.TOK" size="499" crc="6d0adfa7" md5="a27b6c56ffc087f99e2aaaed6129cf69" sha1="ec2dce4321c078ce010f64eacb61df1559951758"/>
+		<rom name="CAPTURES/C3SERVO.DSF" size="9363" crc="1373098c" md5="8f4c458cfdc9e214dd5b34830fbc917a" sha1="575189886f602a009aec22e77d2a6c4240b6d924"/>
+		<rom name="CAPTURES/C3SP.TOK" size="299" crc="5c74cad0" md5="12720cc671a09c55a22d8d11fc0eae65" sha1="f47f3308990fc138aaf27a561dc36b91f400afb7"/>
+		<rom name="CAPTURES/C3ST.TOK" size="568" crc="ace2dbfc" md5="9fab293f5bd1e271a825e51a8ba1d03c" sha1="82d27ff90cf8a109182ac67fce060f8c5d1b3243"/>
+		<rom name="CAPTURES/CANTREST.DSF" size="43878" crc="aa397ce6" md5="a3c1482b7d0cdf716e939497bb873df3" sha1="b0f5b4a846a358b26ad47ce6b5bbeed9738e44e0"/>
+		<rom name="CAPTURES/CB_AT001.IMG" size="617479" crc="82fbb08b" md5="c2353684962a1b96fc627541e34fea00" sha1="7628f654db2c79b37d9b34277f489a0b621b4a0c"/>
+		<rom name="CAPTURES/CB_BF001.IMG" size="730861" crc="625b0047" md5="24e543b55ab91bf55c577dee12345161" sha1="25c173c1b2a9efe76d2d85ffa66422068a4c2a7d"/>
+		<rom name="CAPTURES/CB_DV001.IMG" size="515718" crc="2e9d59c3" md5="6ad4fd054d295cd16099c1137251efd6" sha1="2405e51e81bfea8abf0ac39c9bacbcfd00f98653"/>
+		<rom name="CAPTURES/CB_SP001.IMG" size="436097" crc="9fe6baf2" md5="7696bbc2e2edaae1914dc820724480fd" sha1="7e027ab2ed48bbbb2a4b6b6eb158e1c9f2d98f11"/>
+		<rom name="CAPTURES/CB_ST001.IMG" size="537270" crc="15c17e18" md5="57b090af7d658a379cd40007239b6b69" sha1="28893ef6e843cf00945f438d1e40072dc2bf4d36"/>
+		<rom name="CAPTURES/CBAT.TOK" size="691" crc="a3ad8735" md5="44aa1a1a29cdf8e4c90641ab178d69d2" sha1="f46626dc917b63d9007f7b77ef5048d886dabdd5"/>
+		<rom name="CAPTURES/CBBF.TOK" size="295" crc="6dba165e" md5="f650b63f62f9fa33dd37a71780a9e119" sha1="6e7b8403278a4d1e093793e757832a3d55c144ce"/>
+		<rom name="CAPTURES/CBDV.TOK" size="347" crc="a5201f25" md5="71441f079cd7ca59f2059d2e86b45701" sha1="a186bc4c08b59a8cfb67d239bfc01349d38ed70c"/>
+		<rom name="CAPTURES/CBSP.TOK" size="212" crc="433ea485" md5="2b81a6295698894166f920d1a94a28aa" sha1="efe320947884d0e7c197ee421fc79c66439bb946"/>
+		<rom name="CAPTURES/CBST.TOK" size="304" crc="d26b0cfe" md5="37afa174bd428f88117fd61865b3fed9" sha1="66e926e8511baf04aa4376c60fcf5fa4995d0206"/>
+		<rom name="CAPTURES/CHUCKLE.DSF" size="10933" crc="55bc57d1" md5="499c9aac6857918de76d6ff9d80b1c88" sha1="ff22415a62494df1bc31bdb17f894ad72b3f9b67"/>
+		<rom name="CAPTURES/CLANK1.DSF" size="7910" crc="8442337b" md5="f76ea1ee04be4627894c420450ddf0e0" sha1="302808643868c52b7861df9cefbe656ffd5cf8c3"/>
+		<rom name="CAPTURES/CLANK3.DSF" size="12392" crc="2b71f717" md5="b710467215b83889275071e53f31f33b" sha1="90c8d75ab83d6d2811408596fd530d13e3b1fe9c"/>
+		<rom name="CAPTURES/CLICK.DSF" size="496" crc="a0d9883c" md5="08c538da8c1054d5cf523fd1fd051575" sha1="8beaf2c5947a2eaba048510010b74de455fbeabe"/>
+		<rom name="CAPTURES/COUGH.DSF" size="64411" crc="c700dbb2" md5="8fe5c1f00d1a822fbbf6a7713952ef5f" sha1="98d93fe66271a3e539ace0f410f8b8a704f326ac"/>
+		<rom name="CAPTURES/CRACKLE.DSF" size="27849" crc="899d2efc" md5="60ccb67c417c461c597a7226ec7a87be" sha1="3e73de257e1c9b777097e09b2c60d8ea90064efc"/>
+		<rom name="CAPTURES/CRASH1.DSF" size="7910" crc="8442337b" md5="f76ea1ee04be4627894c420450ddf0e0" sha1="302808643868c52b7861df9cefbe656ffd5cf8c3"/>
+		<rom name="CAPTURES/CRASH2.DSF" size="38877" crc="15e7207b" md5="3d5b93e305c6a5072ffebea6319c6709" sha1="9a84f50787309493a12fbb0cc3187ce40064934a"/>
+		<rom name="CAPTURES/CRASH3.DSF" size="26048" crc="d8e48450" md5="da4f1f73eab51df94add63f2657fbe1e" sha1="2b75d561c0da39083c53aaddd033ebc2408daebe"/>
+		<rom name="CAPTURES/CRUNCH1.DSF" size="7910" crc="8442337b" md5="f76ea1ee04be4627894c420450ddf0e0" sha1="302808643868c52b7861df9cefbe656ffd5cf8c3"/>
+		<rom name="CAPTURES/CUCKOO.DSF" size="10691" crc="490c8d9e" md5="9f2f1a003203d434bcbc4a8a96ae7acc" sha1="d93ed1798a0e751300891b748a415b0fc576060e"/>
+		<rom name="CAPTURES/DANGROUS.DSF" size="27895" crc="720bac69" md5="a5fbddce7412a0fd08439af92464e522" sha1="28127010a047926bd09baea79b66893f96572c3a"/>
+		<rom name="CAPTURES/DETONATR.DSF" size="40675" crc="a94eac73" md5="e9bd3874bf7cad02748c35aaaca3c009" sha1="ddf4bf1db6d67b86c9d3cd84270d150538533130"/>
+		<rom name="CAPTURES/DNTSHOOT.DSF" size="6995" crc="1f44bd34" md5="91ef89b305d4e1d43b3a0a7051b0a8a0" sha1="7492e4f97b9c307177052b05fbdda0b057bb3d98"/>
+		<rom name="CAPTURES/DONTDO.DSF" size="11589" crc="380cb465" md5="5c54db84b861bdb723d6cccd1a716f16" sha1="3cfe5c1f83724c5e16f72c43f9135a47a6ed0d5c"/>
+		<rom name="CAPTURES/DOOMED.DSF" size="10338" crc="4c88a626" md5="5d91d319e208894a2c727f09fb07c684" sha1="efb4bca0e02054c21f087c620d9fb09296cc05e6"/>
+		<rom name="CAPTURES/DRAG.DSF" size="26919" crc="3d65ea18" md5="8801c77e7dc29925822fa7f1bae4f7e7" sha1="c34a894ff7f027323a4d7698c5895eac4a4d05bb"/>
+		<rom name="CAPTURES/DV_C3001.IMG" size="504485" crc="46a36150" md5="a968d8870bcc429950d93a7c88376d70" sha1="4d5629516ffa599ae42bdd4f7add114ed61682bb"/>
+		<rom name="CAPTURES/DV_CB001.IMG" size="649744" crc="3cfe1370" md5="1ba2a2fc24febcc12ea91ff3dc1f34ce" sha1="1071631d9bfe7f0948be95076b25de66f9ecb5c6"/>
+		<rom name="CAPTURES/DV_LO001.IMG" size="511825" crc="36fd7ac0" md5="218f0d2581f6ca5901c15a8189696c8d" sha1="d3db1cd12670d3b7da50431ed06dc2ecea467df8"/>
+		<rom name="CAPTURES/DV_R2001.IMG" size="397769" crc="17223da6" md5="138ad14cadef3f6a06d87460567eb2cd" sha1="78151f97cd88936a6b68aa27aa66df929e8e1ddb"/>
+		<rom name="CAPTURES/DV_YO001.IMG" size="558534" crc="32d13d03" md5="128d4abf85a55b9c2b129ad52bdb82a8" sha1="8baa21bfdf025bcf5cd532d63ff3598337c941b7"/>
+		<rom name="CAPTURES/DVC3.TOK" size="599" crc="39ec6e20" md5="5ce92dbf02f6029e219f1158c7bc2abf" sha1="673271b0aaaf00c22a1ace8b7a1c46ac15fee58d"/>
+		<rom name="CAPTURES/DVCB.TOK" size="459" crc="bc1ad2b5" md5="2ffa8882893e368a80e07358da36850c" sha1="86d7a9fb131133d7dcf7592fd9f526743a0a2789"/>
+		<rom name="CAPTURES/DVLO.TOK" size="479" crc="888f0efb" md5="2d738b745fe8d979240d14e2fd082ed2" sha1="3122ef51b29eb7db3251a0ad49016ab2d710e7d4"/>
+		<rom name="CAPTURES/DVR2.TOK" size="473" crc="ca2a5993" md5="95046384229534aeeba781bc42013dde" sha1="c87b4a3f512c9f01819c28ede9efcaac6eb40f1a"/>
+		<rom name="CAPTURES/DVYO.TOK" size="399" crc="24397b5e" md5="9de08bc241a655ea5bbbcdb68c7cfe03" sha1="de21e9a91d385a2d43f406de7ed23e79eb823c20"/>
+		<rom name="CAPTURES/EM_C3001.IMG" size="598108" crc="07084606" md5="5e6a714f24f666180c326335d88d8a74" sha1="438e0e3c7c262eb6d0d5effb38b33a6389a62720"/>
+		<rom name="CAPTURES/EM_CB001.IMG" size="458522" crc="a14ad699" md5="fc114a735fc7e9f63fd447b25d70d622" sha1="6f8648a3cbbac5da0800e67ae8d6ff00ac3ffe74"/>
+		<rom name="CAPTURES/EM_LO001.IMG" size="479494" crc="c070300b" md5="d7056e4aa45e931e105e0815425f2bc1" sha1="badc18cae34a0add6dd29ddc9ef2389593e963cf"/>
+		<rom name="CAPTURES/EM_R2001.IMG" size="575729" crc="9108e7f3" md5="9fae34d241603cc843f0094cacdbb116" sha1="3e83708fb3dc4c8a7f9769c3ccc06516ed71bf46"/>
+		<rom name="CAPTURES/EM_YO001.IMG" size="391434" crc="e1ff1089" md5="98434cf4125bfe139eac46bb12d38e24" sha1="7440338233d13267a88120124c4d3515a8df64f1"/>
+		<rom name="CAPTURES/EMC3.TOK" size="224" crc="3fd4f52a" md5="7069d55a9b0202a07402599ab7e4943b" sha1="5b986a062b22251ff87c4f38f0201a20e6e55933"/>
+		<rom name="CAPTURES/EMCB.TOK" size="225" crc="c1cef44c" md5="0ee8c7c94ae07c0b55df7cced632ab85" sha1="709083adbbf247d93671b3268fb45deba7547343"/>
+		<rom name="CAPTURES/EMLO.TOK" size="219" crc="8c471577" md5="0ff646429e6394c785b5e3ea0a5b9de5" sha1="42619423174a3cbaf2a2992a957d4dedd444204a"/>
+		<rom name="CAPTURES/EMR2.TOK" size="365" crc="7feafa2c" md5="54a762325c1ab001ddab817865768302" sha1="f7a7a41a7540ba34b4d3f192300aba31c5d338e3"/>
+		<rom name="CAPTURES/EMYO.TOK" size="148" crc="a4a88c36" md5="4438f45f45c062ea74dd030bff4e8293" sha1="0c06bcecab20f668eb563b57c59e9f7439e0340e"/>
+		<rom name="CAPTURES/ENERGIZE.DSF" size="31818" crc="eb9e8e1b" md5="915bc439985c1cd33b23a12108dc8933" sha1="701fdcf66de856fa2ab51f4eec9db8c7c5a882c7"/>
+		<rom name="CAPTURES/EXPLODE1.DSF" size="32320" crc="97a11e25" md5="78820aabbaec6cbcc94681b824419fbb" sha1="d88517945b6b74f08dea409a416fc901d648cb35"/>
+		<rom name="CAPTURES/FOOTSTP1.DSF" size="601" crc="37a95abb" md5="4f9a67f3bac5750d1ed11c2821a3bdb8" sha1="1132e3f45df6b98e7dcd88f0da062cff3a6c0c1b"/>
+		<rom name="CAPTURES/FOOTSTP2.DSF" size="601" crc="37a95abb" md5="4f9a67f3bac5750d1ed11c2821a3bdb8" sha1="1132e3f45df6b98e7dcd88f0da062cff3a6c0c1b"/>
+		<rom name="CAPTURES/FRIENDS.DSF" size="23724" crc="7f3fe6e2" md5="b543b3c12100cc69bf58fce2ae05ad45" sha1="cd992e9c66fd899f8c88d1240343cde8bfe058fa"/>
+		<rom name="CAPTURES/GRACIOUS.DSF" size="13549" crc="c2244f85" md5="9a5c507d9b011cf5f08c298d10c934ea" sha1="aab5fdfbfd8da599b7632b8808c6424406e6dc39"/>
+		<rom name="CAPTURES/GROWL1.DSF" size="9856" crc="caa718fa" md5="60f32f235f96c8e0682a56a4f3e3bbbd" sha1="1f42cff551d803bfc45bda7f8f99f1179533b53b"/>
+		<rom name="CAPTURES/GROWL2.DSF" size="17076" crc="9114c7b8" md5="aa6003499a0dea9392050993e801c1de" sha1="81b5f182a458bb5bee02bb5954c5408479b5eae0"/>
+		<rom name="CAPTURES/GROWL3.DSF" size="30429" crc="202bf1d8" md5="49ead4454459587ac96efe69304bdfa8" sha1="32471c188d58e366274c4b1a9bac46333282dcde"/>
+		<rom name="CAPTURES/GROWL4.DSF" size="19005" crc="d9010cd7" md5="fac9a729d2363881fce9c4e7b7bda102" sha1="bd9e00b4e7c14fe815edf7b7605e202b21839a76"/>
+		<rom name="CAPTURES/GRUNT1.DSF" size="3772" crc="41291d43" md5="1a143b7def1d6ee0f28ff0219c75d029" sha1="b345a7f2410c0ec018d7f5f125e05f665eda098e"/>
+		<rom name="CAPTURES/GRUNT2.DSF" size="4431" crc="94f1fd17" md5="07af56b96d81a12105ae0f63b7da48c8" sha1="4247997adcd787f30ad89620f815660ea7a9a12e"/>
+		<rom name="CAPTURES/GVMETHAT.DSF" size="38031" crc="4a670860" md5="e715508917894ab47981d8fcaeac9cb2" sha1="fa0642da8ba50a2ceec8c396236b4e6f8af0a312"/>
+		<rom name="CAPTURES/HAPPENED.DSF" size="14408" crc="42e0b3b6" md5="196cb6f6ce63cd6f6bf7c54257dadb7b" sha1="50e1c2632e385d6098ffdc876d0eb7994b86d653"/>
+		<rom name="CAPTURES/HMPH.DSF" size="3186" crc="0fa7d691" md5="d8147b3f8c0a591a6388e5f8d0addc46" sha1="3e6682402b851ec9e0585c1a7115f0f8e01c14bd"/>
+		<rom name="CAPTURES/HOWRUDE.DSF" size="6691" crc="6e5f1ee2" md5="907ca16fd35f5ca624af836004c3ca06" sha1="788d56016b2e3e0a1f8f31729e151df7215cc807"/>
+		<rom name="CAPTURES/HTWEAPON.DSF" size="12900" crc="99f2d42e" md5="37f231318b71f3b26f4adae9a5c9f622" sha1="0bde0ce023bab064c5becfe9fbf704abf984ccc9"/>
+		<rom name="CAPTURES/IRREGULR.DSF" size="13687" crc="61c27a89" md5="81252d0c248db85aec4a6ff9d8982da1" sha1="c1bdf42182a8fbdbd67429cb878273743a1a7c97"/>
+		<rom name="CAPTURES/JETPACK.DSF" size="38665" crc="81f9f600" md5="946fb56ba7ce19bb13697cf0eb3fd91e" sha1="e221053df662e7d58c5d3cbee5774bb4c299871b"/>
+		<rom name="CAPTURES/LAUGH.DSF" size="16610" crc="37da20d0" md5="7bfcdb772dbfbdf8be87f891ecdb89a1" sha1="2e9abe84643f4e5a6d6368db30367dba5eabc167"/>
+		<rom name="CAPTURES/LAUGH2.DSF" size="9750" crc="723b341d" md5="4a7dc878bd54daf4328cb9c9326ac2f2" sha1="68f8a7efc823ba52cd5d0c1f7aa5315a7bfc2bfd"/>
+		<rom name="CAPTURES/LEIA1.DSF" size="12156" crc="41406b81" md5="d131145b65ae3fee378afd76e5e9cd68" sha1="6a1b50e1f34b62365b0e2ce6ba028c54452f621e"/>
+		<rom name="CAPTURES/LEIA2.DSF" size="54595" crc="1721d47d" md5="ecc06e64703f68105359a3aa8325c048" sha1="42039bc66a06420f74a0592fd4abbb99a955620a"/>
+		<rom name="CAPTURES/LEVITATE.DSF" size="14131" crc="a7840915" md5="779c418541a342f107d5a4565032abe2" sha1="156d5b272d9101c3ecb06ae223ded1c79ffeb6aa"/>
+		<rom name="CAPTURES/LO_AT001.IMG" size="441130" crc="b70e729e" md5="2dc45f2a0fcbba75aa412b8d07357271" sha1="fdcfaee4225f122736c2715bd72b961f54704787"/>
+		<rom name="CAPTURES/LO_BF001.IMG" size="303371" crc="f1f81afb" md5="f5dfd43fedbd16d166d8522ec4d57bbf" sha1="91f05486704fb47780667878a1c87c6086fdcda4"/>
+		<rom name="CAPTURES/LO_DV001.IMG" size="359848" crc="99be506b" md5="f69e01fb191aeaca9249f6e243c4323e" sha1="acc65e5d7ab600836c23aad3302cea70a69467bb"/>
+		<rom name="CAPTURES/LO_SP001.IMG" size="368171" crc="d5c5f7b2" md5="b90281e4771a27d5b2c1fa1a9ec91faa" sha1="32bb7683eedbca2630e2f1734b20c0d4cf557a4e"/>
+		<rom name="CAPTURES/LO_ST001.IMG" size="307792" crc="77d81f67" md5="308c209bd694d5eec9f148c65f0bda98" sha1="dfc6b30bbfd67d9056d1ae840bb2e4b4b15975e4"/>
+		<rom name="CAPTURES/LOAT.TOK" size="577" crc="c4ace683" md5="753cca9c599c7ba3b8811e6e6ce9ab8e" sha1="1d42c0cb33efa5b6eadf64b5e1bf6cb117d4231b"/>
+		<rom name="CAPTURES/LOBF.TOK" size="277" crc="b40c0d2c" md5="598a2f5aee59642c1bf4aa39f2dbeb6f" sha1="6bcc13f099c6692bc161a37eaca239c6248d415e"/>
+		<rom name="CAPTURES/LODV.TOK" size="344" crc="0b930fa4" md5="90bd57d6b1a7e7d6ce67877b7b97d0a0" sha1="ddf0d398413c26c1d9f26d781cf19b334aabf666"/>
+		<rom name="CAPTURES/LOOKIT.DSF" size="19170" crc="a6bc3fe8" md5="307eb5c0ff4133934a17f7c406a81eb6" sha1="0f4f52237987bea2d68b114873566c1a0fe3567d"/>
+		<rom name="CAPTURES/LOSP.TOK" size="297" crc="cf119ffb" md5="6350dc7751b551ddffa3c23a3981e4f7" sha1="9b4b530e9300b8da8d210d02fb16225a2be3fa4c"/>
+		<rom name="CAPTURES/LOST.TOK" size="262" crc="201747bb" md5="f46ccd0791efc235f2989b20077aa9bf" sha1="0372ad433d8771c9ceedfe778f3f582f41da9baa"/>
+		<rom name="CAPTURES/LS_AT001.IMG" size="554075" crc="099fad3e" md5="f21a912dc04bb349d82c3c8f0a32c93b" sha1="33f63a76d1b4bc67b8fd0329d983fae63429cee5"/>
+		<rom name="CAPTURES/LS_BF001.IMG" size="412995" crc="bbc53316" md5="32b3b4f8fee4e0607c1064242e3208db" sha1="7836c57c76a7f58d5dc3220c0caf503af05b265d"/>
+		<rom name="CAPTURES/LS_DV001.IMG" size="430422" crc="85038234" md5="f33eec8379e8a4e506a4380f1f618e35" sha1="59870384ca409e0cd8ffed9d13b16eab37a1749a"/>
+		<rom name="CAPTURES/LS_SP001.IMG" size="818993" crc="c30bd501" md5="059a42ab6c54e9ba8d136dcc6443b179" sha1="70863216d8eb067ebee3b22faef397ac51bd8290"/>
+		<rom name="CAPTURES/LS_ST001.IMG" size="374570" crc="648bb7e2" md5="1590bfd20c39cd699a6bee1b45198d2a" sha1="b10224bac37a2a025121f29c2a53b4abadf0298a"/>
+		<rom name="CAPTURES/LSAT.TOK" size="510" crc="f1aefe48" md5="4f28687fdb6b687004759b19342b968c" sha1="caa7d2077c9525e3aae2a3ca7e4c4a6d5924622e"/>
+		<rom name="CAPTURES/LSBF.TOK" size="406" crc="2a59ef8f" md5="adce14dd4e37f7f5a089e6832d87ceb3" sha1="abde2598b0813e0b8149925cc2208e16709fb910"/>
+		<rom name="CAPTURES/LSDV.TOK" size="375" crc="fd49167e" md5="4ad0ec31a0e4eaaf6ed40a50fd056ebd" sha1="3207943980e28f28482d9b5009a40be329933c67"/>
+		<rom name="CAPTURES/LSSP.TOK" size="584" crc="3687ab55" md5="9d72a57e66f63b4088f85005f484ae87" sha1="cb84edf33fb25c665284700145b0065a9b7a60a2"/>
+		<rom name="CAPTURES/LSST.TOK" size="334" crc="7b004d30" md5="58585b5d1493e9b2259b9134e7436cf8" sha1="1f781d6c2729bafd629a6443c70bb77720f14658"/>
+		<rom name="CAPTURES/MAGIC1.DSF" size="35040" crc="33bd7847" md5="230de937bf7530b1124fef200269faa6" sha1="4db483771ec2549ed6a7a27e31e6b9cc912a91b8"/>
+		<rom name="CAPTURES/MAGIC2.DSF" size="24747" crc="bcda774c" md5="aca3232d5cb836baa76fc196c1e08ec2" sha1="6d3ce0716dc67b89d56e2570dc893f178fb00aff"/>
+		<rom name="CAPTURES/MNDPRB.DSF" size="60519" crc="17868718" md5="a02b9adb5448be65d5ddab91efa5441c" sha1="878daa19b1796a10b3cb49636d9ad7a5ed0f1d4e"/>
+		<rom name="CAPTURES/NEVEREND.DSF" size="14559" crc="1229260a" md5="9a1bfb0654cd04e8829a85ffeb8a474c" sha1="f1510d7adc3fb7b4d4ad0d1105d00a648f892aec"/>
+		<rom name="CAPTURES/NOBETRAY.DSF" size="20770" crc="c3973688" md5="dba49ed44e53ee6b546f118ab9af162b" sha1="83642de3b1700f2de8e2f017822a450550e68bdc"/>
+		<rom name="CAPTURES/NOT4SALE.DSF" size="18960" crc="c7b89ed0" md5="ea05a159a5a9387ffe5c8435c9f42ed8" sha1="ce9600a72777261a2dfb4526f7dc002fc4f440de"/>
+		<rom name="CAPTURES/NOTREADY.DSF" size="27220" crc="27d52ec2" md5="7c277725c87e402f680e91c0e12d8489" sha1="802553e755ce774e09b940eda89532f1cb66948b"/>
+		<rom name="CAPTURES/OHDEAR.DSF" size="5870" crc="337df1ef" md5="45fe7d62b92f04f0561502cd10802b68" sha1="4e2534ea253945e61ca07b366463ed9be48fef9b"/>
+		<rom name="CAPTURES/OHMY.DSF" size="7595" crc="70075561" md5="c36e2a8508677248f7b3d645e93b4eb9" sha1="8da0131ae1c291b0cbb149f320bb7dfb6be7c366"/>
+		<rom name="CAPTURES/OHMYHEAD.DSF" size="11321" crc="69978ca8" md5="6f2750e2254f765faaa82c46abd1422f" sha1="958c81ec0c24e5c18b205309c2935214c36acd4f"/>
+		<rom name="CAPTURES/OHNO.DSF" size="9391" crc="4d516968" md5="4fab2a2c3a1dcce0cacc70fcf00ef12c" sha1="304d260a82485d9d0f5ac5d4320970ee1117b0c6"/>
+		<rom name="CAPTURES/OHREALLY.DSF" size="7643" crc="77374a45" md5="9397e66cafaa6b85f4e9f92611ea0c00" sha1="bd0443646dc5627a870a72fa664c30d40fa3d1b4"/>
+		<rom name="CAPTURES/OUCHHURT.DSF" size="11488" crc="f824eade" md5="0b0f447e3ca38497ee9a6d666d3215d7" sha1="ca10ce3a74a7b89cf5470eae46ccae1bc4759346"/>
+		<rom name="CAPTURES/PLSHELP.DSF" size="13406" crc="dd933029" md5="660e91b2a32695e0feb545971ff9b113" sha1="f29bfbe23c2f926f7fbabe610c1e42f330311c09"/>
+		<rom name="CAPTURES/R2_AT001.IMG" size="455471" crc="c3d129d8" md5="6076da9e9e74508fda82c52a1d1e187e" sha1="100e49aabf83c2c8af31e2ec4f9b32e28f1c3960"/>
+		<rom name="CAPTURES/R2_BF001.IMG" size="399789" crc="e0f4e860" md5="b4de9513243c2277fc75d04c21407e21" sha1="8163f5911dbee0a6fb9fa4db689b8632466f8ceb"/>
+		<rom name="CAPTURES/R2_DV001.IMG" size="555032" crc="6d388c9a" md5="819b419eec0d698f2b2f3e82eff73309" sha1="a3b98f9fc943d33ad75f1880493762983a7f54ea"/>
+		<rom name="CAPTURES/R2_SP001.IMG" size="453485" crc="427d1d1d" md5="09ab37b235f0e0697ec9e145f5f2ebfe" sha1="886077e20fe18e589014dfb4c18d31e7f17ef57d"/>
+		<rom name="CAPTURES/R2_ST001.IMG" size="229792" crc="17741dd3" md5="4a92b560fa815dcc5b65585ce6592d48" sha1="3e8e9753b73d6f139b7b1157e2171e748a21b807"/>
+		<rom name="CAPTURES/R2ALARM.DSF" size="7139" crc="c4f45fdc" md5="07af69c51c78a43da7538708500a8909" sha1="e603aa8ebb9855660eb61f08d4bcc6a1684ebec2"/>
+		<rom name="CAPTURES/R2AT.TOK" size="1084" crc="8d04a9fd" md5="989d566cbd5f82d73ff4ada9a595249e" sha1="465f986b7fa39346b1729500dda2be33659a1102"/>
+		<rom name="CAPTURES/R2BF.TOK" size="509" crc="a5473c69" md5="87088ec35ee6557e16e480b8e77227fc" sha1="9a5196c0b6ec1d1a4ea0ec23d1abd326cb47c3ed"/>
+		<rom name="CAPTURES/R2DV.TOK" size="538" crc="37b1433d" md5="544dc63f0c68a44af6d6abaeb0e0bd4d" sha1="c27d23ba6fd4cfec14b391116c9ebe088c148b3f"/>
+		<rom name="CAPTURES/R2IO.DSF" size="17080" crc="fe8433f7" md5="8c8f13236895e8341248d0c34d0ba5da" sha1="7c1876bf576ac415502801592a65f70c05892692"/>
+		<rom name="CAPTURES/R2RAZZ1.DSF" size="4360" crc="822c194b" md5="54a67f9ce841420cf79854d6daae4b25" sha1="92a3901cbe815b4d261249a1c1e3fd938cdd124d"/>
+		<rom name="CAPTURES/R2RAZZ2.DSF" size="5686" crc="738384b1" md5="58e0e00500db3977d0d1a7a27e14e146" sha1="86bf56011f3b17d9dbcc154680856daa737d0864"/>
+		<rom name="CAPTURES/R2SP.TOK" size="401" crc="45ed61c2" md5="18db53faf6c38198f6100a6d013fcddb" sha1="581fb4c12c3721887c74489e36a046e48e72a73a"/>
+		<rom name="CAPTURES/R2ST.TOK" size="411" crc="a6679118" md5="9f6a2b628739868e3892a3204775f61d" sha1="4fa6756903634515ceba0e005ec205524886644b"/>
+		<rom name="CAPTURES/R2YELL.DSF" size="22605" crc="e3fc97cb" md5="8c148a6984a0d7a93898632c6b6a695b" sha1="bb05434c342dd4792ad3fbe47de8fe39df3dc8aa"/>
+		<rom name="CAPTURES/REGRET.DSF" size="14721" crc="b1b82cfc" md5="b0cff958fec4d861be9501623690bce3" sha1="dd9cb1c0685932ac65f4e0da12675a9de144ce8f"/>
+		<rom name="CAPTURES/RICOCHET.DSF" size="10598" crc="9d661ae2" md5="e1066d6e825d0b77bd7fc6964cc60dee" sha1="45159d3245049863fc373021c9460fb7ba145a94"/>
+		<rom name="CAPTURES/ROLLING.DSF" size="99064" crc="1ad8e375" md5="e741952fe9b6e063850d923c4d98d313" sha1="0286861b775d8b7928fdccbadca5ac9082890943"/>
+		<rom name="CAPTURES/SABEROFF.DSF" size="20174" crc="861ade6e" md5="1931f6a1ea7eb2cabb62ff42caa7b466" sha1="00b5d737cca1a785a23421a5e865c82cd332fd72"/>
+		<rom name="CAPTURES/SABERON.DSF" size="13711" crc="6c3a595a" md5="fd7c4462c2486b306cd9e2182869fc33" sha1="0389da8ff06547bc10e6706f08fd2f27038a7ee2"/>
+		<rom name="CAPTURES/SERVO1.DSF" size="12783" crc="c2f6e157" md5="beca867d67a951e49b17de72b30cb244" sha1="6d65134b510a2ee426b25b7c6d5971e78d272919"/>
+		<rom name="CAPTURES/SERVO2.DSF" size="23601" crc="2d5c675c" md5="2413950840f03b0b1ef8245d62cfd2b3" sha1="5b27d5ec8fc61641bfea8edca9903555cdb2781b"/>
+		<rom name="CAPTURES/SP_C3001.IMG" size="261746" crc="d5ea1b24" md5="b5f41d61075a55d8601676310e732346" sha1="14a21ae50a86f87e9ce61bc33fd7be81c89d1df6"/>
+		<rom name="CAPTURES/SP_CB001.IMG" size="449141" crc="ef3239f6" md5="d616972b6225123cfa5648e10782f7cf" sha1="1465c61bb548c90967124e0846a1fe67cbf07fd3"/>
+		<rom name="CAPTURES/SP_LO001.IMG" size="382939" crc="c4a5b41e" md5="f30a0891b0834a6d0f5e0a372896525f" sha1="fde4606e777f868a3b67c92e7bd144e8148b31cd"/>
+		<rom name="CAPTURES/SP_R2001.IMG" size="256041" crc="d23ce2a4" md5="ecd595ee4397fc0729008f1af66e51ee" sha1="6d4b61217f39dd9de08405a59da284b5833c4f62"/>
+		<rom name="CAPTURES/SP_YO001.IMG" size="457454" crc="18a42ce2" md5="de8fa10f3b593fa73d05c57e6d905c07" sha1="786fe4be5cdae135c02f1fdad88451894e7975fe"/>
+		<rom name="CAPTURES/SPC3.TOK" size="145" crc="a6dc0ef8" md5="8df04f552e27854ae37a273cad8a3acb" sha1="dedaae8057d950a16fe9b58a543919ea369b1e78"/>
+		<rom name="CAPTURES/SPCB.TOK" size="295" crc="7e7f67d5" md5="a279bb2555cfb58d08727b8d0e49e1f7" sha1="760b772312ae1999d033be3cb7c0297087d1fa6e"/>
+		<rom name="CAPTURES/SPGRUNT1.DSF" size="10640" crc="58939a14" md5="66763f02382594c7eb7c4a5bb5f1a483" sha1="917ac5a5f381b7e9b06a88a7ea446ad586fa8d9a"/>
+		<rom name="CAPTURES/SPGRUNT2.DSF" size="10640" crc="58939a14" md5="66763f02382594c7eb7c4a5bb5f1a483" sha1="917ac5a5f381b7e9b06a88a7ea446ad586fa8d9a"/>
+		<rom name="CAPTURES/SPLO.TOK" size="303" crc="c95e88b6" md5="a7ce18358250a72ced8808d06fce2a92" sha1="5dcf12d9e18d9f9f85f67e3db2854fbca26545b5"/>
+		<rom name="CAPTURES/SPR2.TOK" size="199" crc="0c9a5989" md5="a244146bef5e938d35a430c15c593684" sha1="93be83351f0b11a483734e097c4b68feb284713a"/>
+		<rom name="CAPTURES/SPUTTER.DSF" size="27849" crc="899d2efc" md5="60ccb67c417c461c597a7226ec7a87be" sha1="3e73de257e1c9b777097e09b2c60d8ea90064efc"/>
+		<rom name="CAPTURES/SPYO.TOK" size="443" crc="285f13c6" md5="1f07167cabf3164f0bf7603af2eb51d8" sha1="c3100abc6c513c29b3e9cc47857f27bf4ecabc7a"/>
+		<rom name="CAPTURES/SQUISH1.DSF" size="9828" crc="7e1302b8" md5="8cef322342cd51b002a4df8d7d629d55" sha1="d017e8aa32be9bc356ea2842d261f39d5cec1ba1"/>
+		<rom name="CAPTURES/SQUISH2.DSF" size="40330" crc="ec38f37a" md5="19f12cd00e7b80af15675f411ad1190a" sha1="e65ed7a96a7e52aff789cd8c2b917d7a1f201d08"/>
+		<rom name="CAPTURES/SQUISH3.DSF" size="7004" crc="faf7c4fd" md5="7587a607996a7e9829873ef0fe98c048" sha1="6c943dc49dbbc6f5ef3f5e38af1cdbef7aec285a"/>
+		<rom name="CAPTURES/SQUISH4.DSF" size="49985" crc="a79e0ab6" md5="c0342773f2b95f73bc6d5a681a0e6c28" sha1="c44b08945264133f4b724ca678a279eedac6f1a6"/>
+		<rom name="CAPTURES/ST_C3001.IMG" size="308037" crc="18569cdc" md5="76e0f815b96306eccc04f63b83922259" sha1="3aae4c66769480e0eb13cff4ac733202188f5197"/>
+		<rom name="CAPTURES/ST_CB001.IMG" size="391586" crc="32db4c01" md5="b0ce02e06bb16a259ac8ec13c6881a0f" sha1="3072cc02f2974bc44a6070a1951ce6ba3aa1ea2e"/>
+		<rom name="CAPTURES/ST_LO001.IMG" size="325839" crc="a6bd19a1" md5="4862cad6fcb95b3cc30f48f68c90efad" sha1="4fa6dcbe58a15e835e2712e93f61bd30d2664ded"/>
+		<rom name="CAPTURES/ST_R2001.IMG" size="298914" crc="b8f7c845" md5="36fea9611264fc04fd990e8bae440b00" sha1="e28970bd22275dae8d264a5e611b4c84bc3daac1"/>
+		<rom name="CAPTURES/ST_YO001.IMG" size="245902" crc="bc41a8a2" md5="23c482d30009e90e3c05661ea65fd15f" sha1="4e9d657763a8fb8c767b7451cd9b45201716952a"/>
+		<rom name="CAPTURES/STC3.TOK" size="213" crc="3204c0fd" md5="e043579b3e57944aece894792327522f" sha1="78bbd8394ff55f3f402199de6d38af83d7a6b03f"/>
+		<rom name="CAPTURES/STCB.TOK" size="376" crc="9b025c2e" md5="d30e1c6be5595eb797d9a3454c32d147" sha1="a351b1ec9157ff4e8cd4301347538c53aab964dd"/>
+		<rom name="CAPTURES/STLO.TOK" size="334" crc="b7c0d6dc" md5="e36c1e9f7c0351fb8aeb87eece8a0a2e" sha1="3e32dd958efc1c8b909bd1ac6a68684faf00432c"/>
+		<rom name="CAPTURES/STOP.DSF" size="4216" crc="0aa86172" md5="4efae93456fd2155ea93a5ed39775ad4" sha1="c941a3d7ee01f072f6161f343a1f3cb63cfae5ab"/>
+		<rom name="CAPTURES/STR2.TOK" size="304" crc="aa69e316" md5="11b64bb69e4942ae8b98482b9c3cc897" sha1="0f6a7affc365c6df75195faf89b8fb0927699ce7"/>
+		<rom name="CAPTURES/STRIKE.DSF" size="5528" crc="6047f273" md5="c0638ab5977df94fd41e6cfe621e6988" sha1="e38e98a44ae186fe7fc1be4b73dd2f14bd5aad6a"/>
+		<rom name="CAPTURES/STRIKE2.DSF" size="14186" crc="5c623c03" md5="8f7bcf16d4fb2961c2d08ec46891f51c" sha1="2cdaa21f617ef8d0d93bc8517cdd97fee26ac38d"/>
+		<rom name="CAPTURES/STS_001.IMG" size="140449" crc="e5558992" md5="1775979e0fab44ab1696beedb333b732" sha1="8868686dd2462607645707f9c5ffc9978e1b850c"/>
+		<rom name="CAPTURES/STWPRES.DSF" size="42846" crc="c7a6d714" md5="6150b8738c3378267851a2c98e02ef95" sha1="1305415fa57838b73a56ca5acb5fa5a272d848ec"/>
+		<rom name="CAPTURES/STYO.TOK" size="221" crc="899c7b84" md5="3a34f54582747752d030b5e59c7783dd" sha1="739cf373ba507177ef447db54f0ee372ff6fcbe7"/>
+		<rom name="CAPTURES/SUCKER.DSF" size="38665" crc="81f9f600" md5="946fb56ba7ce19bb13697cf0eb3fd91e" sha1="e221053df662e7d58c5d3cbee5774bb4c299871b"/>
+		<rom name="CAPTURES/SWIPE.DSF" size="8856" crc="6d3d2f95" md5="06d5fbd6620c2be2a7f694bc51dfcba6" sha1="5d3a549be088349524319df372179ec390312d67"/>
+		<rom name="CAPTURES/TAKETHAT.DSF" size="7268" crc="fa2bb7e2" md5="710bc765d677cdb06532cdcd00c64e3d" sha1="27e89aefd6c4d9ed45cd991604b2da7b037e1231"/>
+		<rom name="CAPTURES/THUMP1.DSF" size="6775" crc="28313996" md5="d17c2228a7d1aa87256bd42b76a02777" sha1="58688fa2498a47f357b6d4ef8e2675900714105c"/>
+		<rom name="CAPTURES/THUMP1A.DSF" size="6775" crc="ff999c4b" md5="76868c72c35251f02c5ee83b27179fda" sha1="38e2b42b78561f0ba3eafd9818a0b59da05f2dae"/>
+		<rom name="CAPTURES/THUMP2.DSF" size="9621" crc="d66e1409" md5="86619fce8a9661f151e16f35e6124f47" sha1="58b6ffbf0478584a8a6667cb14c6ac6bd237a0eb"/>
+		<rom name="CAPTURES/THWOOP.DSF" size="2716" crc="e7a40961" md5="56efbb99b49712a78fa2d3ea679a0934" sha1="ff9ffea4339fc91532e6584fe88441e770b89fc3"/>
+		<rom name="CAPTURES/VIOLENCE.DSF" size="12497" crc="d73f692a" md5="66fe8144850ee354003548b25947eb97" sha1="761d3263f0a918c6871f270f72c9939346900c8c"/>
+		<rom name="CAPTURES/WARBLE.DSF" size="14131" crc="a7840915" md5="779c418541a342f107d5a4565032abe2" sha1="156d5b272d9101c3ecb06ae223ded1c79ffeb6aa"/>
+		<rom name="CAPTURES/WHAZZAT.DSF" size="6264" crc="511c3b05" md5="c351ee3252dc589fee1d94eb50c98cfb" sha1="defadfd2de5229eef7918e0c672c3e688b72334b"/>
+		<rom name="CAPTURES/WINDING.DSF" size="28523" crc="b3afdd9d" md5="ba6a082fa45bf0173b2a24e3db3999b5" sha1="fd7fabfd4c2a0b1f2faa822c50c45f8f249870ce"/>
+		<rom name="CAPTURES/YELL.DSF" size="44398" crc="18b10f40" md5="9c1bcb587c994e42d7c7ce074c2c2000" sha1="6c23cbf2c436b4c2be094a153a95413408aa975c"/>
+		<rom name="CAPTURES/YELL3.DSF" size="40836" crc="62ab5eb5" md5="1b6c48fdc34c36ff0bd81fe0b9ab4197" sha1="971329d4e0c28639f737d4119d5669dbaff8b5bb"/>
+		<rom name="CAPTURES/YO_AT001.IMG" size="253505" crc="bc73ec1f" md5="6e93ab7817efaac28108577f86778c16" sha1="50391859562c1356f564cbeeee4b9c74767592ad"/>
+		<rom name="CAPTURES/YO_BF001.IMG" size="528152" crc="1c08a8ca" md5="053afd160d1956675257a3cd21d83005" sha1="803c761666a60174b7fd7e174607285c97f8c8a1"/>
+		<rom name="CAPTURES/YO_DV001.IMG" size="265735" crc="d7ff28f6" md5="f466a2fc4af29b7d00a1ea469595d806" sha1="babde2608d56b6e6a441fa1287af8b3ad622b6e7"/>
+		<rom name="CAPTURES/YO_SP001.IMG" size="357899" crc="2c126ca0" md5="578908e0c55fe2b61bb4cb014f0d643d" sha1="9e91e55187bb18fea65faa8090717d0ea2d2a7c4"/>
+		<rom name="CAPTURES/YO_ST001.IMG" size="179297" crc="ecd5cfca" md5="bc1a66e488bfde0d91f8f44efd3d8955" sha1="5e426b202daab929145ec1f58cc09f05f7680f1c"/>
+		<rom name="CAPTURES/YOAT.TOK" size="443" crc="37159843" md5="8ac3fc84248576ab45377d285aaad2ff" sha1="0376c91589609d33a530ef60b70ff0d38255c8cc"/>
+		<rom name="CAPTURES/YOBF.TOK" size="339" crc="95e3507e" md5="f3cf210b8dac4a7044bb20975e2afbda" sha1="14b0e63848c5a2ba522ff75477e9af68e49ceae9"/>
+		<rom name="CAPTURES/YODAYIPE.DSF" size="12705" crc="7c703a03" md5="0ce9d10db6f7c09fc80ac28d6e7ef21a" sha1="4a5137c2b516723d610cde44403730432a478da0"/>
+		<rom name="CAPTURES/YODV.TOK" size="316" crc="bfb10316" md5="56867460efa19dfb65ae48f19bb945a4" sha1="4004eb524622ccca7be6205dc2d5dd70256e29ee"/>
+		<rom name="CAPTURES/YOSP.TOK" size="198" crc="74b35ccf" md5="603e9f7d0b4b8d8342c24b07805a945a" sha1="9b6e2e720f34b9620ca16744e09cfebc9fc8b061"/>
+		<rom name="CAPTURES/YOST.TOK" size="178" crc="660cde82" md5="293a8f1b295cbcf856279b2188523d94" sha1="c69ff58f142e7db0eaa14a751048d35a986e23f5"/>
+		<rom name="CAPTURES/YOUBEAST.DSF" size="12065" crc="577a2d7e" md5="4c9353877ce80e99c7d6109f890b7540" sha1="d77eda02a64f3a882cf46e4b5cc476306684ca3b"/>
+		<rom name="CLICK.DSF" size="496" crc="a0d9883c" md5="08c538da8c1054d5cf523fd1fd051575" sha1="8beaf2c5947a2eaba048510010b74de455fbeabe"/>
+		<rom name="CWTEST.VGH" size="469883" crc="1b10b0e8" md5="a3c42583589303033abc8783e50dfbe6" sha1="0591f995f672d7e7791a6dd2c0a4a52075c26310"/>
+		<rom name="MOBILES.CFG" size="6074" crc="52a27d1c" md5="130a30185ccac4be372fcfd7600ff2ce" sha1="ded0cf5d33b1ffa42448affa37ccaca5d6a4c10d"/>
+		<rom name="MOBILES/AT_E001.IMG" size="96829" crc="80ef0844" md5="a388bad92a683eb0c0d88c0cae2a344d" sha1="5dbaed80c0b5062e1638b764872cf61322aa357b"/>
+		<rom name="MOBILES/AT_N001.IMG" size="73406" crc="d99b47d7" md5="1bbddc24f4c71328c22fb9a9373685ad" sha1="9af68b7022be3659f2634019aa68ad1d2741538c"/>
+		<rom name="MOBILES/AT_R001.IMG" size="180571" crc="32a74ca6" md5="e47014defcdc1504cff34c467196bcc2" sha1="748332d107c54d27734876d5a4d64f6c9805e0e6"/>
+		<rom name="MOBILES/AT_S001.IMG" size="72177" crc="34640a24" md5="a4d911f622c3dc7b3fdea2ba2263e7f6" sha1="e592058534ce50c46ef6c4ed8d23617e365c659f"/>
+		<rom name="MOBILES/AT_W001.IMG" size="94735" crc="7c965ab4" md5="6cbbdc2b74bbc2f6ee8af5ffe812464e" sha1="3a645a6b37c9fe5afaa0d4ed4f5495e575c66d7b"/>
+		<rom name="MOBILES/BF_NE001.IMG" size="118890" crc="c0812ed1" md5="b66e1274e107a76312f82a643cd10ae6" sha1="b7eccab2b6b6bf973b57d538fc7507ea6d7fbed5"/>
+		<rom name="MOBILES/BF_NW001.IMG" size="117928" crc="ee505437" md5="f2344884a9c0bf67daf9cb0456134a39" sha1="737d0163794df8a6fc507c96d3fd443f1a7ac1bc"/>
+		<rom name="MOBILES/BF_R001.IMG" size="61796" crc="d2d3fa5a" md5="eab56120b9fe1d661942ad817175785a" sha1="555f9a442bb3bf3f1b4adc74862c038c301183ef"/>
+		<rom name="MOBILES/BF_SE001.IMG" size="120942" crc="16e6f6ab" md5="3680024d567b3ef105d867ceb1037e6c" sha1="5147d47fe651db071ca4353e071a9f8e44fc00da"/>
+		<rom name="MOBILES/BF_SW001.IMG" size="124022" crc="9751c20f" md5="3006d2a11ca4e70a8ddc6edd6b85e7ff" sha1="9269eba5c8ae68281c9eddf0016ee6437c029586"/>
+		<rom name="MOBILES/C3_NE001.IMG" size="112561" crc="3ad49c44" md5="d358c23e1e63e47d21124055ba7e9fea" sha1="a14115054762c5ad800a8926e3eaaf8dbe1b8f4f"/>
+		<rom name="MOBILES/C3_NW001.IMG" size="111919" crc="a2a5df6f" md5="8b7ac219c7ef5a6f046590cc411561ee" sha1="496bc078552a89bb20893a25801121bf89b51599"/>
+		<rom name="MOBILES/C3_R001.IMG" size="70063" crc="e06b3bd7" md5="fccb54cfe68a8b6f23faeabf6b6c42a4" sha1="a6ba96a3530a00e3132916e655a6fafd0c322d5b"/>
+		<rom name="MOBILES/C3_SE001.IMG" size="119191" crc="a3c7410a" md5="9cc0e7cd632dded7b2bf5cf9f3f92e9f" sha1="fc8c2ab8d3ff72ffedd0b3bfa1281d4d003edcc8"/>
+		<rom name="MOBILES/C3_SW001.IMG" size="118114" crc="b315169c" md5="69581cd93fe874fcc51d42f8b3246e9e" sha1="73c20053c502ab6a48657d849518562ee9db74f6"/>
+		<rom name="MOBILES/CB_E001.IMG" size="113072" crc="afe1f2bd" md5="cc146c39453c8592baa7a6e2495900df" sha1="4cd50ff4791703fb7c47fe4e00c608f680a2d224"/>
+		<rom name="MOBILES/CB_N001.IMG" size="117445" crc="dc7cc4bc" md5="1f080ea66cca119722607ca3ad46d569" sha1="74a474aaff134acdd4c655acb40cfeedcaaafb23"/>
+		<rom name="MOBILES/CB_R001.IMG" size="88177" crc="be119643" md5="4f7eff30b2344ed0431e88cdcc812a80" sha1="03ff4c06e51cffc0bf5d17883f588cdab6cfe298"/>
+		<rom name="MOBILES/CB_S001.IMG" size="116256" crc="8d49b06d" md5="d2c78087e659ef3e3e97f9736d1a069e" sha1="3ed4ec33927986ec4f91416c105d9049c051bcab"/>
+		<rom name="MOBILES/CB_W001.IMG" size="113112" crc="fc7ae2a7" md5="467f34c0846755c2f47370038594eb9c" sha1="326ac154f208115d6eec58fe011fc7a47f1d00c3"/>
+		<rom name="MOBILES/DV_E001.IMG" size="74241" crc="384bf076" md5="bb154a07b5c55fd2a233921167e72785" sha1="a2d9019369aeab7158524050ff78822cb7ab0afe"/>
+		<rom name="MOBILES/DV_N001.IMG" size="51238" crc="2e8000a2" md5="bf116f18a7c9fcf040141ff4fad1c86a" sha1="609f68fdbb0d581675d13b192041a8e1f4987755"/>
+		<rom name="MOBILES/DV_NE001.IMG" size="64496" crc="7b5fa158" md5="0490adb26c371ed7dcaec9e13b31cf53" sha1="ce2cf1c0a78fb727a4de33862fdf02cf82b8c134"/>
+		<rom name="MOBILES/DV_NW001.IMG" size="64552" crc="44b3cc4d" md5="f6defe7c23b97454c0529f9217fecc8f" sha1="86e0c4f1dbcd32a7edbb0cb77a86798c86bc3574"/>
+		<rom name="MOBILES/DV_R001.IMG" size="96126" crc="f276a9f4" md5="6698c72f7f9817e920ffebdf44e0bd5a" sha1="df5d2ef8976b5ad98d355128e967af48049afd86"/>
+		<rom name="MOBILES/DV_S001.IMG" size="115430" crc="5c2b7a90" md5="ff4c7eae870101b5e655b20fcdd40c7d" sha1="0e52ad0dcfd27df8a56febef1ad6543fb5abf074"/>
+		<rom name="MOBILES/DV_SE001.IMG" size="147718" crc="a29b6842" md5="1352d1a7b8f8a41e7c1df840c0a1616e" sha1="285e74fc4693f181419c5f54f7627c9ff1bcb9a1"/>
+		<rom name="MOBILES/DV_SW001.IMG" size="147569" crc="f75fac6e" md5="82221d005ed6cbd73a62eda5c15bb721" sha1="6d64c6ef6adf72deadb53754667c3feb03ceb690"/>
+		<rom name="MOBILES/DV_W001.IMG" size="73697" crc="f3c60765" md5="2cfd63c6e72bae6ec94a4e3289fd3637" sha1="0c060a9f6c60cc40cbc985098bef91fc8972c557"/>
+		<rom name="MOBILES/EM_E001.IMG" size="115384" crc="8972478a" md5="b9a0856aad2c2e1567ee8631886e1d5d" sha1="11d7079560d0d2e5eaefeac9c271ef92a7fcceed"/>
+		<rom name="MOBILES/EM_N001.IMG" size="91874" crc="fddd3503" md5="ca8baa5dc9fda4c4a2aab68822d694b1" sha1="c9499152758d2394af6a58f399852945c316ec2b"/>
+		<rom name="MOBILES/EM_NE001.IMG" size="117269" crc="70b4a702" md5="86e0da26bb28c00fa8f0bfe638a8c915" sha1="6fe9e9f098da72f46fad39be31c9c46afe5f00cc"/>
+		<rom name="MOBILES/EM_NW001.IMG" size="115192" crc="1cfeec35" md5="04060b9c1c62ba23342259d2b47d17d9" sha1="9eac5dee97f5cdb6e3463abb14819ff42661714b"/>
+		<rom name="MOBILES/EM_R001.IMG" size="108507" crc="7feb6f21" md5="40eed68af8b9e2bcd62fb3e1a20cb00f" sha1="b30e594cff543ebf28fa7cb969c587a1780ac506"/>
+		<rom name="MOBILES/EM_S001.IMG" size="91899" crc="abcaa92d" md5="b37b3db5a064f6cf841ec8da9b2990cd" sha1="c47ae0d2f13d0020822395bbe7ebcbf3c583ea2b"/>
+		<rom name="MOBILES/EM_SE001.IMG" size="119287" crc="98234278" md5="fb1892a877ea648ff07fa7c4430af0a8" sha1="9325659ddb2efb34cad4b66f756b9dce248b33dc"/>
+		<rom name="MOBILES/EM_SW001.IMG" size="115966" crc="856579c4" md5="099177774c84d2535d57b05ebe039b8f" sha1="c2263a0803ebb61194a2eac2f38dfd2e65155156"/>
+		<rom name="MOBILES/EM_W001.IMG" size="112546" crc="0c368318" md5="b33efed84d18a60acf10f09e78f83b96" sha1="63c5f7d22ae712d37270e7658d455aec33bf1960"/>
+		<rom name="MOBILES/LO_E001.IMG" size="106574" crc="d131380b" md5="024d1a3aa49c8c1a1685c46778c4c53f" sha1="649ca469f86aee5e0c13562d52eb3039c329f52e"/>
+		<rom name="MOBILES/LO_N001.IMG" size="73609" crc="983178c5" md5="dc19fa838ba892ca4de038819142d2cb" sha1="25df3de348c665bb1efaf93cda89d87122392de2"/>
+		<rom name="MOBILES/LO_NE001.IMG" size="107592" crc="07f226ac" md5="84140a1ed9f047edc759ea6ce4dc14de" sha1="e63b341acd709c78f6d9365de872a192a43dd9d3"/>
+		<rom name="MOBILES/LO_NW001.IMG" size="107752" crc="f19de739" md5="2181f6e9fb542d8042d548a8154d18e9" sha1="a551b3b6aa77ccdfed325dd733427ae78340fa76"/>
+		<rom name="MOBILES/LO_R001.IMG" size="78738" crc="4a5f1471" md5="8335941ee291bab8149780c59824e3b9" sha1="f7c82760a319e71d39f665809f451d1fd727b158"/>
+		<rom name="MOBILES/LO_S001.IMG" size="63105" crc="17047a21" md5="cfbf18d3fffdb2f1629fd3c57b8dae34" sha1="332eb3ad8230537ba24b2d96772c3a41ba56bc5d"/>
+		<rom name="MOBILES/LO_SE001.IMG" size="105365" crc="e97d308b" md5="dd4c9679bc17b567b91acdc74768067e" sha1="4a32abce42acb2fb95afe25b118f24157fec3aca"/>
+		<rom name="MOBILES/LO_SW001.IMG" size="106663" crc="fcc2b7fe" md5="f0d0072a3dce042f3e0842ed56f7156c" sha1="bdecfef2d4bc6b8bdee235b974180bd76d57d4fb"/>
+		<rom name="MOBILES/LO_W001.IMG" size="109170" crc="b1e92b36" md5="d6ec9e4a1f882797ccaa169b95a8e110" sha1="f7bcc2043f0711f6c4d0afa0af3b69ea68b1fad0"/>
+		<rom name="MOBILES/LS_E001.IMG" size="128378" crc="78da0f8b" md5="08a16f9d78d22159cfc754cc07f57e68" sha1="8d6af41d34bd63f8fe0c3844c4bf03d2ec0891ce"/>
+		<rom name="MOBILES/LS_N001.IMG" size="63215" crc="2ee9d8db" md5="3b9ac475bb8b4ec6da2dfc030fe28f18" sha1="45c7363773627a41e7220844ca3926454bc5f610"/>
+		<rom name="MOBILES/LS_NE001.IMG" size="121776" crc="34bbe698" md5="08e59a52ca0342e129cce2e348c3aa4b" sha1="b67167c6281a0b79c7f09c2450de2c76fbec6285"/>
+		<rom name="MOBILES/LS_NW001.IMG" size="122116" crc="4d354bd2" md5="d91378cd66c9ff884541b300981efbf2" sha1="c78ea3da96dbc19372b5f46f08d1c46f2795fecf"/>
+		<rom name="MOBILES/LS_R001.IMG" size="75703" crc="965ed10f" md5="47cbd5bd135987519af3aa8a699570b5" sha1="e55d927e4635ab9a4e93d56116824601bfb91d02"/>
+		<rom name="MOBILES/LS_S001.IMG" size="76573" crc="fde2bb15" md5="9a89ddfb2b1d25cfebfff68ab0b7b186" sha1="8ca20352b950d7440473f1e5fc5a54f6e0993758"/>
+		<rom name="MOBILES/LS_SE001.IMG" size="125604" crc="7769ea21" md5="07cd60079dde03918a7ca0b391281c13" sha1="366d3597624b4ccfc89d6f787a3c06cf9ebd4ba4"/>
+		<rom name="MOBILES/LS_SW001.IMG" size="125699" crc="223bcaa2" md5="de18d7e0fdf44280cabbb3ab5b99d8b7" sha1="8919308b30116f48238d2e3528dd6fb5799f34ce"/>
+		<rom name="MOBILES/LS_W001.IMG" size="129052" crc="2c0f1fa4" md5="8305961b307e9a5faf35ce22998d67ae" sha1="a5875b5aebb6e94aedc0f081c4ffc21c90fdbf86"/>
+		<rom name="MOBILES/R2_DN001.IMG" size="29459" crc="4179650f" md5="4a74e1a81654fc3c4ae92b052bac65bd" sha1="15c7dd61c57999bd35d31abede60e201215d9cd9"/>
+		<rom name="MOBILES/R2_DS001.IMG" size="31983" crc="9e1de12c" md5="2f78b12bcf4a0a72cb0e441651e340b9" sha1="c57764bf74222d7fe9ed2c3c17fcd2e416487531"/>
+		<rom name="MOBILES/R2_N0001.IMG" size="37819" crc="a3c1d4fb" md5="94303068bde82061d2a5d1da0dab1a3c" sha1="9e1a27c351f351067e0eb03a278dbc76e158dfce"/>
+		<rom name="MOBILES/R2_NE001.IMG" size="74670" crc="613ea8c6" md5="0dc30b87683fa343ecbe219e5f2fdfb8" sha1="8b6333d5da0afaebd46db5f2e20b982290f181b1"/>
+		<rom name="MOBILES/R2_NW001.IMG" size="74777" crc="f52341e9" md5="93a26027858771013d4ba8f649a58dcf" sha1="e9965ed7a35c13e922ce1cd96b8ca4771be000f0"/>
+		<rom name="MOBILES/R2_R0001.IMG" size="39188" crc="1320b5be" md5="c0059d76662f222ce45d4169f60f6c20" sha1="fdf9b33f3ef4b89bcf195dbb7eec5686fac497b0"/>
+		<rom name="MOBILES/R2_S0001.IMG" size="41723" crc="dfb57561" md5="e345b4e7f8260f00f1230eef02a9ba55" sha1="084261d9abe01db31a98972a5e622b88d8daea3e"/>
+		<rom name="MOBILES/R2_SE001.IMG" size="74298" crc="6ebf4bd5" md5="00250b2158a7d861417002152ff904e0" sha1="b07ef94f6ce1a4362f83ff08ca2a45e47b724c1d"/>
+		<rom name="MOBILES/R2_SW001.IMG" size="73888" crc="4fd7413f" md5="f6ea95e25bd7f3c6e9e44fa22afab673" sha1="a0cfd0589923c65f3410946a1598faec1063378a"/>
+		<rom name="MOBILES/R2_UN001.IMG" size="32683" crc="828cd7b9" md5="f9435036ac4203d302fd1730ffd4785a" sha1="7e5996b3649a75ffbd2da8256ec6913465d8059d"/>
+		<rom name="MOBILES/R2_US001.IMG" size="35816" crc="e4775aed" md5="a07d4a55fc96b8c7ebc85344dde8e82e" sha1="833620b583a6e4361cb608e35e9045a85bdeaf04"/>
+		<rom name="MOBILES/SP_E001.IMG" size="166544" crc="18bce01b" md5="17957432472c17796a706f2e0f80e206" sha1="ecc95f2a6dbf092031c4e8812e6e129398452574"/>
+		<rom name="MOBILES/SP_N001.IMG" size="176927" crc="93b7040f" md5="70e423d79e8d8653e3a87e87afe56fe7" sha1="863163d966562bd08e98a97f73cefb8ea33d5f4c"/>
+		<rom name="MOBILES/SP_R001.IMG" size="99452" crc="f816dc50" md5="1b3f90b09c72e38df91a9be54b586c22" sha1="75df45b6d756a0cfb85fbcac88b7f27fbbdc6485"/>
+		<rom name="MOBILES/SP_S001.IMG" size="172863" crc="b2d19dc2" md5="6853fc5d280da8c4b5c6c38956f12c37" sha1="b61d3c3138cb298e8af32e88516c741a1ffbc6ff"/>
+		<rom name="MOBILES/SP_W001.IMG" size="164906" crc="5c6a60d4" md5="62293f20d404c9acbe2d84664d71e8fe" sha1="20cfa87b947c80b8ca92e147913958d234de76f6"/>
+		<rom name="MOBILES/ST_N001.IMG" size="85718" crc="af888b77" md5="3cae0d4652f4a96d705dcfb335d21680" sha1="74911369909b51a286254d76055e431e4c07776f"/>
+		<rom name="MOBILES/ST_NE001.IMG" size="125441" crc="9226e111" md5="b5d4506d12558a6ded4a3e9b854295b7" sha1="74b3df7a30b0aff999bb30285d5020a7e6f26a99"/>
+		<rom name="MOBILES/ST_NW001.IMG" size="123595" crc="b2e04ebd" md5="ced5df5f4492999af8ead0f380b58c65" sha1="34ca4b25ef90c1909fd45dbc035fac2da1774ca8"/>
+		<rom name="MOBILES/ST_R001.IMG" size="55158" crc="27e905c9" md5="2d43138bde98b0ab4d0c33f11d0717ac" sha1="2df980e9afc86cf625e5fb0e4cb5d7e596e30af6"/>
+		<rom name="MOBILES/ST_S001.IMG" size="73792" crc="a17d0a22" md5="a1608eeef8ca567bfcdd3f6c380385c7" sha1="d90a0d291b904e42fd42813f6a225c960902924e"/>
+		<rom name="MOBILES/ST_SE001.IMG" size="127692" crc="56e6788c" md5="72a82e59ebb33a59071fb5eeb9ea26fa" sha1="efc2ced08b76a1e5f2a41238f07be9e7766c66fb"/>
+		<rom name="MOBILES/ST_SW001.IMG" size="131331" crc="8f8a6d00" md5="ad6f908b6c6315812e828280c028cbb1" sha1="d28bd424ce453fa5bae014a83aeaa070c36aea7b"/>
+		<rom name="MOBILES/YO_DN001.IMG" size="45168" crc="6d8d1eed" md5="4de0db07821a8eb88bc977b4acc81397" sha1="a6ee87c52ac8da31414462b85c42d9ac48b87852"/>
+		<rom name="MOBILES/YO_DS001.IMG" size="49999" crc="2999a6c9" md5="00a57c62857451b35c937b4a9a6ee0fb" sha1="54740226c1b6e5dc76473481d45f4b55ff364c51"/>
+		<rom name="MOBILES/YO_E001.IMG" size="47904" crc="9a127365" md5="18d4eb0983598d82f337775fdae9c858" sha1="835810745ef02d68810f8b0e75fa93cae7246707"/>
+		<rom name="MOBILES/YO_N001.IMG" size="39464" crc="cc4baafb" md5="7429b55d4fa08839850a7da899394fc0" sha1="91a2e0df80dc80ea35dfd586adb6a84eb8a58ff7"/>
+		<rom name="MOBILES/YO_R001.IMG" size="35757" crc="57898d9e" md5="6a37ef224357e30c189d7651fdbd921f" sha1="62b18d068c54d5b874513a201675096f87a7b49a"/>
+		<rom name="MOBILES/YO_S001.IMG" size="40637" crc="21151b23" md5="7d8a62957411cff16ac5be034934d309" sha1="dfd12a2721e7c0bce09d50a513c4dd937cfb6970"/>
+		<rom name="MOBILES/YO_UN001.IMG" size="45138" crc="d2da09c5" md5="9be1c8269e144fe33d908e2d192d972f" sha1="51597c4def67c4d608980cd89bdcc34ef9d424da"/>
+		<rom name="MOBILES/YO_US001.IMG" size="45125" crc="63393c58" md5="795ad972356f76d9c9125093bb3eb800" sha1="b26bcd49de2965b00afabb589fdc1cfdecd21190"/>
+		<rom name="MOBILES/YO_W001.IMG" size="47203" crc="019727be" md5="373c200c5ef98ad40431bccbc1e8c01e" sha1="adc90eeb88bcdb6898c16761b09aa6de3000e919"/>
+		<rom name="README.TXT" size="1365" crc="4cae2d20" md5="65562159b05b980fb9de8f24b80f6323" sha1="ea2767b43eed8d87a31a2da94649150ee76f4d67"/>
+		<rom name="RESOURCE.LST" size="115" crc="c2829e7a" md5="316d4268da3c093c42926c08d939517a" sha1="709950438bef789e99704b3cc47edd4fdc312502"/>
+		<rom name="ROTATION.CFG" size="612" crc="2f04c148" md5="fd90b0081e55cf2c34d9a30e93622305" sha1="bc89428ee07eb0244feefec1517dc05a45fd9fc6"/>
+		<rom name="STRING.LST" size="4372" crc="a61b5d2c" md5="2e7cee608f949e53f33288316f7ad5d6" sha1="057b17b7f5627b7d4cbc612c6e975dc444884e68"/>
+		<rom name="STWPRES.DSF" size="42846" crc="c7a6d714" md5="6150b8738c3378267851a2c98e02ef95" sha1="1305415fa57838b73a56ca5acb5fa5a272d848ec"/>
+		<rom name="SWC.EXE" size="323584" crc="68011f20" md5="467894ac4c148e8d378d14096022aed0" sha1="f5000e0399f11da91dfdbbec4c41ebf7f94b411a"/>
+		<rom name="SWCDIG.DRV" size="4917" crc="1e8144df" md5="2f316239b9de435bd9d32655f84e90a7" sha1="e49bda89f1caf287d527c145480a0eb36b9a197b"/>
+		<rom name="SWCHESS.CFG" size="83" crc="deb8bbe7" md5="6c7c4e7156a6006eebe956b5042f2974" sha1="66cda676839a9e4b9a223c9bb945fa58242545ca" data="U09VTkQNCk1VU0lDUEFSTVMgMjIwIDcgMSAxDQpESUdJVEFMUEFSTVMgMjIwIDcgMSAxDQpFTkdMSVNIDQpUSFJPTkVST09NDQpGQVNUQ1BVDQo="/>
+		<rom name="SWCHESS.GTL" size="5248" crc="6c318683" md5="e38822dbd46f37c39e79726fdf26f9a1" sha1="2ce57281eee372602ee9e6d79f162afbd60eef93"/>
+		<rom name="SWCMID.DRV" size="16263" crc="8a32bcf4" md5="ca471c65d07cca072094a0cb369c1404" sha1="27f560c56ad3a7037cc99b3ae2a0ad517e34102d"/>
 	</game>
 	<game name="Solitile (1989) (Everett Kaser).dosz">
 		<description>Solitile</description>
@@ -29535,6 +30731,44 @@
 		<rom name="UNITS/XCOM_2.TAB" size="566" crc="528354f7" md5="c2beb550385aaccfe171449287e60a68" sha1="6c3a66116e2e5a36f285e0e95fa73319705d65e5" date="1996-08-21 14:50:48"/>
 		<rom name="UNITS/ZOMBIE.PCK" size="30646" crc="f05c3a0b" md5="5b79584785abef1a63d8f66cccecea46" sha1="e66f4bd3aa1150af76d0f24c7f2d4ed7c257d0dd" date="1996-08-21 14:50:48"/>
 		<rom name="UNITS/ZOMBIE.TAB" size="180" crc="88323a4e" md5="df99de4cb437e18ab49e0586b8739bd9" sha1="593632c30409ef118ab216760a3200c370068f33" date="1996-08-21 14:50:48"/>
+	</game>
+	<game name="Ys II Special (1994) (Mantra).dosz">
+		<description>Ys II Special</description>
+		<year>1994</year>
+		<developer>Mantra</developer>
+		<comment>Installed game</comment>
+		<comment_dosc>Sound config and auto start</comment_dosc>
+		<link type="media">https://puredos.github.io/dat-browser/?/Ys+II+Special+(Ko)+(1994)(Aproman)+%5BAction,+Role-Playing+(RPG)%5D</link>
+		<rom name="00.MA1" size="1304459" crc="04a5b83e" md5="7c1eb5c3512249b405287f7438beb952" sha1="f4981269c27b44bbacfa3ca15c2e562215754b0d" date="1994-08-12 10:38:50"/>
+		<rom name="00.MAN" size="4380921" crc="08075044" md5="c310a1c130dd4a0956ba4c75b8a6c1a0" sha1="22a3b427fb5f409b12f215e8ab7afe101caea26f" date="1997-04-10 18:53:04"/>
+		<rom name="01.MA1" size="29160" crc="c045f7a0" md5="8dd5adc3520c17f3be686067921bd465" sha1="9285712541469f6fadc3815b33439d9ec3998a45" date="1994-08-13 19:54:58"/>
+		<rom name="01.MAN" size="2746061" crc="72996878" md5="dbb5cb686da089f0d45b903a0c2d9fcb" sha1="755bc71d7cd9fc7baa3872700c8bcf3f8f621140" date="1997-04-10 18:53:50"/>
+		<rom name="02.MA1" size="216273" crc="da037d5f" md5="8f2ffddf6a62d60c05d7db95d23026db" sha1="4806fd130cfa180bc2aff5c340f1c9cba1540603" date="1994-08-12 23:09:42"/>
+		<rom name="02.MAN" size="4760254" crc="8735c302" md5="14c05ecdb5bea20fb0941a4dc733858b" sha1="385b1d7ef7cd419dc9f7b561a141f69fccc556f4" date="1997-04-10 18:54:34"/>
+		<rom name="03.MAN" size="15442" crc="7a6c45c7" md5="ca6cee76109eda89551e9c376eae63c5" sha1="ca105be29e54d6364767fc81fb5a96a6824dadf7" date="1994-08-13 18:02:16"/>
+		<rom name="04.MAN" size="190447" crc="fdd8d429" md5="722738c445b76ea392a3a5ba2216c0d6" sha1="6bdd1e640405f4c26375baa23d816c604fc3735e" date="1994-08-13 20:16:54"/>
+		<rom name="05.MAN" size="34314" crc="2900b0cc" md5="fcea21c2cd407d395a4c35d54ff82b65" sha1="5571a3dc0f698e0432f8512c09d359fb4a8b25a1" date="1997-04-10 18:54:42"/>
+		<rom name="06.MAN" size="3282102" crc="abd80358" md5="8b72e59b69c677991b1602537bc30fcf" sha1="3f4c6071fe5bd659bfc644adc51e9a64b8199484" date="1997-04-10 18:55:24"/>
+		<rom name="08.MAN" size="1328463" crc="897ddb7a" md5="c96eddc248ede8f36538931474ff618c" sha1="6eee02bd9455dcce54dc642ebc226a928fb48134" date="1997-04-10 18:55:28"/>
+		<rom name="09.MAN" size="1509442" crc="b088180b" md5="2dc30e83529c9515bc10666a9397bcf3" sha1="5f3f1897ecc4b78ec0a25ba80ad82832f1198b51" date="1997-04-10 18:56:44"/>
+		<rom name="10.MA1" size="6984" crc="a413e3de" md5="5dc5e5f7c77f5c2f8847094220c3773c" sha1="02d4de44e105384d6f19d7f10c678dd8e60c74fb" date="1994-08-12 10:46:24"/>
+		<rom name="10.MAN" size="30264" crc="750bfc12" md5="bb2cf18ee6f2cfb7e3aaeae76d5edd19" sha1="1730f5528e944859cae79b44dbb201dbadfd9a45" date="1997-04-10 18:55:28"/>
+		<rom name="11.MAN" size="64403" crc="0563bd88" md5="8992445ba0687015dd75e29c7255bc7d" sha1="61408019c9aa148312ab17b76dc15c808c95620a" date="1997-04-10 18:55:28"/>
+		<rom name="13.MAN" size="5311695" crc="d633fb72" md5="5d355c891d07e790526e1199cd4a8934" sha1="895b341a790692f8a623d4015be0a27568ad3b9a" date="1997-04-10 18:56:08"/>
+		<rom name="14.MAN" size="696921" crc="74d479cd" md5="e8dd8f7f5ccbe8a11d9a3cfb662ee681" sha1="8278d02e7ac62ca746602a3c98a2fae02894e1b1" date="1997-04-10 18:56:14"/>
+		<rom name="15.MAN" size="48742" crc="1dccdda7" md5="60e97f2c0a822a5552e822106490ccab" sha1="d99d0e1cc3b90c9a474553e96ccb7acbb12423c4" date="1997-04-10 18:56:16"/>
+		<rom name="16.MAN" size="19795" crc="184c0b8b" md5="dec6ee44d498af50285d38efc47a42f5" sha1="c34ab6b2948e6fa849e49af4aaf9f3307f9b534e" date="1997-04-10 18:56:18"/>
+		<rom name="17.MAN" size="23623" crc="19ddde04" md5="54f48014eede3bfa638f29fcc5dd5191" sha1="ddad3469b911668eb2a5bd8fb274475fc53fa766" date="1994-08-13 12:57:12"/>
+		<rom name="18.MAN" size="49117" crc="b008fab2" md5="a8bdcfc2b07a6d53a4849803c3dd7c62" sha1="54274318d05f7ac05981dc75351898dba03e747a" date="1997-04-10 18:56:18"/>
+		<rom name="19.MAN" size="261856" crc="b2715d5f" md5="f9b92942330f750c3a9ef87631a86053" sha1="ccb9b5600c433395b9bff7cccd10f2926301da2d" date="1994-08-13 20:26:26"/>
+		<rom name="20.MAN" size="340150" crc="f54a1cfe" md5="5670994eb447bda62b2b0d729f284c41" sha1="e8e921316da7bb5fb79efed2ca29056246561c62" date="1997-04-10 18:56:18"/>
+		<rom name="BACK.DAT" size="61728" crc="4d16b222" md5="99c7bec4ae79e3931a323cb4ca402d8f" sha1="2d07e963bf29ff74b31ff6c17a4a90a599d08478" date="1997-04-10 18:52:08"/>
+		<rom name="BATTLE.INI" size="5" crc="763a8dc6" md5="ad20b43650d9760da69255bb4b6939e2" sha1="366e5e1f3a42873808359c9f842fd834569e0bc1" date="1997-04-14 21:28:52"/>
+		<rom name="DOS4GW.EXE" size="254556" crc="95d35b4d" md5="498c3f0c7bc7a9206a7b1b049f0c3234" sha1="b6c2bed388c6ea1b3c02b941c9541500598f2de0" date="1994-05-31 10:00:00"/>
+		<rom name="ENG.FNT" size="4096" crc="807dea47" md5="528b275c2239e7836e67366094018ec4" sha1="9312dbb0536a6567fa65e726ba223f298338faf3" date="1997-04-10 18:52:08"/>
+		<rom name="HAN.FNT" size="11520" crc="7bd4f967" md5="3c7a78617e4876e1a16c5a3bc789d645" sha1="d239a081d03ebea51608ed930f7f10e1602bffff" date="1997-04-10 18:52:08"/>
+		<rom name="INSTALL.EXE" size="301497" crc="38ccc31c" md5="096bd92e3558cc2149d5ce649a130ede" sha1="6d091a1356f4e31e55a202cae60e3e7ef4669512" date="1997-04-12 12:51:50"/>
+		<rom name="YS2.EXE" size="123520" crc="7eaab34d" md5="8f079b16008e373b254cc1d042b4cfaa" sha1="11bb94ed4907241daa9c34e25cf7f94dc38000cb" date="1997-04-14 18:57:46"/>
 	</game>
 	<game name="Zelda Classic (1999) (Armageddon Games).dosz">
 		<description>Zelda Classic</description>
